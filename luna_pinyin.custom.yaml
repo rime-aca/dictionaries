@@ -1,0 +1,20 @@
+# luna_pinyin.custom.yaml
+#
+# 補靪功能：將朙月拼音的詞庫修改爲朙月拼音擴充詞庫
+#
+# 作者：瑾昀 <cokunhui@gmail.com>
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+# 注意：其他可與朙月拼音共用詞庫的方案（如雙拼方案、朙月拼音・簡化字方案）也可使用本擴充詞庫。只須將本custom.yaml的前面名字改爲對應的輸入方案名字然後放入用戶文件夾重新部署即可。如luna_pinyin_simp.custom.yaml
+#
+#
+
+patch:
+  # 載入朙月拼音擴充詞庫
+  "translator/dictionary": luna_pinyin.extended
