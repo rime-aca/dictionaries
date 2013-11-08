@@ -25,7 +25,7 @@
 
 ---
 name: luna_pinyin.poetry
-version: "2013.11.01"
+version: "2013.11.08"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -726,6 +726,7 @@ use_preset_vocabulary: true
 但覺新來懶上樓
 但道困苦乞爲奴
 但願人長久
+但願長醉不復醒
 但願長醉不願醒
 但飲恨
 佇久河橋欲去
@@ -1640,6 +1641,7 @@ use_preset_vocabulary: true
 君臣已與時際會
 君臣相顧盡霑衣
 君自故鄉來
+君莫停
 君莫舞
 君言不得意
 吟思又接愁邊
@@ -7656,7 +7658,6 @@ use_preset_vocabulary: true
 蝶戀花
 融和天氣
 螢火墜牆陰
-蟬
 蟬休露滿枝
 蟬鳴桑樹間
 蟲網吹黏簾竹
@@ -8599,6 +8600,7 @@ use_preset_vocabulary: true
 鏡湖三百里
 鏡裏花難折
 鏡裏轉變朱顏
+鐘鼎玉帛豈足貴
 鐘鼓饌玉不足貴
 鐫功勒成告萬世
 鐵衣遠戍辛勤久
