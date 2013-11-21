@@ -37,7 +37,7 @@
 
 ---
 name: luna_pinyin.poetry
-version: "2013.11.20"
+version: "2013.11.21"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -123,6 +123,7 @@ use_preset_vocabulary: true
 一從梅粉褪殘粧
 一抹梁州哀徹
 一抹荒煙
+一擧十分當覆盞
 一方柳色楚南天
 一日不見
 一日日
@@ -3529,6 +3530,7 @@ use_preset_vocabulary: true
 別就瑤席
 別後不知君遠近
 別後只知相愧
+別後寄我無辭遠
 別後憶纖腰
 別後書辭
 別後總
@@ -4352,6 +4354,7 @@ use_preset_vocabulary: true
 取蕭祭脂
 取譬不遠
 受侮不少
+受君尚少力方豪
 受命不殆
 受命不遷
 受命既固
@@ -5192,6 +5195,7 @@ use_preset_vocabulary: true
 嗟因循
 嗟情人斷絕
 嗟懷兮眩惑
+嗟我久衰歡漸鮮
 嗟我兄弟
 嗟我婦子
 嗟我懷人
@@ -5218,6 +5222,7 @@ use_preset_vocabulary: true
 嘉我未老
 嘉殽脾臄
 嘉皇既歿終不返兮
+嘉祐五年
 嘉賓式燕以敖
 嘉賓式燕以樂
 嘉賓式燕以衎
@@ -6232,6 +6237,7 @@ use_preset_vocabulary: true
 奉璋峨峨
 奉璋峩峩
 奉賈至舍人早朝大明宮之作
+奉送原甫侍讀出守永興
 奏九歌而舞韶兮
 奏大呂些
 奏清音
@@ -9481,6 +9487,7 @@ use_preset_vocabulary: true
 意有所載而遠逝兮
 意欲兮沈吟
 意欲淩風翔
+意氣論交相得晩
 意氣驕奢劇季倫
 意淺愁難答
 意滿便同春水滿
@@ -10684,6 +10691,7 @@ use_preset_vocabulary: true
 文異豹飾
 文章憎命達
 文章爛兮
+文章驚世知名早
 文緣波些
 文翁翻教授
 文茵暢轂
@@ -10814,6 +10822,7 @@ use_preset_vocabulary: true
 新臺
 新臺有泚
 新臺有洒
+新詩醉墨時一揮
 新酒又添殘酒困
 新雁遠
 新鬼煩冤舊鬼哭
@@ -13471,6 +13480,7 @@ use_preset_vocabulary: true
 歎鳳嗟身否
 歐陽修
 歐陽烱
+歐陽脩
 歛餘紅
 歡極
 歡笑情如舊
@@ -15832,6 +15842,7 @@ use_preset_vocabulary: true
 爲梟爲鴟
 爲此春酒
 爲民不利
+爲物雖微情不淺
 爲猶不遠
 爲猶將多
 爲玉尊
@@ -17958,6 +17969,7 @@ use_preset_vocabulary: true
 笳吹夜邊聲
 笳鼓喧喧漢將營
 笳鼓悲鳴
+筆若駿馬馳平坂
 等多時春不歸來
 等恁時
 等是有家歸未得
@@ -22039,6 +22051,7 @@ use_preset_vocabulary: true
 贈內人
 贈別
 贈別每煩纖手
+贈君以宣城鼠鬚之管
 贈喬侍郎
 贈孟浩然
 贈我江南春色
@@ -23133,6 +23146,7 @@ use_preset_vocabulary: true
 酌一巵
 酌之用匏
 酌以大斗
+酌君以荊州魚枕之蕉
 酌彼康爵
 酌言嘗之
 酌言獻之
@@ -23149,6 +23163,7 @@ use_preset_vocabulary: true
 酒初醒
 酒力衝寒猶弱
 酒卮中有好花枝
+酒如長虹飲滄海
 酒已都醒
 酒市漸闌燈火
 酒徒歷歷坐洲鳥
@@ -25539,6 +25554,7 @@ use_preset_vocabulary: true
 魚在于渚
 魚在在藻
 魚書欲寄何由達
+魚枕蕉
 魚海路常難
 魚潛在淵
 魚眼璣之堅藏
@@ -26010,6 +26026,7 @@ use_preset_vocabulary: true
 鼓鼕鼕
 鼛鼓弗勝
 鼠思泣血
+鼠鬚管
 齊侯之子
 齊千乘
 齊名字於天地兮
