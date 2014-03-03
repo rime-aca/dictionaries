@@ -534,7 +534,7 @@ use_preset_vocabulary: true
 㘗	kv
 㘙	yam
 㘚	ham
-㘛	kan
+㘛	kam
 㘜	chii
 㘝	nie
 㘞	huo
@@ -731,11 +731,11 @@ use_preset_vocabulary: true
 㛣	yvn
 㛤	li
 㛥	ta
-㛦	lan
+㛦	lam
 㛧	man
 㛨	kiang
 㛩	zhou
-㛪	yan
+㛪	yam
 㛫	hi
 㛬	lu
 㛭	hi
@@ -752,11 +752,11 @@ use_preset_vocabulary: true
 㛷	gi
 㛸	shu
 㛹	pian
-㛺	an
+㛺	am
 㛻	kua
 㛼	cha
 㛼	sha
-㛾	hian
+㛾	hiam
 㛿	zhii
 㜂	fong
 㜃	lian
@@ -1176,8 +1176,8 @@ use_preset_vocabulary: true
 㢘	liam
 㢙	kin
 㢚	lu
-㢛	kian
-㢛	yan
+㢛	kiam
+㢛	yam
 㢜	kang
 㢝	su
 㢞	yi
@@ -1287,7 +1287,7 @@ use_preset_vocabulary: true
 㤖	zhu
 㤘	zhou
 㤚	hang
-㤛	nin
+㤛	nim
 㤜	gve
 㤝	chong
 㤞	cha
@@ -1573,7 +1573,7 @@ use_preset_vocabulary: true
 㨙	hie
 㨚	hvn
 㨚	sun
-㨛	shan
+㨛	sham
 㨜	kian
 㨝	hie
 㨞	su
@@ -1713,7 +1713,7 @@ use_preset_vocabulary: true
 㪘	liam
 㪙	ke
 㪚	san
-㪛	zhen
+㪛	zhem
 㪜	chuai
 㪜	duo
 㪝	lian
@@ -2952,7 +2952,7 @@ use_preset_vocabulary: true
 㾙	hi
 㾙	hin
 㾚	hie
-㾛	kin
+㾛	kim
 㾜	kie
 㾝	che
 㾞	you
@@ -4907,7 +4907,7 @@ use_preset_vocabulary: true
 䚿	yin
 䛀	ban
 䛀	fan
-䛁	nan
+䛁	nam
 䛂	yao
 䛃	wan
 䛄	yvan
@@ -4931,8 +4931,8 @@ use_preset_vocabulary: true
 䛕	yv
 䛖	e
 䛗	zhii
-䛘	nin
-䛘	ren
+䛘	nim
+䛘	rem
 䛙	hv
 䛚	lve
 䛛	hui
@@ -4964,7 +4964,7 @@ use_preset_vocabulary: true
 䛰	hun
 䛱	ti
 䛲	man
-䛳	yan
+䛳	yam
 䛴	gi
 䛴	ki
 䛵	shou
@@ -5014,7 +5014,7 @@ use_preset_vocabulary: true
 䜙	am
 䜙	e
 䜚	ta
-䜛	chan
+䜛	cham
 䜜	wei
 䜝	tuan
 䜞	gi
@@ -6189,7 +6189,7 @@ use_preset_vocabulary: true
 䭙	gian
 䭙	gin
 䭚	chuang
-䭛	dan
+䭛	dam
 䭝	kuai
 䭞	yi
 䭟	ye
@@ -8107,7 +8107,7 @@ use_preset_vocabulary: true
 凘	sii
 凙	duo
 凚	gin
-凛	lin
+凛	lim
 凜	lim
 凝	ning
 凞	hi
@@ -9465,8 +9465,8 @@ use_preset_vocabulary: true
 嗘	gi
 嗙	pang
 嗚	wu
-嗛	hian
-嗛	kian
+嗛	hiam
+嗛	kiam
 嗜	shii
 嗝	ge
 嗞	zii
@@ -9804,13 +9804,13 @@ use_preset_vocabulary: true
 囚	ciu
 四	sii
 囜	nin
-囝	gian
+囝	giam
 囝	yve
 回	hui
 囟	cong
 囟	sin
 因	yin
-囡	nan
+囡	nam
 团	tuan
 団	tuan
 囤	dun	18.18%
@@ -10434,7 +10434,7 @@ use_preset_vocabulary: true
 壘	lv	0%
 壙	kuang
 壚	lu
-壛	yan
+壛	yam
 壜	tam
 壝	wei
 壞	guai	0%
@@ -13239,7 +13239,7 @@ use_preset_vocabulary: true
 憘	hi
 憙	hi
 憚	dan
-憛	tan
+憛	tam
 憜	duo
 憝	dui
 憝	dun
@@ -14097,7 +14097,7 @@ use_preset_vocabulary: true
 搙	nuo
 搚	hie
 搚	la
-搛	gian
+搛	giam
 搜	sou
 搝	kiu
 搞	gao
@@ -14534,7 +14534,7 @@ use_preset_vocabulary: true
 敘	sv
 教	giao
 敚	duo
-敛	lian
+敛	liam
 敜	nie
 敝	bi
 敞	chang
@@ -14988,7 +14988,7 @@ use_preset_vocabulary: true
 曄	ye
 曅	ye
 曆	li
-曇	tan
+曇	tam
 曈	tong
 曉	hiao
 曊	fei
@@ -15002,10 +15002,10 @@ use_preset_vocabulary: true
 曎	yi
 曏	siang
 曐	sing
-曑	can
-曑	cen
-曑	san
-曑	shen
+曑	cam
+曑	cem
+曑	sam
+曑	shem
 曒	giao
 曓	bao
 曓	pu
@@ -15929,8 +15929,8 @@ use_preset_vocabulary: true
 様	yang
 槙	dian
 槚	gia
-槛	gian	27.27%
-槛	kan	72.73%
+槛	giam	27.27%
+槛	kam	72.73%
 槜	zui
 槟	bing	34.21%
 槠	zhu
@@ -16395,7 +16395,7 @@ use_preset_vocabulary: true
 歙	she	78.26%
 歙	si	21.74%
 歚	shan
-歛	lian
+歛	liam
 歜	chu
 歝	du
 歝	yi
@@ -17358,8 +17358,8 @@ use_preset_vocabulary: true
 湘	siang
 湙	yi
 湚	yin
-湛	dan	0%
-湛	zhan	100%
+湛	dam	0%
+湛	zham	100%
 湜	shii
 湝	gai
 湝	gie
@@ -17666,7 +17666,7 @@ use_preset_vocabulary: true
 潙	wei
 潚	siao
 潚	su
-潛	cian
+潛	ciam
 潜	ciam
 潝	hi
 潞	lu
@@ -18662,7 +18662,7 @@ use_preset_vocabulary: true
 牾	wu
 牿	gao
 牿	gu
-犀	hi
+犀	si
 犁	li
 犂	li
 犃	pou
@@ -19163,8 +19163,8 @@ use_preset_vocabulary: true
 琘	wen
 琙	yv
 琚	gv
-琛	chen
-琛	shen
+琛	chem
+琛	shem
 琜	lai
 琝	wen
 琞	sheng
@@ -20015,8 +20015,8 @@ use_preset_vocabulary: true
 盍	he
 盎	ang
 盏	zhan
-盐	yan
-监	gian
+盐	yam
+监	giam
 盒	he
 盓	yv
 盔	hui	0%
@@ -20039,10 +20039,10 @@ use_preset_vocabulary: true
 盠	li
 盡	zin
 盢	hv
-監	gian
+監	giam
 盤	pan
 盥	guan
-盦	an
+盦	am
 盧	lu
 盨	sv
 盩	zhou
@@ -20673,7 +20673,7 @@ use_preset_vocabulary: true
 磘	king
 磙	gun
 磚	zhuan
-磛	chan
+磛	cham
 磜	ki
 磜	kie
 磝	ao
@@ -20753,8 +20753,8 @@ use_preset_vocabulary: true
 礘	ki
 礙	ai
 礚	ke
-礛	gian
-礛	lan
+礛	giam
+礛	lam
 礜	kve
 礜	le
 礜	yv
@@ -25012,8 +25012,8 @@ use_preset_vocabulary: true
 蛂	bie
 蛃	bing
 蛄	gu
-蛅	ran
-蛅	zhan
+蛅	ram
+蛅	zham
 蛆	cv	100%
 蛆	zv	0%
 蛇	she	99.95%
@@ -27076,7 +27076,7 @@ use_preset_vocabulary: true
 贘	shang
 贙	hvan
 贚	long
-贛	gan	100%
+贛	gam	100%
 贛	gong	0%
 贜	zang
 贝	bei
@@ -28802,8 +28802,8 @@ use_preset_vocabulary: true
 銚	diao	50%
 銚	yao	50%
 銚	zhao
-銛	sian
-銛	tian
+銛	siam
+銛	tiam
 銜	hiam
 銝	hiu
 銞	gvn
@@ -30055,8 +30055,8 @@ use_preset_vocabulary: true
 雀	kiao	0.21%
 雀	kve	99.79%
 雁	yan
-雂	kian
-雂	kin
+雂	kiam
+雂	kim
 雃	hing
 雃	kian
 雃	ya
@@ -32742,7 +32742,7 @@ use_preset_vocabulary: true
 龘	ta
 龙	long
 龚	gong
-龛	kan
+龛	kam
 龜	gui	99.25%
 龜	gvn	0.75%
 龜	kiu	0%
@@ -41425,7 +41425,7 @@ use_preset_vocabulary: true
 𦛗	lv
 𦛘	he
 𦛙	sheng
-𦛚	nan
+𦛚	nam
 𦛜	han
 𦛜	he
 𦛝	cha
@@ -47494,8 +47494,8 @@ use_preset_vocabulary: true
 𩻗	bu
 𩻘	gian
 𩻚	wu
-𩻛	cen
-𩻛	gin
+𩻛	cem
+𩻛	gim
 𩻜	lin
 𩻝	zhuan
 𩻟	hui
@@ -51222,7 +51222,7 @@ use_preset_vocabulary: true
 南無	nam wu
 南無佛	na mo fo
 南無耶	na mo ye
-南琛	nam chen
+南琛	nam chem
 南箕北斗	nam gi bo dou
 南絃	nam hian
 南腔北調	nam kiang bei diao
@@ -52211,8 +52211,8 @@ use_preset_vocabulary: true
 嗚唈	wu yi
 嗚嗚咽咽	wu wu ye ye
 嗚軋	wu ya
-嗛嗛	kian kian
-嗛志	kian zhii
+嗛嗛	kiam kiam
+嗛志	kiam zhii
 嗟乎	zie hu
 嗟來之食	zie lai zhii shii
 嗟來食	zie lai shii
@@ -52413,7 +52413,7 @@ use_preset_vocabulary: true
 因地	yin di
 因地制宜	yin di zhii yi
 因扎吉	yin zha gi
-囡仔	nan zii
+囡仔	nam zii
 囤塌	tun ta
 囤積	tun zi
 囤積居奇	tun zi gv ki
@@ -55779,7 +55779,7 @@ use_preset_vocabulary: true
 戢翼	zi yi
 戢身	zi shen
 戢鱗	zi lin
-戢鱗潛翼	zi lin cian yi
+戢鱗潛翼	zi lin ciam yi
 戤米囤餓殺了	gai mi dun e sha le
 戧戧	ciang ciang
 戧柱	ciang zhu
@@ -56108,7 +56108,7 @@ use_preset_vocabulary: true
 披枷帶鎖	pi gia dai suo
 披榛	pi zhen
 披榛採蘭	pi zhen cai lan
-披毛犀	pi mao hi
+披毛犀	pi mao si
 披氅	pi chang
 披沙揀金	pi sha gian gim
 披沙簡金	pi sha gian gim
@@ -56777,7 +56777,7 @@ use_preset_vocabulary: true
 搓熟的湯團	cuo shou de tang tuan
 搓粉摶朱	cuo fen tuan zhu
 搔着癢處	sao zhao yang chu
-搖囝仔歌	yao gian zii ge
+搖囝仔歌	yao giam zii ge
 搖擺樂	yao bai yve
 搖旗吶喊	yao ki na ham
 搖曳	yao ye
@@ -59083,7 +59083,7 @@ use_preset_vocabulary: true
 毗鄰	pi lin
 毗陵	pi ling
 毘婆沙部	pi po sha bu
-毘曇宗	pi tan zong
+毘曇宗	pi tam zong
 毛利率	mao li lv
 毛地黃	mao di huang
 毛坯	mao pei
@@ -59997,7 +59997,7 @@ use_preset_vocabulary: true
 湔雪	zian sve
 湔雪前恥	zian sve cian chii
 湖廣熟	hu guang shu
-湛露	zhan lu
+湛露	zham lu
 湝湝	gie gie
 湞水	zhen shui
 湫隘	ziao ai
@@ -60164,9 +60164,9 @@ use_preset_vocabulary: true
 潘金蓮給武松敬酒	pan gim lian gei wu song gin ziu
 潘陸江海	pan lu giang hai
 潙仰宗	gui yang zong
-潛水炸彈	cian shui zha dan
-潛藏	cian cang
-潛行	cian hing
+潛水炸彈	ciam shui zha dan
+潛藏	ciam cang
+潛行	ciam hing
 潟湖	si hu
 潟滷	si lu
 潟鹵	si lu
@@ -60552,7 +60552,7 @@ use_preset_vocabulary: true
 熲熲	giong giong
 熾盛	chii sheng
 燂爍	ciam shuo
-燃犀溫嶠	ran hi wen kiao
+燃犀溫嶠	ran si wen kiao
 燃膏繼晷	ran gao gi gui
 燈檠	deng king
 燋心	ziao sim
@@ -60673,7 +60673,7 @@ use_preset_vocabulary: true
 牌榜	pai bang
 牙磣	ya chem
 牙笏	ya hu
-牙簽犀軸	ya ciam hi zhou
+牙簽犀軸	ya ciam si zhou
 牙籤玉軸	ya ciam yv zhou
 牙籤萬軸	ya ciam wan zhou
 牙籤錦軸	ya ciam gim zhou
@@ -60721,8 +60721,8 @@ use_preset_vocabulary: true
 特高頻率	te gao pin lv
 牽掣	kian che
 牽裳	kian chang
-犀牛角	hi niu giao
-犀角	hi giao
+犀牛角	si niu giao
+犀角	si giao
 犁地	li di
 犄角	gi giao
 犄角之勢	gi giao zhii shii
@@ -61004,9 +61004,9 @@ use_preset_vocabulary: true
 理事長	li shii zhang
 理塞	li se
 理番通事	li fan tong shii
-琛板	chen ban
-琛貢	chen gong
-琛賮	chen zin
+琛板	chem ban
+琛貢	chem gong
+琛賮	chem zin
 琤琤	cheng cheng
 琤瑽	cheng cong
 琦行	ki hing
@@ -62192,7 +62192,7 @@ use_preset_vocabulary: true
 祕探	mi tam
 祕方	mi fang
 祕書	mi shu
-祕書監	mi shu gian
+祕書監	mi shu giam
 祕書省	mi shu sheng
 祕書長	mi shu zhang
 祕本	mi ben
@@ -64284,7 +64284,7 @@ use_preset_vocabulary: true
 葉一茜	ye yi cian
 葉公好龍	she gong hao long
 葉公好龍	ye gong hao long
-葉名琛	ye ming chen
+葉名琛	ye ming chem
 葉塊繁殖	ye kuai fan zhii
 葉子菸	ye zii yan
 葉尼塞河	ye ni se he
@@ -65063,7 +65063,7 @@ use_preset_vocabulary: true
 行政法規	hing zheng fa gui
 行政法院	hing zheng fa yvan
 行政犯	hing zheng fan
-行政監督	hing zheng gian du
+行政監督	hing zheng giam du
 行政立法	hing zheng li fa
 行政管理	hing zheng guan li
 行政處分	hing zheng chu fen
@@ -65162,7 +65162,7 @@ use_preset_vocabulary: true
 行當	hang dang
 行疾如飛	hing zi ru fei
 行百里者半於九十	hing bai li zhe ban yv giu shii
-行監坐守	hing gian zuo shou
+行監坐守	hing giam zuo shou
 行省	hing sheng
 行看子	hing kan zii
 行眠立盹	hing mian li dun
@@ -66747,7 +66747,7 @@ use_preset_vocabulary: true
 躡景	nie ying
 躡景追飛	nie ying zhui fei
 躡足	nie zu
-躡足潛蹤	nie zu cian zong
+躡足潛蹤	nie zu ciam zong
 躡足附耳	nie zu fu er
 躡蹤	nie zong
 躡蹻擔簦	nie gve dam deng
@@ -67432,8 +67432,8 @@ use_preset_vocabulary: true
 郃陽縣	ge yang hian
 郊禋	giao yin
 郎伯	lang bo
-郎潛白髮	lang cian bai fa
-郎潛白髮	lang cian bo fa
+郎潛白髮	lang ciam bai fa
+郎潛白髮	lang ciam bo fa
 郝隆晒書	hao long shai shu
 郢都	ying du
 部分地區	bu fen di kv
@@ -68021,7 +68021,7 @@ use_preset_vocabulary: true
 鉋花水	bao hua shui
 鉗且	kiam zv
 鉗口撟舌	kiam kou giao she
-鉛刀銛	kian dao sian
+鉛刀銛	kian dao siam
 鉛槧	kian ciam
 鉤弦	gou hian
 鉤心鬥角	gou sim dou giao
@@ -68069,8 +68069,8 @@ use_preset_vocabulary: true
 銘肌鏤骨	ming gi lou gu
 銚子	diao zii
 銚芅	yao yi
-銛利	sian li
-銛諸	sian zhu
+銛利	siam li
+銛諸	siam zhu
 銳角	rui giao
 銷差	siao chai
 銷行	siao hing
@@ -68752,7 +68752,7 @@ use_preset_vocabulary: true
 阿拉伯膠樹	a la bo giao shu
 阿拉伯語	a la bo yv
 阿是穴	e shii hve
-阿毗曇	a pi tian
+阿毗曇	a pi tiam
 阿毗達磨	a pi da mo
 阿獃	a dai
 阿甘正傳	a gam zheng zhuan
@@ -69454,7 +69454,7 @@ use_preset_vocabulary: true
 頭重身輕	tou zhong shen king
 頭髲	tou bi
 頮濯	hui zhuo
-頰嗛	gia kian
+頰嗛	gia kiam
 頸血	ging hie
 頸血	ging hve
 頹圮	tui pi

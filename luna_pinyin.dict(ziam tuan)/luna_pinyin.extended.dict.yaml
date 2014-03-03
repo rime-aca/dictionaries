@@ -123845,10 +123845,10 @@ import_tables:
 
 #以下爲需要保留注音防止多音字註音錯誤的詞彙
 一丁目	yi ding mu	1
-一不小心被	yi bu siao sin bei	1
+一不小心被	yi bu siao sim bei	1
 一不留神	yi bu liu shen	1
 一九七零年代	yi giu ci ling nian dai	1
-一九三零年代	yi giu san ling nian dai	1
+一九三零年代	yi giu sam ling nian dai	1
 一九九零年代	yi giu giu ling nian dai	1
 一九二零年代	yi giu er ling nian dai	1
 一九五零年代	yi giu wu ling nian dai	1
@@ -123861,7 +123861,7 @@ import_tables:
 一傳再傳	yi chuan zai chuan	1
 一傳十十傳百	yi chuan shii shii chuan bai	1
 一兩百	yi liang bai	1
-一千三	yi cian san	1
+一千三	yi cian sam	1
 一向都是	yi siang dou shii	1
 一吭不響	yi keng bu hiang	1
 一夕數變	yi si shu bian	1
@@ -123878,7 +123878,7 @@ import_tables:
 一波數折	yi bo shu zhe	1
 一波波	yi bo bo	4
 一生一次	yi sheng yi cii	1
-一白遮三醜	yi bai zhe san chou	1
+一白遮三醜	yi bai zhe sam chou	1
 一百一十	yi bai yi shii	1
 一百九	yi bai giu	1
 一百二	yi bai er	1
@@ -123895,7 +123895,7 @@ import_tables:
 一筆不苟	yi bi bu gou	1
 一簞食	yi dan sii	1
 一粥一飯	yi zhou yi fan	1
-一而再再而三	yi er zai zai er san	1
+一而再再而三	yi er zai zai er sam	1
 一肩挑起	yi gian tiao ki	1
 一舉手一投足	yi gv shou yi tou zu	1
 一般般	yi ban ban	1
@@ -123912,8 +123912,8 @@ import_tables:
 一零四	yi ling sii	1
 一青窈	yi cing yao	1
 一鱗半爪	yi lin ban zhao	1
-一點也不爲過	yi dian ye bu wei guo	1
-一點擬燈蛾	yi dian ni deng e	1
+一點也不爲過	yi diam ye bu wei guo	1
+一點擬燈蛾	yi diam ni deng e	1
 丁守中	ding shou zhong	2
 丁春誠	ding chun cheng	1
 丁苡柔	ding yi rou	1
@@ -123923,7 +123923,7 @@ import_tables:
 七六七	ci liu ci	1
 七六人	ci liu ren	1
 七六人隊	ci liu ren dui	1
-七十三	ci shii san	1
+七十三	ci shii sam	1
 七十八巷	ci shii ba hiang	1
 七十六	ci shii liu	1
 七家灣溪	ci gia wan hi	1
@@ -123931,105 +123931,105 @@ import_tables:
 七弄	ci nong	1
 七月底	ci yve di	1
 七零年代	ci ling nian dai	1
-三丁目	san ding mu	1
-三三三	san san san	1
-三三萬多	san san wan duo	1
-三不政策	san bu zheng ce	1
-三代目	san dai mu	1
-三個小時	san ge siao shii	1
-三十七	san shii ci	1
-三十七八	san shii ci ba	1
-三十三	san shii san	1
-三十六巷	san shii liu hiang	1
-三十四	san shii sii	1
-三十多	san shii duo	1
-三十多歲	san shii duo sui	1
-三十幾	san shii gi	1
-三千一	san cian yi	1
-三向雲臺	san siang yvn tai	1
-三周	san zhou	1
-三周年	san zhou nian	1
-三商巧福	san shang kiao fu	1
-三商虎隊	san shang hu dui	1
-三商隊	san shang dui	1
-三商電	san shang dian	1
-三四十	san sii shii	1
-三國誌	san guo zhii	1
-三壘	san lei	1
-三多商圈站	san duo shang kvan zhan	1
-三多國中	san duo guo zhong	1
-三姓橋	san sing kiao	1
-三宅一生	san zhai yi sheng	1
-三審	san shen	1
-三寶飯	san bao fan	1
-三小時後	san siao shii hou	1
-三峽區	san hia kv	1
-三峽國中	san hia guo zhong	1
-三峽國小	san hia guo siao	1
-三弄	san nong	1
-三弦樂器	san hian yve ki	1
-三弦琴	san hian kin	1
-三晃	san huang	1
-三月初	san yve chu	1
-三杯雞翅	san bei gi chii	1
-三杯鮮魷	san bei sian you	1
-三核	san he	1
-三棒	san bang	1
-三殺	san sha	1
-三民國中	san min guo zhong	1
-三民國小	san min guo siao	2
-三氧化二砷	san yang hua er shen	1
-三氯醋酸	san lv cu suan	1
-三洋纖	san yang sian	1
-三洋電	san yang dian	1
-三浦	san pu	2
-三澤光晴	san ze guang cing	1
-三牲酒禮	san sheng ziu li	1
-三瓶	san ping	1
-三百部	san bai bu	1
-三石琴乃	san shii kin nai	1
-三秒膠	san miao giao	1
-三稜鏡	san leng ging	1
-三立新聞臺	san li sin wen tai	1
-三立臺灣臺	san li tai wan tai	1
-三立都會臺	san li du hui tai	1
-三管齊下	san guan ci hia	1
-三義木雕	san yi mu diao	1
-三聚氫胺	san zv king an	1
-三興國小	san hing guo siao	1
-三色飯	san se fan	1
-三芝國中	san zhii guo zhong	1
-三花	san hua	1
-三芳	san fang	1
-三英戰呂布	san ying zhan lv bu	1
-三萬五	san wan wu	1
-三萬八	san wan ba	1
-三萬多	san wan duo	1
-三角公園	san giao gong yvan	1
-三重區	san chong kv	1
-三重商工	san chong shang gong	1
-三鐵共構	san tie gong gou	1
-三閭大夫	san lv dai fu	1
-三隻眼	san zhii yan	1
-三零一條款	san ling yi tiao kuan	1
-三零年代	san ling nian dai	1
-三項是	san hiang shii	1
-三鳳中街	san fong zhong gie	1
-三鳳宮	san fong gong	1
-三點半	san dian ban	1
-三點多	san dian duo	1
+三丁目	sam ding mu	1
+三三三	sam sam sam	1
+三三萬多	sam sam wan duo	1
+三不政策	sam bu zheng ce	1
+三代目	sam dai mu	1
+三個小時	sam ge siao shii	1
+三十七	sam shii ci	1
+三十七八	sam shii ci ba	1
+三十三	sam shii sam	1
+三十六巷	sam shii liu hiang	1
+三十四	sam shii sii	1
+三十多	sam shii duo	1
+三十多歲	sam shii duo sui	1
+三十幾	sam shii gi	1
+三千一	sam cian yi	1
+三向雲臺	sam siang yvn tai	1
+三周	sam zhou	1
+三周年	sam zhou nian	1
+三商巧福	sam shang kiao fu	1
+三商虎隊	sam shang hu dui	1
+三商隊	sam shang dui	1
+三商電	sam shang dian	1
+三四十	sam sii shii	1
+三國誌	sam guo zhii	1
+三壘	sam lei	1
+三多商圈站	sam duo shang kvan zham	1
+三多國中	sam duo guo zhong	1
+三姓橋	sam sing kiao	1
+三宅一生	sam zhai yi sheng	1
+三審	sam shem	1
+三寶飯	sam bao fan	1
+三小時後	sam siao shii hou	1
+三峽區	sam hia kv	1
+三峽國中	sam hia guo zhong	1
+三峽國小	sam hia guo siao	1
+三弄	sam nong	1
+三弦樂器	sam hian yve ki	1
+三弦琴	sam hian kim	1
+三晃	sam huang	1
+三月初	sam yve chu	1
+三杯雞翅	sam bei gi chii	1
+三杯鮮魷	sam bei sian you	1
+三核	sam he	1
+三棒	sam bang	1
+三殺	sam sha	1
+三民國中	sam min guo zhong	1
+三民國小	sam min guo siao	2
+三氧化二砷	sam yang hua er shen	1
+三氯醋酸	sam lv cu suan	1
+三洋纖	sam yang siam	1
+三洋電	sam yang dian	1
+三浦	sam pu	2
+三澤光晴	sam ze guang cing	1
+三牲酒禮	sam sheng ziu li	1
+三瓶	sam ping	1
+三百部	sam bai bu	1
+三石琴乃	sam shii kim nai	1
+三秒膠	sam miao giao	1
+三稜鏡	sam leng ging	1
+三立新聞臺	sam li sin wen tai	1
+三立臺灣臺	sam li tai wan tai	1
+三立都會臺	sam li du hui tai	1
+三管齊下	sam guan ci hia	1
+三義木雕	sam yi mu diao	1
+三聚氫胺	sam zv king an	1
+三興國小	sam hing guo siao	1
+三色飯	sam se fan	1
+三芝國中	sam zhii guo zhong	1
+三花	sam hua	1
+三芳	sam fang	1
+三英戰呂布	sam ying zhan lv bu	1
+三萬五	sam wan wu	1
+三萬八	sam wan ba	1
+三萬多	sam wan duo	1
+三角公園	sam giao gong yvan	1
+三重區	sam chong kv	1
+三重商工	sam chong shang gong	1
+三鐵共構	sam tie gong gou	1
+三閭大夫	sam lv dai fu	1
+三隻眼	sam zhii yan	1
+三零一條款	sam ling yi tiao kuan	1
+三零年代	sam ling nian dai	1
+三項是	sam hiang shii	1
+三鳳中街	sam fong zhong gie	1
+三鳳宮	sam fong gong	1
+三點半	sam diam ban	1
+三點多	sam diam duo	1
 上下學	shang hia hve	11
 上不着天	shang bu zhao tian	1
-上乘三家	shang cheng san gia	1
+上乘三家	shang cheng sam gia	1
 上凍下藏	shang dong hia cang	1
-上呼吸道感染	shang hu hi dao gan ran	1
+上呼吸道感染	shang hu hi dao gam ram	1
 上啊	shang a	1
 上天無路入地無門	shang tian wu lu ru di wu men	1
 上山採藥	shang shan cai yao	1
 上曜	shang yao	1
-上海音樂院	shang hai yin yve yvan	1
+上海音樂院	shang hai yim yve yvan	1
 上白澤	shang bai ze	1
-上白澤慧音	shang bai ze hui yin	1
+上白澤慧音	shang bai ze hui yim	1
 上百位	shang bai wei	1
 上百個	shang bai ge	1
 上百部	shang bai bu	1
@@ -124053,10 +124053,10 @@ import_tables:
 不去學	bu kv hve	1
 不可燃	bu ke ran	1
 不可置喙	bu ke zhii hui	1
-不可能的任務	bu ke neng de ren wu	1
+不可能的任務	bu ke neng de rem wu	1
 不吊	bu diao	1
 不吝於	bu lin yv	1
-不含郵	bu han you	1
+不含郵	bu ham you	1
 不問世事	bu wen shii shii	1
 不單單	bu dan dan	1
 不外乎是	bu wai hu shii	1
@@ -124064,14 +124064,14 @@ import_tables:
 不夠長	bu gou chang	1
 不大的	bu da de	1
 不太妙	bu tai miao	1
-不太敢	bu tai gan	1
+不太敢	bu tai gam	1
 不如人意	bu ru ren yi	1
 不學好	bu hve hao	1
 不定時炸彈	bu ding shii zha dan	1
 不容小看	bu rong siao kan	1
 不容小覷	bu rong siao cv	1
 不容於	bu rong yv	1
-不小心就	bu siao sin ziu	1
+不小心就	bu siao sim ziu	1
 不少次了	bu shao cii le	1
 不必着急	bu bi zhao gi	1
 不思議	bu sii yi	1
@@ -124079,19 +124079,19 @@ import_tables:
 不惡	bu e	1
 不成人形	bu cheng ren hing	1
 不抱希望	bu bao hi wang	1
-不擔心	bu dan sin	1
+不擔心	bu dam sim	1
 不支援	bu zhii yvan	1
 不改其道	bu gai ki dao	1
-不敢或忘	bu gan huo wang	1
-不敢掉以輕心	bu gan diao yi king sin	1
+不敢或忘	bu gam huo wang	1
+不敢掉以輕心	bu gam diao yi king sim	1
 不會在	bu hui zai	1
 不會笑	bu hui siao	1
 不會輸	bu hui shu	1
 不期而至	bu ki er zhii	1
-不死三振	bu sii san zhen	1
-不沾鍋	bu zhan guo	1
+不死三振	bu sii sam zhen	1
+不沾鍋	bu zham guo	1
 不溶於水	bu rong yv shui	1
-不甚公平	bu shen gong ping	1
+不甚公平	bu shem gong ping	1
 不用再	bu yong zai	1
 不由自主地	bu you zii zhu de	1
 不瘦	bu shou	1
@@ -124154,20 +124154,20 @@ import_tables:
 中低收入戶	zhong di shou ru hu	1
 中信房屋	zhong sin fang wu	1
 中信投信	zhong sin tou sin	1
-中信金	zhong sin gin	1
-中信金控	zhong sin gin kong	1
+中信金	zhong sin gim	1
+中信金控	zhong sin gim kong	1
 中信集團	zhong sin zi tuan	1
-中信飯店	zhong sin fan dian	1
+中信飯店	zhong sin fan diam	1
 中信鯨	zhong sin ging	1
 中共暴政	zhong gong bao zheng	1
 中共獨裁暴政	zhong gong du cai bao zheng	1
 中友百貨	zhong you bai huo	2
-中和中學站	zhong he zhong hve zhan	1
+中和中學站	zhong he zhong hve zham	1
 中和交流道	zhong he giao liu dao	1
 中和區	zhong he kv	1
 中和隧道	zhong he sui dao	1
 中國科技大學	zhong guo ke gi da hve	1
-中坡南路	zhong po nan lu	1
+中坡南路	zhong po nam lu	1
 中型客車	zhong hing ke che	1
 中場休息	zhong chang hiu si	1
 中天娛樂臺	zhong tian yv le tai	1
@@ -124181,7 +124181,7 @@ import_tables:
 中小企業處	zhong siao ki ye chu	3
 中居正廣	zhong gv zheng guang	1
 中山北路口	zhong shan bei lu kou	1
-中山南路口	zhong shan nan lu kou	1
+中山南路口	zhong shan nam lu kou	1
 中山醫學	zhong shan yi hve	1
 中強光電	zhong kiang guang dian	1
 中性色	zhong hing se	1
@@ -124195,10 +124195,10 @@ import_tables:
 中研院動物所	zhong yan yvan dong wu suo	1
 中研院長	zhong yan yvan zhang	1
 中等專業	zhong deng zhuan ye	1
-中纖	zhong sian	1
+中纖	zhong siam	1
 中臺科大	zhong tai ke da	1
 中草藥膳	zhong cao yao shan	1
-中華三路	zhong hua san lu	1
+中華三路	zhong hua sam lu	1
 中華民國頌	zhong hua min guo song	1
 中華職棒聯盟	zhong hua zhii bang lian meng	1
 中藥商	zhong yao shang	1
@@ -124206,13 +124206,13 @@ import_tables:
 中越合作	zhong yve he zuo	1
 串燒肉	chuan shao rou	1
 丹丹漢堡	dan dan han bao	1
-丹佛金塊	dan fo gin kuai	1
-丹佛金塊隊	dan fo gin kuai dui	1
+丹佛金塊	dan fo gim kuai	1
+丹佛金塊隊	dan fo gim kuai dui	1
 丹堤	dan di	1
-丹大林道	dan da lin dao	1
+丹大林道	dan da lim dao	1
 丹錐浮標	dan zhui fu biao	1
 丹麥籍	dan mai zi	1
-主任祕書	zhu ren mi shu	1
+主任祕書	zhu rem mi shu	1
 主從式	zhu cong shii	1
 主從關係	zhu cong guan hi	1
 主機板廠	zhu gi ban chang	1
@@ -124232,7 +124232,7 @@ import_tables:
 之鑰	zhii yao	1
 乘時而興	cheng shii er hing	1
 乘車日	cheng che rii	1
-乙帆	yi fan	1
+乙帆	yi fam	1
 乙玲	yi ling	1
 乙醯胺酚	yi hi an fen	1
 九二一地震	giu er yi di zhen	1
@@ -124240,14 +124240,14 @@ import_tables:
 九份芋圓	giu fen yv yvan	1
 九份草仔粿	giu fen cao zai guo	1
 九六年	giu liu nian	1
-九分之三	giu fen zhii san	1
+九分之三	giu fen zhii sam	1
 九太	giu tai	1
 九巷	giu hiang	1
 九弄	giu nong	1
 九歌兒童劇團	giu ge er tong gv tuan	2
 九百多	giu bai duo	1
 九降風	giu giang fong	1
-九陰真經	giu yin zhen ging	1
+九陰真經	giu yim zhen ging	1
 九零年代	giu ling nian dai	1
 也不忘	ye bu wang	1
 也不精	ye bu zing	1
@@ -124283,21 +124283,21 @@ import_tables:
 事有蹊蹺	shii you hi kiao	1
 事業線	shii ye sian	1
 事業處	shii ye chu	1
-事涉敏感	shii she min gan	1
+事涉敏感	shii she min gam	1
 事象地平面	shii siang di ping mian	1
 二一六巷	er yi liu hiang	1
 二丁掛磁磚	er ding gua cii zhuan	1
 二丁目	er ding mu	1
-二三五	er san wu	1
-二三十	er san shii	1
-二三四	er san sii	1
+二三五	er sam wu	1
+二三十	er sam shii	1
+二三四	er sam sii	1
 二二零	er er ling	1
 二仁溪	er ren hi	1
 二信中學	er sin zhong hve	1
-二六三	er liu san	1
+二六三	er liu sam	1
 二十二史劄記	er shii er shii zha gi	1
 二十二巷	er shii er hiang	1
-二壘審	er lei shen	1
+二壘審	er lei shem	1
 二巷	er hiang	1
 二弄	er nong	1
 二期水稻	er ki shui dao	1
@@ -124318,24 +124318,24 @@ import_tables:
 五六百	wu liu bai	1
 五六萬	wu liu wan	1
 五六零年代	wu liu ling nian dai	1
-五六點	wu liu dian	1
-五分之三	wu fen zhii san	1
+五六點	wu liu diam	1
+五分之三	wu fen zhii sam	1
 五分埔	wu fen pu	1
 五分局長	wu fen gv zhang	1
 五十公尺	wu shii gong chii	1
 五十六	wu shii liu	1
 五十四巷	wu shii sii hiang	1
 五千六	wu cian liu	1
-五四三	wu sii san	1
+五四三	wu sii sam	1
 五塊厝	wu kuai cuo	1
-五塊厝站	wu kuai cuo zhan	1
+五塊厝站	wu kuai cuo zham	1
 五娘	wu niang	1
-五弦琴	wu hian kin	1
+五弦琴	wu hian kim	1
 五星物語	wu sing wu yv	1
 五更腸旺	wu geng chang wang	1
 五洲製藥廠	wu zhou zhii yao chang	1
 五爪蘋果	wu zhua ping guo	1
-五百三	wu bai san	1
+五百三	wu bai sam	1
 五百多	wu bai duo	1
 五股工業區	wu gu gong ye kv	1
 五色線	wu se sian	1
@@ -124347,7 +124347,7 @@ import_tables:
 亞成鳥	ya cheng niao	1
 亞斯伯格	ya sii bo ge	1
 亞曼尼	ya man ni	1
-亞森羅蘋	ya sen luo pin	1
+亞森羅蘋	ya sem luo pin	1
 亞歷山大城	ya li shan da cheng	1
 亞歷桑那	ya li sang na	1
 亞歷桑那州	ya li sang na zhou	1
@@ -124356,7 +124356,7 @@ import_tables:
 亞特蘭大日報	ya te lan da rii bao	1
 亞特蘭大老鷹	ya te lan da lao ying	1
 亞特蘭提斯號	ya te lan ti sii hao	1
-亞都飯店	ya du fan dian	1
+亞都飯店	ya du fan diam	1
 亞都麗緻	ya du li zhii	1
 交互蹲跳	giao hu dun tiao	1
 交差了事	giao chai liao shii	1
@@ -124372,7 +124372,7 @@ import_tables:
 京城銀	ging cheng yin	1
 京城銀行	ging cheng yin hang	1
 京瓷	ging cii	1
-京站廣場	ging zhan guang chang	1
+京站廣場	ging zham guang chang	1
 京華城	ging hua cheng	1
 京華投信	ging hua tou sin	1
 京葉線	ging ye sian	1
@@ -124388,29 +124388,29 @@ import_tables:
 人家在問	ren gia zai wen	1
 人工洗車	ren gong si che	1
 人強	ren kiang	1
-人才培訓中心	ren cai pei hvn zhong sin	1
+人才培訓中心	ren cai pei hvn zhong sim	1
 人有悲歡離合	ren you bei huan li he	1
 人爲萬物	ren wei wan wu	1
 人物側寫	ren wu ce sie	1
 人畜無害	ren chu wu hai	1
 人社學院	ren she hve yvan	1
 人算不如	ren suan bu ru	1
-人臉辨識系統	ren lian bian shii hi tong	1
+人臉辨識系統	ren liam bian shii hi tong	1
 人言藉藉	ren yan zi zi	1
 人身保護	ren shen bao hu	1
 人造地球	ren zao di kiu	1
-人造林	ren zao lin	1
+人造林	ren zao lim	1
 人間四月天	ren gian sii yve tian	1
 人類學所	ren lei hve suo	1
 人類學界	ren lei hve gie	1
 人類學系	ren lei hve hi	1
 人類學組	ren lei hve zu	1
 人類學者	ren lei hve zhe	1
-什錦炒飯	shii gin chao fan	1
+什錦炒飯	shii gim chao fan	1
 什麼地步	shen me di bu	1
 什麼碗糕	shen me wan gao	1
 仁者俠醫	ren zhe hia yi	1
-今朝有酒	gin zhao you ziu	1
+今朝有酒	gim zhao you ziu	1
 介不介意	gie bu gie yi	1
 介係詞	gie hi cii	1
 介紹到	gie shao dao	1
@@ -124433,7 +124433,7 @@ import_tables:
 他請的	ta cing de	1
 他鄉遇故	ta hiang yv gu	1
 仙人洞文化	sian ren dong wen hua	1
-仙劍奇俠傳	sian gian ki hia zhuan	1
+仙劍奇俠傳	sian giam ki hia zhuan	1
 仙女棒	sian nv bang	1
 仙履奇緣	sian lv ki yvan	1
 仙術師	sian shu shii	1
@@ -124450,9 +124450,9 @@ import_tables:
 以後再說	yi hou zai shuo	1
 以衆暴寡	yi zhong bao gua	1
 仲介商	zhong gie shang	1
-任板	ren ban	1
-任督二脈	ren du er mai	1
-任職於	ren zhii yv	1
+任板	rem ban	1
+任督二脈	rem du er mai	1
+任職於	rem zhii yv	1
 份工作	fen gong zuo	1
 份數	fen shu	1
 企劃處長	ki hua chu zhang	1
@@ -124474,7 +124474,7 @@ import_tables:
 休士頓火箭隊	hiu shii dun huo zian dui	1
 休息區	hiu si kv	1
 休斯	hiu sii	1
-休閒購物中心	hiu hian gou wu zhong sin	1
+休閒購物中心	hiu hian gou wu zhong sim	1
 伴我成長	ban wo cheng zhang	1
 伸手不見	shen shou bu gian	1
 伺服器端	sii fu ki duan	1
@@ -124495,8 +124495,8 @@ import_tables:
 低學歷	di hve li	1
 低放電率	di fang dian lv	1
 低效率	di hiao lv	2
-低污染	di wu ran	1
-低沈	di chen	1
+低污染	di wu ram	1
+低沈	di chem	1
 低溼度	di shii du	1
 低稅率	di shui lv	1
 低窪地	di wa di	1
@@ -124514,7 +124514,7 @@ import_tables:
 住都局	zhu du gv	1
 住都局長	zhu du gv zhang	1
 佐佐木小次郎	zuo zuo mu siao cii lang	1
-佔其中	zhan ki zhong	1
+佔其中	zham ki zhong	1
 何不食肉糜	he bu shii rou mi	1
 何厝國小	he cuo guo siao	1
 何況說	he kuang shuo	1
@@ -124523,14 +124523,14 @@ import_tables:
 余陳月瑛	yv chen yve ying	13
 佛光山寺	fo guang shan sii	1
 佛州	fo zhou	2
-佛心	fo sin	1
-佛心來的	fo sin lai de	1
-佛手柑滴	fo shou gan di	1
+佛心	fo sim	1
+佛心來的	fo sim lai de	1
+佛手柑滴	fo shou gam di	1
 佛教界	fo giao gie	1
 佛朗明哥	fo lang ming ge	2
 佛羅倫斯	fo luo lun sii	1
 佛羅稜薩	fo luo leng sa	1
-佛羅里達馬林	fo luo li da ma lin	1
+佛羅里達馬林	fo luo li da ma lim	1
 佛雷斯諾	fo lei sii nuo	1
 佛雷斯諾市	fo lei sii nuo shii	1
 作不完	zuo bu wan	1
@@ -124570,12 +124570,12 @@ import_tables:
 依他起性	yi ta ki hing	1
 依利莎白港	yi li sha bai gang	1
 依山傍海	yi shan bang hai	1
-侵入式	cin ru shii	1
+侵入式	cim ru shii	1
 便不容易	bian bu rong yi	1
 便利屋	bian li wu	1
 便利貼	bian li tie	1
 便宜的	pian yi de	1
-便尋找	bian svn zhao	1
+便尋找	bian svm zhao	1
 便已經	bian yi ging	1
 便民化	bian min hua	1
 便當袋	bian dang dai	1
@@ -124599,8 +124599,8 @@ import_tables:
 信望愛	sin wang ai	1
 信濃	sin nong	1
 信用部	sin yong bu	1
-信義國中站	sin yi guo zhong zhan	1
-信義店	sin yi dian	1
+信義國中站	sin yi guo zhong zham	1
+信義店	sin yi diam	1
 信義新天地	sin yi sin tian di	1
 信義計畫區	sin yi gi hua kv	1
 信義誠品	sin yi cheng pin	1
@@ -124610,7 +124610,7 @@ import_tables:
 個月底	ge yve di	1
 個案數	ge an shu	1
 個食物	ge shii wu	1
-倒三角形	dao san giao hing	1
+倒三角形	dao sam giao hing	1
 倒不倒楣	dao bu dao mei	1
 倒垃圾	dao le se	1
 倒完了	dao wan le	1
@@ -124629,7 +124629,7 @@ import_tables:
 偏暖	pian nuan	1
 偏紅	pian hong	1
 偏綠	pian lv	1
-偏藍	pian lan	1
+偏藍	pian lam	1
 做不久	zuo bu giu	1
 做不出來	zuo bu chu lai	1
 做噁	zuo wu	1
@@ -124652,7 +124652,7 @@ import_tables:
 側開	ce kai	1
 側風	ce fong	1
 偵一組長	zhen yi zu zhang	1
-偵三隊	zhen san dui	1
+偵三隊	zhen sam dui	1
 偵六隊	zhen liu dui	1
 偵查庭	zhen cha ting	1
 偷吃步	tou chii bu	1
@@ -124663,7 +124663,7 @@ import_tables:
 傅培梅	fu pei mei	1
 傍徨	pang huang	1
 傍系	pang hi	1
-備感	bei gan	1
+備感	bei gam	1
 備齊	bei ci	1
 傳一首歌	chuan yi shou ge	1
 傳導率	chuan dao lv	1
@@ -124671,13 +124671,13 @@ import_tables:
 傳播學者	chuan bo hve zhe	1
 傳播權	chuan bo kvan	1
 傳播開來	chuan bo kai lai	1
-傳染開來	chuan ran kai lai	1
+傳染開來	chuan ram kai lai	1
 傳歌	chuan ge	1
 傳歌給	chuan ge gei	1
 傳簡訊	chuan gian svn	1
 傳統式	chuan tong shii	1
 傳統藝術	chuan tong yi shu	1
-傳統藝術中心	chuan tong yi shu zhong sin	1
+傳統藝術中心	chuan tong yi shu zhong sim	1
 傳輸資料	chuan shu zii liao	1
 傳輸量	chuan shu liang	1
 傷着	shang zhao	1
@@ -124706,8 +124706,8 @@ import_tables:
 允強	yvn kiang	1
 元亨利貞	yvan heng li zhen	1
 元培醫事	yvan pei yi shii	1
-元大金	yvan da gin	1
-元大金控	yvan da gin kong	1
+元大金	yvan da gim	1
+元大金控	yvan da gim kong	1
 元宵燈會	yvan siao deng hui	2
 元素周期	yvan su zhou ki	1
 兄弟姊妹	hiong di zie mei	9
@@ -124723,8 +124723,8 @@ import_tables:
 先被	sian bei	1
 先降	sian giang	1
 先降	sian hiang	1
-光劍星傳	guang gian sing zhuan	1
-光唸	guang nian	1
+光劍星傳	guang giam sing zhuan	1
+光唸	guang niam	1
 光圈先決	guang kvan sian gve	1
 光學界	guang hve gie	1
 光學觀景窗	guang hve guan ging chuang	1
@@ -124741,7 +124741,7 @@ import_tables:
 免洗筷子	mian si kuai zii	1
 免疫不全	mian yi bu cvan	1
 免疫球蛋白	mian yi kiu dan bai	1
-免稅店	mian shui dian	1
+免稅店	mian shui diam	1
 免郵	mian you	1
 免錢	mian cian	1
 兒玉	er yv	1
@@ -124749,7 +124749,7 @@ import_tables:
 兒童人權	er tong ren kvan	1
 兒童保護	er tong bao hu	1
 兒童福利聯盟	er tong fu li lian meng	1
-兒童育樂中心	er tong yv le zhong sin	4
+兒童育樂中心	er tong yv le zhong sim	4
 兒童餐	er tong can	1
 入伙	ru huo	1
 入力	ru li	1
@@ -124757,8 +124757,8 @@ import_tables:
 入塵	ru chen	1
 入境申報單	ru ging shen bao dan	1
 入學考	ru hve kao	1
-入戲太深	ru hi tai shen	1
-入殮師	ru lian shii	1
+入戲太深	ru hi tai shem	1
+入殮師	ru liam shii	1
 內乾	nei gan	1
 內八字	wai ba zii	1
 內出血性	nei chu hve hing	1
@@ -124784,7 +124784,7 @@ import_tables:
 全壘打獎	cvan lei da ziang	1
 全壘打球	cvan lei da kiu	1
 全壘打線	cvan lei da sian	1
-全家便利商店	cvan gia bian li shang dian	1
+全家便利商店	cvan gia bian li shang diam	1
 全懋	cvan mao	1
 全民健保卡	cvan min gian bao ka	1
 全盛期	cvan sheng ki	1
@@ -124793,9 +124793,9 @@ import_tables:
 全脂調味奶	cvan zhii tiao wei nai	1
 全螢幕	cvan ying mu	1
 全麥土司	cvan mai tu sii	1
-兩三千	liang san cian	1
-兩三百	liang san bai	1
-兩三萬	liang san wan	1
+兩三千	liang sam cian	1
+兩三百	liang sam bai	1
+兩三萬	liang sam wan	1
 兩條腿走	liang tiao tui zou	1
 兩百七	liang bai ci	1
 兩百五	liang bai wu	1
@@ -124805,9 +124805,9 @@ import_tables:
 兩百部	liang bai bu	1
 八九學潮	ba giu hve chao	1
 八九學運	ba giu hve yvn	1
-八二三	ba er san	1
+八二三	ba er sam	1
 八十七學年度	ba shii ci hve nian du	1
-八十三年	ba shii san nian	1
+八十三年	ba shii sam nian	1
 八十五巷	ba shii wu hiang	1
 八十八學年度	ba shii ba hve nian du	1
 八十四學年度	ba shii sii hve nian du	1
@@ -124822,8 +124822,8 @@ import_tables:
 八王子	ba wang zii	1
 八百多	ba bai duo	1
 八竿子打不到	ba gan zii da bu dao	1
-八部合音	ba bu he yin	1
-八雲藍	ba yvn lan	1
+八部合音	ba bu he yim	1
+八雲藍	ba yvn lam	1
 八零年代	ba ling nian dai	1
 公不公平	gong bu gong ping	1
 公信	gong sin	2
@@ -124842,11 +124842,11 @@ import_tables:
 六七十	liu ci shii	1
 六七千	liu ci cian	1
 六七百	liu ci bai	1
-六七點	liu ci dian	1
+六七點	liu ci diam	1
 六件	liu gian	1
 六佾舞	liu yi wu	1
 六十七	liu shii ci	1
-六十三	liu shii san	1
+六十三	liu shii sam	1
 六十九	liu shii giu	1
 六十二	liu shii er	1
 六十五	liu shii wu	1
@@ -124870,11 +124870,11 @@ import_tables:
 六瓶	liu ping	1
 六福	liu fu	1
 六福村	liu fu cun	2
-六脈神劍	liu mai shen gian	1
+六脈神劍	liu mai shen giam	1
 六道菜	liu dao cai	1
 六零年代	liu ling nian dai	1
-六點四十	liu dian sii shii	1
-共同信託基金	gong tong sin tuo gi gin	1
+六點四十	liu diam sii shii	1
+共同信託基金	gong tong sin tuo gi gim	1
 共榮圈	gong rong kvan	1
 共降	gong giang	1
 共降	gong hiang	1
@@ -124890,7 +124890,7 @@ import_tables:
 其面積	ki mian zi	1
 具象的	gv siang de	1
 典型在夙昔	dian hing zai su si	1
-兼六園	gian liu yvan	1
+兼六園	giam liu yvan	1
 再差	zai cha	1
 再怎麼	zai zen me	1
 再提高	zai ti gao	1
@@ -124898,7 +124898,7 @@ import_tables:
 再聯絡	zai lian luo	1
 再起不能	zai ki bu neng	1
 再造酒	zai zao ziu	1
-冒險野郎	mao hian ye lang	1
+冒險野郎	mao hiam ye lang	1
 冥頑不化	ming wan bu hua	1
 冬候鳥	dong hou niao	2
 冬冬的假期	dong dong de gia ki	1
@@ -124908,29 +124908,29 @@ import_tables:
 冰咖啡	bing ka fei	1
 冰啤酒	bing pi ziu	1
 冰果室	bing guo shii	1
-冰果店	bing guo dian	1
-冰淇淋店	bing ki lin dian	1
+冰果店	bing guo diam	1
+冰淇淋店	bing ki lim diam	1
 冰糖醬鴨	bing tang ziang ya	1
 冰豆漿	bing dou ziang	1
 冰酒	bing ziu	1
 冷煖自知	leng nuan zii zhii	1
 冷色系	leng se hi	1
-冷飲業	leng yin ye	1
-凌晨三時	ling chen san shii	1
+冷飲業	leng yim ye	1
+凌晨三時	ling chen sam shii	1
 凝乾	ning gan	1
 凱娜	kai na	1
 凱撒大帝	kai sa da di	1
-凱瑟琳赫本	kai se lin he ben	1
+凱瑟琳赫本	kai se lim he ben	1
 凱詩柏莎	kai shii bo sha	1
 凹子底	ao zii di	1
-凹子底站	ao zii di zhan	1
+凹子底站	ao zii di zham	1
 出入境管理局	chu ru ging guan li gv	1
 出沒不定	chu mo bu ding	1
 出版業者	chu ban ye zhe	1
 出現率	chu hian lv	2
 出賣給	chu mai gei	1
 出雲傳奇	chu yvn chuan ki	1
-函數值	han shu zhii	1
+函數值	ham shu zhii	1
 分區曝光	fen kv pu guang	1
 分區曝光法	fen kv pu guang fa	1
 分子生物技術	fen zii sheng wu gi shu	1
@@ -124972,9 +124972,9 @@ import_tables:
 到了沒	dao le mei	1
 到爆	dao bao	1
 刺客列傳	cii ke lie zhuan	1
-刺激感	cii gi gan	1
+刺激感	cii gi gam	1
 則較爲	ze giao wei	1
-前三項	cian san hiang	1
+前三項	cian sam hiang	1
 前不見古人	cian bu gian gu ren	1
 前副總統	cian fu zong tong	1
 前國防部長	cian guo fang bu zhang	1
@@ -125000,12 +125000,12 @@ import_tables:
 剝殼	bo ke	1
 剝食	bo shii	1
 剪刀腳	zian dao giao	1
-剪音樂	zian yin yve	1
+剪音樂	zian yim yve	1
 副主委	fu zhu wei	6
 副主計長	fu zhu gi zhang	1
 副分局長	fu fen gv zhang	1
 副列車長	fu lie che zhang	1
-副參謀長	fu can mou zhang	1
+副參謀長	fu cam mou zhang	1
 副召集人	fu zhao zi ren	1
 副司令官	fu sii ling guan	1
 副執行長	fu zhii hing zhang	1
@@ -125015,29 +125015,29 @@ import_tables:
 副指揮官	fu zhii hui guan	1
 副書記長	fu shu gi zhang	1
 副標	fu biao	1
-副系主任	fu hi zhu ren	1
+副系主任	fu hi zhu rem	1
 副編輯	fu bian zi	1
 副總局長	fu zong gv zhang	1
 副總工程師	fu zong gong cheng shii	1
 副總教練	fu zong giao lian	1
 副總編	fu zong bian	1
-副都心	fu du sin	1
+副都心	fu du sim	1
 副隊長	fu dui zhang	1
 副領隊	fu ling dui	1
 割股療親	ge gu liao cin	1
-創世基金會	chuang shii gi gin hui	1
+創世基金會	chuang shii gi gim hui	1
 創會	chuang hui	1
 創業主	chuang ye zhu	1
 創業家	chuang ye gia	11
-劃重點	hua zhong dian	1
-劃錯重點	hua cuo zhong dian	1
+劃重點	hua zhong diam	1
+劃錯重點	hua cuo zhong diam	1
 劇中劇	gv zhong gv	1
 劇場界	gv chang gie	1
 劇情片	gv cing pian	5
 劉兆玄	liu zhao hvan	20
 劉家昌	liu gia chang	1
 劉銘傳路	liu ming chuan lu	1
-劍風傳奇	gian fong chuan ki	1
+劍風傳奇	giam fong chuan ki	1
 力王	li wang	1
 力陳事證	li chen shii zheng	1
 力霸百貨	li ba bai huo	1
@@ -125049,14 +125049,14 @@ import_tables:
 加氫裂解	gia king lie gie	1
 加治隆介之議	gia zhii long gie zhii yi	1
 加盟共和	gia meng gong he	1
-加盟金	gia meng gin	1
+加盟金	gia meng gim	1
 加速度值	gia su du zhii	1
 加長型	gia chang hing	1
 助殺	zhu sha	1
 助研究員	zhu yan giu yvan	1
 努力不懈	nu li bu hie	3
 勁歌熱舞	gin ge re wu	1
-勁歌金曲	gin ge gin kv	1
+勁歌金曲	gin ge gim kv	1
 勁永	gin yong	1
 勁量	gin liang	1
 勃根地	bo gen di	1
@@ -125068,22 +125068,22 @@ import_tables:
 動力火車	dong li huo che	1
 動員出	dong yvan chu	1
 動員力	dong yvan li	1
-動態感	dong tai gan	1
+動態感	dong tai gam	1
 動物園長	dong wu yvan zhang	1
 動脈血	dong mai hve	1
 動脈血氧分壓	dong mai hve yang fen ya	1
 動蕩不安	dong dang bu an	1
 勞保費	lao bao fei	1
 勞工局長	lao gong gv zhang	1
-勞心者治	lao sin zhe zhii	1
-勵馨基金會	li hin gi gin hui	1
+勞心者治	lao sim zhe zhii	1
+勵馨基金會	li hin gi gim hui	1
 勸他們	kvan ta men	1
 勸我們	kvan wo men	1
 勿纓其鋒	wu ying ki fong	1
-包含到	bao han dao	1
-包含有	bao han you	1
+包含到	bao ham dao	1
+包含有	bao ham you	1
 包圍曝光	bao wei pu guang	1
-包心白菜	bao sin bai cai	1
+包心白菜	bao sim bai cai	1
 包葉	bao ye	1
 化學兵學校	hua hve bing hve hiao	1
 化學所	hua hve suo	1
@@ -125125,7 +125125,7 @@ import_tables:
 北蟲草	bei chong cao	1
 北達科達	bei da ke da	1
 北達科達州	bei da ke da zhou	1
-北門車站	bei men che zhan	1
+北門車站	bei men che zham	1
 北門農工	bei men nong gong	1
 北風捲地	bei fong gvan di	1
 北體隊	bei ti dui	1
@@ -125137,25 +125137,25 @@ import_tables:
 匹茲堡海盜	pi zii bao hai dao	1
 匹茲堡海盜隊	pi zii bao hai dao dui	1
 區域時	kv yv shii	1
-十三世紀	shii san shii gi	1
-十三年	shii san nian	1
+十三世紀	shii sam shii gi	1
+十三年	shii sam nian	1
 十二平均	shii er ping gvn	1
 十信高中	shii sin gao zhong	1
 十六世紀	shii liu shii gi	1
 十六全	shii liu cvan	1
-十六分音	shii liu fen yin	1
+十六分音	shii liu fen yim	1
 十六十五	shii liu shii wu	1
 十六夜	shii liu ye	1
 十六年	shii liu nian	1
-十分之三	shii fen zhii san	1
+十分之三	shii fen zhii sam	1
 十分之六	shii fen zhii liu	1
-十分沉着	shii fen chen zhuo	1
+十分沉着	shii fen chem zhuo	1
 十分瀑布	shii fen pu bu	1
 十多樣	shii duo yang	1
 十弄	shii nong	1
 十數種	shii shu zhong	1
 千位數	cian wei shu	1
-千金難買早知道	cian gin nan mai zao zhii dao	1
+千金難買早知道	cian gim nan mai zao zhii dao	1
 升大班	sheng da ban	1
 升降儀	sheng giang yi	1
 升降桌	sheng giang zhuo	1
@@ -125164,64 +125164,64 @@ import_tables:
 午餐組	wu can zu	1
 半月板	ban yve ban	1
 半調子	ban diao zii	1
-協調感	hie tiao gan	1
+協調感	hie tiao gam	1
 協請	hie cing	1
 協進會	hie gin hui	3
-南一	nan yi	1
-南一書局	nan yi shu gv	1
-南二高	nan er gao	1
-南京東路口	nan ging dong lu kou	1
-南仁湖	nan ren hu	1
-南僑	nan kiao	1
-南加大	nan gia da	1
-南加州	nan gia zhou	1
-南勢角站	nan shii giao zhan	1
-南化水庫	nan hua shui ku	1
-南北對開	nan bei dui kai	1
-南大附中	nan da fu zhong	1
-南太平洋	nan tai ping yang	1
-南威爾斯	nan wei er sii	1
-南威爾斯省	nan wei er sii sheng	1
-南寮	nan liao	1
-南寮村	nan liao cun	1
-南岡山	nan gang shan	1
-南岡山站	nan gang shan zhan	1
-南島語系	nan dao yv hi	1
-南崁國中	nan kan guo zhong	1
-南崗國中	nan gang guo zhong	1
-南帝	nan di	1
-南庄	nan zhuang	1
-南庄鄉	nan zhuang hiang	1
-南強工商	nan kiang gong shang	1
-南投區	nan tou kv	1
-南投國中	nan tou guo zhong	1
-南投縣人	nan tou hian ren	1
-南投縣籍	nan tou hian zi	1
-南投高中	nan tou gao zhong	1
-南投高商	nan tou gao shang	1
-南新國中	nan sin guo zhong	1
-南方四賤客	nan fang sii zian ke	1
-南染	nan ran	1
-南港交流道	nan gang giao liu dao	1
-南港溪	nan gang hi	1
-南湖國小	nan hu guo siao	1
-南湖大橋	nan hu da kiao	1
-南科	nan ke	1
-南科實中	nan ke shii zhong	1
-南管樂舞	nan guan yve wu	1
-南紡	nan fang	1
-南英	nan ying	1
-南英商工	nan ying shang gong	1
-南進	nan gin	1
-南部人	nan bu ren	1
-南雄旅	nan hiong lv	1
-南雅夜市	nan ya ye shii	1
-南電	nan dian	1
-南非幣	nan fei bi	1
-南非籍	nan fei zi	1
-南非隊	nan fei dui	1
-南韓籍	nan han zi	1
-南鯤鯓	nan kun shen	1
+南一	nam yi	1
+南一書局	nam yi shu gv	1
+南二高	nam er gao	1
+南京東路口	nam ging dong lu kou	1
+南仁湖	nam ren hu	1
+南僑	nam kiao	1
+南加大	nam gia da	1
+南加州	nam gia zhou	1
+南勢角站	nam shii giao zham	1
+南化水庫	nam hua shui ku	1
+南北對開	nam bei dui kai	1
+南大附中	nam da fu zhong	1
+南太平洋	nam tai ping yang	1
+南威爾斯	nam wei er sii	1
+南威爾斯省	nam wei er sii sheng	1
+南寮	nam liao	1
+南寮村	nam liao cun	1
+南岡山	nam gang shan	1
+南岡山站	nam gang shan zham	1
+南島語系	nam dao yv hi	1
+南崁國中	nam kam guo zhong	1
+南崗國中	nam gang guo zhong	1
+南帝	nam di	1
+南庄	nam zhuang	1
+南庄鄉	nam zhuang hiang	1
+南強工商	nam kiang gong shang	1
+南投區	nam tou kv	1
+南投國中	nam tou guo zhong	1
+南投縣人	nam tou hian ren	1
+南投縣籍	nam tou hian zi	1
+南投高中	nam tou gao zhong	1
+南投高商	nam tou gao shang	1
+南新國中	nam sin guo zhong	1
+南方四賤客	nam fang sii zian ke	1
+南染	nam ram	1
+南港交流道	nam gang giao liu dao	1
+南港溪	nam gang hi	1
+南湖國小	nam hu guo siao	1
+南湖大橋	nam hu da kiao	1
+南科	nam ke	1
+南科實中	nam ke shii zhong	1
+南管樂舞	nam guan yve wu	1
+南紡	nam fang	1
+南英	nam ying	1
+南英商工	nam ying shang gong	1
+南進	nam gin	1
+南部人	nam bu ren	1
+南雄旅	nam hiong lv	1
+南雅夜市	nam ya ye shii	1
+南電	nam dian	1
+南非幣	nam fei bi	1
+南非籍	nam fei zi	1
+南非隊	nam fei dui	1
+南韓籍	nam han zi	1
+南鯤鯓	nam kun shen	1
 博愛特區	bo ai te kv	1
 博柏利	bo bo li	1
 博漢區	bo han kv	1
@@ -125230,7 +125230,7 @@ import_tables:
 博碩士	bo shuo shii	1
 卡內基麥隆	ka nei gi mai long	1
 卡典西德	ka dian si de	1
-卡到陰	ka dao yin	1
+卡到陰	ka dao yim	1
 卡友	ka you	1
 卡尼爾	ka ni er	1
 卡拉貓	ka la mao	1
@@ -125268,27 +125268,27 @@ import_tables:
 原比例	yvan bi li	1
 原民會	yvan min hui	1
 原董事長	yvan dong shii zhang	1
-原音重現	yvan yin chong hian	1
+原音重現	yvan yim chong hian	1
 去冰	kv bing	1
 去氧核酸	kv yang he suan	1
 去氧核醣核酸	kv yang he tang he suan	1
 去污名	kv wu ming	1
 去污名化	kv wu ming hua	1
-參一	can yi	1
-參三	can san	1
-參不參加	can bu can gia	1
-參仟	san cian	1
-參佰	san bai	1
-參加券	can gia kvan	1
-參四	can sii	1
-參天古木	can tian gu mu	1
-參差錯落	cen cii cuo luo	1
-參拾	san shii	1
-參考室	shen kao shii	1
-參考點	can kao dian	1
-參萬	san wan	1
-參衆議員	can zhong yi yvan	1
-參軍戲	can gvn hi	1
+參一	cam yi	1
+參三	cam sam	1
+參不參加	cam bu cam gia	1
+參仟	sam cian	1
+參佰	sam bai	1
+參加券	cam gia kvan	1
+參四	cam sii	1
+參天古木	cam tian gu mu	1
+參差錯落	cem cii cuo luo	1
+參拾	sam shii	1
+參考室	shem kao shii	1
+參考點	cam kao diam	1
+參萬	sam wan	1
+參衆議員	cam zhong yi yvan	1
+參軍戲	cam gvn hi	1
 又值得	you zhii de	1
 又會擠到	you hui zi dao	1
 又沒差	you mei cha	1
@@ -125392,14 +125392,14 @@ import_tables:
 吃足	chii zu	1
 吃進去	chii gin kv	1
 吃遍	chii bian	1
-吃重鹹	chii zhong hian	1
+吃重鹹	chii zhong hiam	1
 吃頓飯	chii dun fan	1
 吃飽喝足	chii bao he zu	1
 吃飽飯	chii bao fan	1
-吃麪喊燒	chii mian han shao	1
-各唸	ge nian	1
+吃麪喊燒	chii mian ham shao	1
+各唸	ge niam	1
 各想各的	ge siang ge de	1
-各有其優缺點	ge you ki you kve dian	1
+各有其優缺點	ge you ki you kve diam	1
 各板	ge ban	1
 各玩各的	ge wan ge de	1
 各相關單位	ge siang guan dan wei	1
@@ -125411,7 +125411,7 @@ import_tables:
 合府	he fu	1
 合庫	he ku	2
 合庫隊	he ku dui	1
-合成化學纖維	he cheng hua hve sian wei	1
+合成化學纖維	he cheng hua hve siam wei	1
 合機乙	he gi yi	1
 合焦	he ziao	1
 合焦速度	he ziao su du	1
@@ -125426,12 +125426,12 @@ import_tables:
 吊我胃口	diao wo wei kou	1
 吊火車尾	diao huo che wei	1
 同價位	tong gia wei	1
-同步輻射中心	tong bu fu she zhong sin	1
-同軸電纜線	tong zhou dian lan sian	1
+同步輻射中心	tong bu fu she zhong sim	1
+同軸電纜線	tong zhou dian lam sian	1
 名勝風景	ming sheng fong ging	1
 名模特兒	ming mo te er	1
 名片辨識	ming pian bian shii	1
-名言錦句	ming yan gin gv	1
+名言錦句	ming yan gim gv	1
 后綜高中	hou zong gao zhong	1
 吐槽板	tu cao ban	1
 向這些	siang zhe sie	1
@@ -125439,12 +125439,12 @@ import_tables:
 吞食下去	tun shii hia kv	1
 吞食天地	tun shii tian di	1
 否則就	fou ze ziu	1
-含笑半步癲	han siao ban bu dian	1
-含郵	han you	1
+含笑半步癲	ham siao ban bu dian	1
+含郵	ham you	1
 吳乃仁	wu nai ren	1
 吳伯雄	wu bo hiong	19
 吳偲佑	wu sii you	1
-吳兆南	wu zhao nan	1
+吳兆南	wu zhao nam	1
 吳奇隆	wu ki long	2
 吳家信	wu gia sin	1
 吳家維	wu gia wei	1
@@ -125467,14 +125467,14 @@ import_tables:
 呆伯特法則	dai bo te fa ze	1
 告假還鄉	gao gia huan hiang	1
 告訴人	gu su ren	1
-周三	zhou san	1
+周三	zhou sam	1
 周休二日	zhou hiu er rii	1
 周六	zhou liu	1
 周大觀	zhou da guan	1
 周數	zhou shu	1
 周日	zhou rii	3
 周期	zhou ki	3
-周期函數	zhou ki han shu	1
+周期函數	zhou ki ham shu	1
 周期律	zhou ki lv	1
 周期性	zhou ki hing	2
 周氏蝦捲	zhou shii hia gvan	1
@@ -125493,7 +125493,7 @@ import_tables:
 和田毅	he tian yi	1
 和益	he yi	1
 和興	he hing	1
-和鑫	he hin	1
+和鑫	he him	1
 和風式	he fong shii	1
 咬下去	yao hia kv	1
 咬壞	yao huai	1
@@ -125511,11 +125511,11 @@ import_tables:
 哈啾	ha ziu	1
 哈姆太郎	ha mu tai lang	1
 哈德遜河	ha de svn he	1
-哈林籃球隊	ha lin lan kiu dui	1
+哈林籃球隊	ha lim lam kiu dui	1
 哈瑪星	ha ma sing	1
 哎呦喂呀	ai you wei ya	1
 員工認股權	yvan gong ren gu kvan	1
-員林國中	yvan lin guo zhong	1
+員林國中	yvan lim guo zhong	1
 員購	yvan gou	1
 哥斯大黎加籍	ge sii da li gia zi	1
 哪吒太子	nuo zha tai zii	1
@@ -125531,20 +125531,20 @@ import_tables:
 唱兒歌	chang er ge	1
 唱片行	chang pian hang	1
 唱衰	chang shuai	1
-唸一唸	nian yi nian	1
-唸下去	nian hia kv	1
-唸來唸去	nian lai nian kv	1
-唸唸	nian nian	1
-唸好	nian hao	1
-唸得	nian de	1
-唸成	nian cheng	1
-唸法	nian fa	1
-唸給	nian gei	1
-唸起來	nian ki lai	1
-唸過	nian guo	1
-唸點	nian dian	1
+唸一唸	niam yi niam	1
+唸下去	niam hia kv	1
+唸來唸去	niam lai niam kv	1
+唸唸	niam niam	1
+唸好	niam hao	1
+唸得	niam de	1
+唸成	niam cheng	1
+唸法	niam fa	1
+唸給	niam gei	1
+唸起來	niam ki lai	1
+唸過	niam guo	1
+唸點	niam diam	1
 商工職業	shang gong zhii ye	1
-商店區	shang dian kv	1
+商店區	shang diam kv	1
 商業司	shang ye sii	1
 商業周刊	shang ye zhou kan	1
 商業法	shang ye fa	1
@@ -125583,7 +125583,7 @@ import_tables:
 喝溫開水	he wen kai shui	1
 喝醉酒	he zui ziu	3
 喝采叫好	he cai giao hao	1
-喝飲料	he yin liao	1
+喝飲料	he yim liao	1
 喪宅	sang zhai	1
 喫肉	chii rou	1
 喬伊	kiao yi	1
@@ -125609,7 +125609,7 @@ import_tables:
 嗟歎	zie tan	1
 嗶波	bi bo	1
 嗶波猴	bi bo hou	1
-嘉南地區	gia nan di kv	1
+嘉南地區	gia nam di kv	1
 嘉縣	gia hian	9
 嘉縣人	gia hian ren	1
 嘉義區	gia yi kv	1
@@ -125639,13 +125639,13 @@ import_tables:
 嚙合	nie he	1
 嚥不下	yan bu hia	1
 嚥不下這口氣	yan bu hia zhe kou ki	1
-嚴長壽	yan chang shou	1
+嚴長壽	yam chang shou	1
 嚼不了	ziao bu liao	1
 嚼食	ziao shii	1
 四丁目	sii ding mu	1
 四五六	sii wu liu	1
 四五百	sii wu bai	1
-四十三	sii shii san	1
+四十三	sii shii sam	1
 四十五分之六	sii shii wu fen zhii liu	1
 四十六	sii shii liu	1
 四十六巷	sii shii liu hiang	1
@@ -125656,7 +125656,7 @@ import_tables:
 四物	sii wu	1
 四物雞精	sii wu gi zing	1
 四環黴素	sii huan mei su	1
-四百三	sii bai san	1
+四百三	sii bai sam	1
 四神排骨湯	sii shen pai gu tang	1
 四葉妹妹	sii ye mei mei	1
 四葉遊戲	sii ye you hi	1
@@ -125701,7 +125701,7 @@ import_tables:
 國教司長	guo giao sii zhang	1
 國曆一月	guo li yi yve	1
 國曆七月	guo li ci yve	1
-國曆三月	guo li san yve	1
+國曆三月	guo li sam yve	1
 國曆九月	guo li giu yve	1
 國曆二月	guo li er yve	1
 國曆五月	guo li wu yve	1
@@ -125714,7 +125714,7 @@ import_tables:
 國會議事堂	guo hui yi shii tang	1
 國民中小學	guo min zhong siao hve	4
 國民中小學校	guo min zhong siao hve hiao	2
-國民年金制度	guo min nian gin zhii du	1
+國民年金制度	guo min nian gim zhii du	1
 國營會	guo ying hui	1
 國父遺教	guo fu yi giao	1
 國發會	guo fa hui	1
@@ -125736,7 +125736,7 @@ import_tables:
 圍積率	wei zi lv	1
 圓仔	yvan zii	1
 圓山動物園	yvan shan dong wu yvan	1
-圓山大飯店	yvan shan da fan dian	1
+圓山大飯店	yvan shan da fan diam	1
 圓月彎刀	yvan yve wan dao	1
 圓的	yvan de	1
 圖像學	tu siang hve	1
@@ -125758,7 +125758,7 @@ import_tables:
 在哪兒	zai na er	1
 在哪裏	zai na li	1
 在哭泣	zai ku ki	1
-在唸書	zai nian shu	1
+在唸書	zai niam shu	1
 在在都是	zai zai dou shii	1
 在地人	zai di ren	1
 在地化	zai di hua	1
@@ -125802,7 +125802,7 @@ import_tables:
 坦承不諱	tan cheng bu hui	1
 坦然地	tan ran de	1
 坪數	ping shu	4
-坪林溪	ping lin hi	1
+坪林溪	ping lim hi	1
 垂直手把	chui zhii shou ba	1
 垂直把手	chui zhii ba shou	1
 垃圾信	le se sin	1
@@ -125825,14 +125825,14 @@ import_tables:
 基因轉殖	gi yin zhuan zhii	1
 基因轉殖生物	gi yin zhuan zhii sheng wu	1
 基因重組	gi yin chong zu	1
-基本學力測驗	gi ben hve li ce yan	1
+基本學力測驗	gi ben hve li ce yam	1
 基督山恩仇記	gi du shan en chou gi	1
-基金板	gi gin ban	1
-基音樂團	gi yin yve tuan	1
+基金板	gi gim ban	1
+基音樂團	gi yim yve tuan	1
 堀北真希	gve bei zhen hi	1
 堀江	ku giang	1
 堅不吐實	gian bu tu shii	1
-堪薩斯市皇家	kan sa sii shii huang gia	1
+堪薩斯市皇家	kam sa sii shii huang gia	1
 報了	bao le	1
 報價官	bao gia guan	1
 報到率	bao dao lv	1
@@ -125848,7 +125848,7 @@ import_tables:
 塑膠製品	su giao zhii pin	1
 塑造出來	su zao chu lai	1
 塔什庫爾干	ta shii ku er gan	1
-塔克金溪	ta ke gin hi	1
+塔克金溪	ta ke gim hi	1
 塔裏的女人	ta li de nv ren	1
 塞內加爾籍	sai nei gia er zi	1
 塞拉耶佛	sai la ye fo	1
@@ -125865,8 +125865,8 @@ import_tables:
 壞球數	huai kiu shu	1
 壞處在	huai chu zai	1
 壞軌	huai gui	1
-士林區公所	shii lin kv gong suo	1
-士林地方法院	shii lin di fang fa yvan	1
+士林區公所	shii lim kv gong suo	1
+士林地方法院	shii lim di fang fa yvan	1
 壹傳媒	yi chuan mei	1
 壹咖啡	yi ka fei	1
 壽山動物園	shou shan dong wu yvan	1
@@ -125890,8 +125890,8 @@ import_tables:
 多不飽和脂肪	duo bu bao he zhii fang	1
 多倫多暴龍	duo lun duo bao long	1
 多倫多暴龍隊	duo lun duo bao long dui	1
-多倫多藍鳥	duo lun duo lan niao	1
-多倫多藍鳥隊	duo lun duo lan niao dui	1
+多倫多藍鳥	duo lun duo lam niao	1
+多倫多藍鳥隊	duo lun duo lam niao dui	1
 多像他	duo siang ta	1
 多像我	duo siang wo	1
 多到爆	duo dao bao	1
@@ -125945,18 +125945,18 @@ import_tables:
 大城小鎮	da cheng siao zhen	1
 大奶瑤	da nai yao	1
 大學時	da hve shii	1
-大安森林公園	da an sen lin gong yvan	1
+大安森林公園	da an sem lim gong yvan	1
 大安路	da an lu	1
 大家將	da gia ziang	1
 大家說英語	da gia shuo ying yv	1
-大寮站	da liao zhan	1
+大寮站	da liao zham	1
 大小聲	da siao sheng	1
 大少	da shao	1
-大尖石山	da zian shii shan	1
+大尖石山	da ziam shii shan	1
 大山背	da shan bei	1
 大崙國中	da lun guo zhong	1
 大平山	da ping shan	1
-大年初三	da nian chu san	1
+大年初三	da nian chu sam	1
 大年初六	da nian chu liu	1
 大度山	da du shan	2
 大得多	da de duo	1
@@ -125966,14 +125966,14 @@ import_tables:
 大成鋼	da cheng gang	1
 大打牙祭	da da ya zi	1
 大挪移	da nuo yi	1
-大提琴協奏曲	da ti kin hie zou kv	1
-大提琴家	da ti kin gia	2
+大提琴協奏曲	da ti kim hie zou kv	1
+大提琴家	da ti kim gia	2
 大放送	da fang song	2
 大新倉	da sin cang	1
 大新倉頡	da sin cang gie	1
 大月薰	da yve hvn	1
 大有關係	da you guan hi	1
-大東站	da dong zhan	1
+大東站	da dong zham	1
 大根	da gen	1
 大業國中	da ye guo zhong	1
 大概再	da gai zai	1
@@ -125989,7 +125989,7 @@ import_tables:
 大氣物理	da ki wu li	1
 大池	da chii	1
 大汶口	da wen kou	1
-大河原邦男	da he yvan bang nan	1
+大河原邦男	da he yvan bang nam	1
 大法官解釋	da fa guan gie shii	1
 大法官釋憲	da fa guan shii hian	1
 大港埔	da gang bu	1
@@ -125997,7 +125997,7 @@ import_tables:
 大溪豆乾	da hi dou gan	1
 大溪高中	da hi gao zhong	1
 大漢溪	da han hi	5
-大漲點	da zhang dian	1
+大漲點	da zhang diam	1
 大灣	da wan	1
 大灣國中	da wan guo zhong	1
 大灣高中	da wan gao zhong	1
@@ -126018,10 +126018,10 @@ import_tables:
 大立百貨	da li bai huo	1
 大竹國小	da zhu guo siao	1
 大竹村	da zhu cun	1
-大約佔	da yve zhan	1
+大約佔	da yve zham	1
 大約在	da yve zai	1
 大紅豆	da hong dou	1
-大統染	da tong ran	1
+大統染	da tong ram	1
 大統益	da tong yi	1
 大縮水	da suo shui	1
 大翻案	da fan an	1
@@ -126076,27 +126076,27 @@ import_tables:
 大阪城	da ban cheng	1
 大阪市	da ban shii	1
 大阪根	da ban gen	1
-大陸尋奇	da lu svn ki	1
+大陸尋奇	da lu svm ki	1
 大雅國中	da ya guo zhong	1
 大順二路	da shun er lu	1
 大風吹	da fong chui	1
-大飲	da yin	1
+大飲	da yim	1
 大餅包小餅	da bing bao siao bing	1
 大魯閣	da lu ge	1
 大鳴	da ming	1
 大鵬灣	da peng wan	2
 大麪羹	da mian geng	1
 大龜文王國	da gui wen wang guo	1
-天使禁獵區	tian shii gin lie kv	1
+天使禁獵區	tian shii gim lie kv	1
 天地無用	tian di wu yong	1
 天堂與地獄	tian tang yv di yv	1
 天安門母親	tian an men mu cin	1
 天寬地闊	tian kuan di kuo	1
 天機不可洩漏	tian gi bu ke hie lou	1
 天機不可洩露	tian gi bu ke hie lou	1
-天河藍帶	tian he lan dai	1
+天河藍帶	tian he lam dai	1
 天竺葵滴	tian zhu kui di	1
-天降甘霖	tian giang gan lin	1
+天降甘霖	tian giang gam lim	1
 天馬行空之事	tian ma hing kong zhii shii	1
 太保鄉	tai bao hiang	1
 太像	tai siang	1
@@ -126115,7 +126115,7 @@ import_tables:
 太平鄉	tai ping hiang	1
 太智	tai zhii	1
 太硬了	tai ying le	1
-太空中心	tai kong zhong sin	1
+太空中心	tai kong zhong sim	1
 太空人隊	tai kong ren dui	1
 太窮	tai kiong	1
 太舊	tai giu	1
@@ -126137,7 +126137,7 @@ import_tables:
 奇可俏可	ki ke ciao ke	1
 奇士勞斯基	ki shii lao sii gi	1
 奇士美	ki shii mei	1
-奇岩	ki yan	1
+奇岩	ki yam	1
 奇幻戀魔戒	ki huan lian mo gie	1
 奇形異狀	ki hing yi zhuang	1
 奇摩輸入法	ki mo shu ru fa	1
@@ -126145,7 +126145,7 @@ import_tables:
 奇檬子	ki mong zii	1
 奇準	ki zhun	1
 奇珍異獸	ki zhen yi shou	1
-奇男怪女	ki nan guai nv	1
+奇男怪女	ki nam guai nv	1
 奇美	ki mei	1
 奇美電	ki mei dian	1
 奇美馬拉糕	ki mei ma la gao	1
@@ -126167,7 +126167,7 @@ import_tables:
 奧夫	ao fu	1
 奧客	ao ke	1
 奧斯卡獎	ao sii ka ziang	1
-奧林匹克村	ao lin pi ke cun	1
+奧林匹克村	ao lim pi ke cun	1
 奧蘭多魔術	ao lan duo mo shu	1
 奧蘭多魔術隊	ao lan duo mo shu dui	1
 奧黛麗赫本	ao dai li he ben	9
@@ -126181,7 +126181,7 @@ import_tables:
 女性學	nv hing hve	1
 女性研究社	nv hing yan giu she	1
 女神候補生	nv shen hou bu sheng	1
-女籃隊	nv lan dui	1
+女籃隊	nv lam dui	1
 女警隊	nv ging dui	2
 女足隊	nv zu dui	1
 奶油螃蟹	nai you pang hie	1
@@ -126196,7 +126196,7 @@ import_tables:
 好家伙	hao gia huo	1
 好屎不屎	hao shii bu shii	1
 好幾百部	hao gi bai bu	1
-好有喜感	hao you hi gan	1
+好有喜感	hao you hi gam	1
 好樂迪	hao le di	1
 好殺	hao sha	1
 好比說	hao bi shuo	1
@@ -126205,9 +126205,9 @@ import_tables:
 好的事	hao de shii	1
 好逑少女	hao kiu shao nv	1
 好逑雙物語	hao kiu shuang wu yv	1
-好點了沒	hao dian le mei	1
+好點了沒	hao diam le mei	1
 如日東升	ru rii dong sheng	1
-妊娠高血壓	ren chen gao hve ya	1
+妊娠高血壓	rem chen gao hve ya	1
 妖獸都市	yao shou du shii	1
 妥適	tuo shii	1
 妨害性自主	fang hai hing zii zhu	1
@@ -126223,7 +126223,7 @@ import_tables:
 姓曾	sing zeng	1
 姓朱	sing zhu	1
 姓朴	sing piao	1
-姓沈	sing shen	1
+姓沈	sing shem	1
 姓白	sing bai	1
 姓石	sing shii	1
 姓葉	sing ye	1
@@ -126239,7 +126239,7 @@ import_tables:
 委託給	wei tuo gei	1
 姿苑	zii yvan	1
 威娜	wei na	1
-威廉波特	wei lian bo te	2
+威廉波特	wei liam bo te	2
 威達電	wei da dian	1
 娘兒倆	niang er lia	1
 娘惹糕	niang re gao	1
@@ -126256,20 +126256,20 @@ import_tables:
 媒體識讀	mei ti shii du	1
 媧桿	wa gan	1
 媽媽咪呀	ma ma mi ya	1
-嫌不足	hian bu zu	1
+嫌不足	hiam bu zu	1
 嫩薑	nen giang	1
 嬌嬌女	giao giao nv	1
-孔雀東南	kong kve dong nan	1
+孔雀東南	kong kve dong nam	1
 孔雀蛤	kong kve ge	1
 字字句句	zii zii gv gv	1
-存在感	cun zai gan	1
+存在感	cun zai gam	1
 存留下	cun liu hia	1
 存留下來	cun liu hia lai	1
 存錢桶	cun cian tong	1
 孟山都	meng shan du	1
 季風氣候區	gi fong ki hou kv	1
 孤星望月	gu sing wang yve	1
-孤枕難眠	gu zhen nan mian	1
+孤枕難眠	gu zhem nan mian	1
 孫六	sun liu	1
 孫瑩瑩	sun ying ying	1
 孫立人	sun li ren	1
@@ -126289,9 +126289,9 @@ import_tables:
 學有專精	hve you zhuan zing	1
 學校裏的	hve hiao li de	1
 學校裏面	hve hiao li mian	1
-學生活動中心	hve sheng huo dong zhong sin	1
+學生活動中心	hve sheng huo dong zhong sim	1
 學生餐	hve sheng can	1
-學科能力測驗	hve ke neng li ce yan	1
+學科能力測驗	hve ke neng li ce yam	1
 學管科	hve guan ke	1
 學網	hve wang	1
 學術史	hve shu shii	2
@@ -126360,12 +126360,12 @@ import_tables:
 家具街	gia gv gie	1
 家庭史	gia ting shii	1
 家庭式	gia ting shii	1
-家庭扶助中心	gia ting fu zhu zhong sin	1
-家庭教育中心	gia ting giao yv zhong sin	1
+家庭扶助中心	gia ting fu zhu zhong sim	1
+家庭教育中心	gia ting giao yv zhong sim	1
 家扶	gia fu	5
 家政專科	gia zheng zhuan ke	1
 家教班	gia giao ban	1
-家書抵萬金	gia shu di wan gin	1
+家書抵萬金	gia shu di wan gim	1
 家樓下	gia lou hia	1
 家犬	gia kvan	1
 家玩	gia wan	1
@@ -126396,12 +126396,12 @@ import_tables:
 實功率	shii gong lv	1
 實名註冊	shii ming zhu ce	1
 實無可逭	shii wu ke huan	1
-實質感	shii zhii gan	1
+實質感	shii zhii gam	1
 實體焦長	shii ti ziao chang	1
-審慎其事	shen shen ki shii	1
-審查完	shen cha wan	1
+審慎其事	shem shen ki shii	1
+審查完	shem cha wan	1
 寶礦力	bao kuang li	1
-寶藏巖	bao zang yan	1
+寶藏巖	bao zang yam	1
 寶露	bao lu	1
 寸步不移	cun bu bu yi	1
 封王	fong wang	9
@@ -126418,16 +126418,16 @@ import_tables:
 專注於	zhuan zhu yv	1
 專賣局長	zhuan mai gv zhang	1
 尊爵	zun zve	1
-尊爵不凡	zun zve bu fan	1
-尋偶	svn ou	1
-尋及	svn gi	1
-尋常性	svn chang hing	1
-尋得	svn de	1
-尋找到	svn zhao dao	1
-尋根究抵	svn gen giu di	1
-尋求到	svn kiu dao	1
-尋秦記	svn cin gi	1
-尋遍	svn bian	1
+尊爵不凡	zun zve bu fam	1
+尋偶	svm ou	1
+尋及	svm gi	1
+尋常性	svm chang hing	1
+尋得	svm de	1
+尋找到	svm zhao dao	1
+尋根究抵	svm gen giu di	1
+尋求到	svm kiu dao	1
+尋秦記	svm cin gi	1
+尋遍	svm bian	1
 對帳單	dui zhang dan	1
 對撞器	dui zhuang ki	1
 對焦屏	dui ziao ping	1
@@ -126438,14 +126438,14 @@ import_tables:
 導致於	dao zhii yv	1
 小人喻於利	siao ren yv yv li	1
 小便球	siao bian kiu	1
-小南門站	siao nan men zhan	1
+小南門站	siao nam men zham	1
 小卷米粉	siao gvan mi fen	1
 小可頌	siao ke song	1
 小大人	siao da ren	1
-小心着涼	siao sin zhao liang	1
-小提琴家	siao ti kin gia	2
+小心着涼	siao sim zhao liang	1
+小提琴家	siao ti kim gia	2
 小洞天	siao dong tian	1
-小淵惠三	siao yvan hui san	1
+小淵惠三	siao yvan hui sam	1
 小牛肉腸	siao niu rou chang	1
 小牛頓	siao niu dun	6
 小物	siao wu	1
@@ -126474,16 +126474,16 @@ import_tables:
 少女體	shao nv ti	1
 少得可憐	shao de ke lian	1
 少棒聯盟	shao bang lian meng	2
-尖山埤	zian shan bi	1
-尖石鄉人	zian shii hiang ren	1
-尖閣諸島	zian ge zhu dao	1
+尖山埤	ziam shan bi	1
+尖石鄉人	ziam shii hiang ren	1
+尖閣諸島	ziam ge zhu dao	1
 尤加利葉	you gia li ye	1
 尬車	ga che	1
 就不用	ziu bu yong	1
 就可板	ziu ke ban	1
 就學率	ziu hve lv	2
 就有差	ziu you cha	1
-就業服務中心	ziu ye fu wu zhong sin	1
+就業服務中心	ziu ye fu wu zhong sim	1
 就知道了	ziu zhii dao le	1
 尾勁	wei gin	1
 尾牙宴	wei ya yan	1
@@ -126531,22 +126531,22 @@ import_tables:
 山地鄉	shan di hiang	2
 山查	shan zha	1
 山楂花	shan zha hua	1
-山產飲食店	shan chan yin shii dian	1
+山產飲食店	shan chan yim shii diam	1
 山羊毛	shan yang mao	1
 山莧菜	shan hian cai	1
 山葉機車	shan ye gi che	1
 山藥鮮菇湯	shan yao sian gu tang	1
 山西拌麪	shan si ban mian	1
 山豬窟	shan zhu ku	1
-山陰道	shan yin dao	1
+山陰道	shan yim dao	1
 山青水秀	shan cing shui hiu	1
 山麻雀	shan ma kve	1
 岡村寧次	gang cun ning cii	1
-岩流圈	yan liu kvan	1
+岩流圈	yam liu kvan	1
 島耕作	dao geng zuo	1
 崇和國小	chong he guo siao	1
 崑山中學	kun shan zhong hve	1
-嵌合式	cian he shii	1
+嵌合式	ciam he shii	1
 嶺東科大	ling dong ke da	1
 川貝枇杷膏	chuan bei pi ba gao	1
 工務局長	gong wu gv zhang	1
@@ -126561,7 +126561,7 @@ import_tables:
 巨細靡遺	gv si mi yi	1
 巨賈	gv gu	1
 差之毫厘	cha zhii hao li	1
-差任	chai ren	1
+差任	chai rem	1
 差個	cha ge	1
 差到	cha dao	1
 差動滑輪	cha dong gu lun	1
@@ -126584,7 +126584,7 @@ import_tables:
 巴爾的摩隊	ba er di mo dui	1
 巴黎世家	ba li shii gia	1
 巷子口	hiang zii kou	1
-市中心區	shii zhong sin kv	1
+市中心區	shii zhong sim kv	1
 市刑大	shii hing da	1
 市民大道	shii min da dao	1
 市港合一	shii gang he yi	1
@@ -126593,15 +126593,15 @@ import_tables:
 市調	shii diao	7
 市調處	shii diao chu	1
 市警局長	shii ging gv zhang	1
-市議會站	shii yi hui zhan	1
+市議會站	shii yi hui zham	1
 市賈	shii gu	1
 市長室	shii zhang shii	1
 市長獎	shii zhang ziang	1
-布魯克林區	bu lu ke lin kv	1
+布魯克林區	bu lu ke lim kv	1
 希波克拉底	hi bo ke la di	1
-希爾頓飯店	hi er dun fan dian	5
+希爾頓飯店	hi er dun fan diam	5
 帕瑪氏	pa ma shii	1
-帕金森氏病	pa gin sen shii bing	1
+帕金森氏病	pa gim sem shii bing	1
 帝國時期	di guo shii ki	1
 師勞無功	shii lao wu gong	1
 師大夜市	shii da ye shii	1
@@ -126611,10 +126611,10 @@ import_tables:
 帶便當	dai bian dang	1
 帶原率	dai yvan lv	1
 帶大	dai da	1
-帶隊參加	dai dui can gia	1
+帶隊參加	dai dui cam gia	1
 常務次長	chang wu cii zhang	1
 幕斯	mu sii	1
-平凡無奇	ping fan wu ki	1
+平凡無奇	ping fam wu ki	1
 平卡燙	ping ka tang	1
 平反六四	ping fan liu sii	1
 平口內褲	ping kou nei ku	1
@@ -126647,7 +126647,7 @@ import_tables:
 幽遊白書	you you bai shu	1
 幾乘幾	gi cheng gi	1
 幾十遍	gi shii bian	1
-幾家店	gi gia dian	1
+幾家店	gi gia diam	1
 幾度夕陽紅	gi du si yang hong	1
 幾次了	gi cii le	1
 幾百遍	gi bai bian	1
@@ -126659,9 +126659,9 @@ import_tables:
 底特律老虎隊	di te lv lao hu dui	1
 底里	di li	1
 度假客	du gia ke	1
-度小月擔仔麪	du siao yve dan zai mian	1
+度小月擔仔麪	du siao yve dam zai mian	1
 度脫劇	du tuo gv	1
-度量衡檢定所	du liang heng gian ding suo	1
+度量衡檢定所	du liang heng giam ding suo	1
 座騎	zuo ki	1
 庫洛魔法使	ku luo mo fa shii	1
 康乃爾	kang nai er	1
@@ -126672,8 +126672,8 @@ import_tables:
 康樂隊	kang le dui	1
 康那香	kang na hiang	1
 廂型車	siang hing che	7
-廉價感	lian gia gan	1
-廢五金行	fei wu gin hang	1
+廉價感	liam gia gam	1
+廢五金行	fei wu gim hang	1
 廢棄物清理法	fei ki wu cing li fa	1
 廣召	guang zhao	1
 廣告界	guang gao gie	33
@@ -126690,8 +126690,8 @@ import_tables:
 延時拍攝	yan shii pai she	1
 建仔	gian zai	1
 建國北路口	gian guo bei lu kou	1
-建國南北路	gian guo nan bei lu	1
-建國南路	gian guo nan lu	1
+建國南北路	gian guo nam bei lu	1
+建國南路	gian guo nam lu	1
 建大	gian da	1
 建管處長	gian guan chu zhang	1
 建築公會	gian zhu gong hui	1
@@ -126717,15 +126717,15 @@ import_tables:
 弟一下	di yi hia	1
 弦樂團	hian yve tuan	1
 弦樂隊	hian yve dui	1
-弦音	hian yin	1
+弦音	hian yim	1
 張俊雄	zhang zvn hiong	3
 張大春	zhang da chun	4
 張安樂	zhang an le	1
 張數	zhang shu	1
 張曼娟	zhang man gvan	8
-張柏謙	zhang bo kian	1
+張柏謙	zhang bo kiam	1
 張鎬哲	zhang hao zhe	1
-強制責任險	kiang zhii ze ren hian	1
+強制責任險	kiang zhii ze rem hiam	1
 強大到	kiang da dao	1
 強尼戴普	kiang ni dai pu	1
 強度極限	kiang du gi hian	1
@@ -126775,14 +126775,14 @@ import_tables:
 很着急	hen zhao gi	1
 很難的	hen nan de	1
 很難考	hen nan kao	1
-很難賺	hen nan zhuan	1
+很難賺	hen nan zhuam	1
 後不見來者	hou bu gian lai zhe	1
 後傳	hou zhuan	1
-後勁站	hou gin zhan	1
+後勁站	hou gin zham	1
 後天免疫不全	hou tian mian yi bu cvan	1
 後天免疫缺乏	hou tian mian yi kve fa	1
 後山埤	hou shan bi	1
-後廉模式	hou lian mo shii	1
+後廉模式	hou liam mo shii	1
 後掠角	hou lve giao	1
 後臺老板	hou tai lao ban	1
 後避震	hou bi zhen	1
@@ -126805,7 +126805,7 @@ import_tables:
 得美新	de mei sin	1
 得饒人處	de rao ren chu	1
 得高	de gao	1
-得點圈	de dian kvan	1
+得點圈	de diam kvan	1
 從下至上	cong hia zhii shang	1
 從何著手	cong he zhuo shou	1
 從何開始	cong he kai shii	1
@@ -126823,11 +126823,11 @@ import_tables:
 御飯糰	yv fan tuan	1
 御香坊	yv hiang fang	1
 御魂女	yv hun nv	1
-復函	fu han	1
+復函	fu ham	1
 復刻版	fu ke ban	1
 復合	fu he	1
 復員軍人	fu yvan gvn ren	1
-復審	fu shen	1
+復審	fu shem	1
 復建科	fu gian ke	1
 復旦中學	fu dan zhong hve	1
 復旦高中	fu dan gao zhong	1
@@ -126856,18 +126856,18 @@ import_tables:
 德明商業	de ming shang ye	1
 德蕾莎修女	de lei sha siu nv	2
 德行東路	de hing dong lu	1
-心宿	sin siu	1
-心想說	sin siang shuo	1
-心意把	sin yi ba	1
-心房中隔缺損	sin fang zhong ge kve sun	1
-心有戚戚	sin you ci ci	1
-心有戚戚焉	sin you ci ci yan	1
-心有所屬	sin you suo shu	1
-心機重	sin gi zhong	1
-心歸何處	sin gui he chu	1
-心理學者	sin li hve zhe	1
-心理投射	sin li tou she	1
-心目中的	sin mu zhong de	1
+心宿	sim siu	1
+心想說	sim siang shuo	1
+心意把	sim yi ba	1
+心房中隔缺損	sim fang zhong ge kve sun	1
+心有戚戚	sim you ci ci	1
+心有戚戚焉	sim you ci ci yan	1
+心有所屬	sim you suo shu	1
+心機重	sim gi zhong	1
+心歸何處	sim gui he chu	1
+心理學者	sim li hve zhe	1
+心理投射	sim li tou she	1
+心目中的	sim mu zhong de	1
 必殺技	bi sha gi	1
 忍俊不住	ren zvn bu zhu	1
 忍受得了	ren shou de liao	1
@@ -126879,11 +126879,11 @@ import_tables:
 忙得很	mang de hen	1
 忠孝不能	zhong hiao bu neng	1
 忠孝分行	zhong hiao fen hang	1
-忠孝復興站	zhong hiao fu hing zhan	1
+忠孝復興站	zhong hiao fu hing zham	1
 忠於原著	zhong yv yvan zhu	1
 快不快樂	kuai bu kuai le	1
 快得很	kuai de hen	1
-快感指令	kuai gan zhii ling	1
+快感指令	kuai gam zhii ling	1
 快拆座	kuai chai zuo	1
 快拆片	kuai chai pian	1
 快爆了	kuai bao le	1
@@ -126891,12 +126891,12 @@ import_tables:
 快門延遲	kuai men yan chii	1
 快門遲滯	kuai men chii zhii	1
 快騎	kuai gi	1
-念了	nian le	1
-念天地之悠悠	nian tian di zhii you you	1
-念錯	nian cuo	1
+念了	niam le	1
+念天地之悠悠	niam tian di zhii you you	1
+念錯	niam cuo	1
 怎的	zen de	1
 怎行	zen hing	1
-怎麼賺	zen me zhuan	1
+怎麼賺	zen me zhuam	1
 怏嚇	yang he	1
 怕得很	pa de hen	1
 思樂冰	sii le bing	1
@@ -126905,7 +126905,7 @@ import_tables:
 思賢國小	sii hian guo siao	1
 思麥特	sii mai te	1
 急啊	gi a	1
-急性心肌梗塞	gi hing sin gi geng se	1
+急性心肌梗塞	gi hing sim gi geng se	1
 急性期	gi hing ki	1
 急的話	gi de hua	1
 性喜漁色	hing hi yv se	1
@@ -126936,9 +126936,9 @@ import_tables:
 惠比壽	hui bi shou	1
 惡作劇之吻	e zuo gv zhii wen	1
 惡名昭張	e ming zhao zhang	1
-惡心感	e sin gan	1
+惡心感	e sim gam	1
 惡意購併	e yi gou bing	1
-惡男	e nan	1
+惡男	e nam	1
 惡趣味	e cv wei	1
 惡鄰居	e lin gv	1
 惡靈古堡	e ling gu bao	1
@@ -126952,31 +126952,31 @@ import_tables:
 愈淺	yv cian	1
 愈簡單	yv gian dan	1
 愈遜	yv svn	1
-愈陷愈深	yv hian yv shen	1
+愈陷愈深	yv hiam yv shem	1
 愈難	yv nan	1
 愈需要	yv hv yao	1
 意味不明	yi wei bu ming	1
-意外責任險	yi wai ze ren hian	1
-意志消沈	yi zhii siao chen	1
+意外責任險	yi wai ze rem hiam	1
+意志消沈	yi zhii siao chem	1
 愛似百匯	ai sii bai hui	1
-愛國同心會	ai guo tong sin hui	1
+愛國同心會	ai guo tong sim hui	1
 愛奇華	ai ki hua	1
 愛樂管弦樂團	ai yve guan hian yve tuan	2
 愛的木莓寮	ai de mu mei liao	1
-感人至深	gan ren zhii shen	1
-感光鼓	gan guang gu	1
-感到憂心忡忡	gan dao you sin chong chong	1
-感應到	gan ying dao	1
-感應式	gan ying shii	1
-感染到	gan ran dao	1
-感覺得到	gan gve de dao	1
-慈善基金會	cii shan gi gin hui	1
+感人至深	gam ren zhii shem	1
+感光鼓	gam guang gu	1
+感到憂心忡忡	gam dao you sim chong chong	1
+感應到	gam ying dao	1
+感應式	gam ying shii	1
+感染到	gam ram dao	1
+感覺得到	gam gve de dao	1
+慈善基金會	cii shan gi gim hui	1
 慈濟綜合醫院	cii zi zong he yi yvan	1
 慈青社	cii cing she	1
 慈鯛魚	cii diao yv	1
 態度佳	tai du gia	1
 慕桐堡	mu tong bao	1
-慚不慚愧	can bu can kui	1
+慚不慚愧	cam bu cam kui	1
 慢吃	man chii	1
 慢壘	man lei	1
 慢壘隊	man lei dui	1
@@ -126987,7 +126987,7 @@ import_tables:
 慢跑鞋	man pao hie	1
 慶豐銀行	king fong yin hang	1
 憤怒鳥	fen nu niao	1
-憩室炎	ki shii yan	1
+憩室炎	ki shii yam	1
 懂不懂	dong bu dong	1
 懂是的	dong shii de	1
 應不應該	ying bu ying gai	1
@@ -126996,7 +126996,7 @@ import_tables:
 應用美術系	ying yong mei shu hi	1
 應蔚民	ying wei min	1
 應變數	ying bian shu	1
-應邀參加	ying yao can gia	1
+應邀參加	ying yao cam gia	1
 懲治盜匪條例	cheng zhii dao fei tiao li	1
 懲治走私條例	cheng zhii zou sii tiao li	1
 懷石料理	huai shii liao li	1
@@ -127063,7 +127063,7 @@ import_tables:
 才讀	cai du	1
 才讀到	cai du dao	1
 才驚覺	cai ging gve	1
-扎一針	zha yi zhen	1
+扎一針	zha yi zhem	1
 扒食	pa shii	1
 打不着	da bu zhao	1
 打幾折	da gi zhe	1
@@ -127078,15 +127078,15 @@ import_tables:
 打錯字	da cuo zii	1
 打零工	da ling gong	1
 打響知名度	da hiang zhii ming du	1
-打點數	da dian shu	1
-打點王	da dian wang	1
+打點數	da diam shu	1
+打點王	da diam wang	1
 托了	tuo le	1
-托斯坎那	tuo sii kan na	1
+托斯坎那	tuo sii kam na	1
 托着	tuo zhe	1
 托缽僧	tuo bo seng	1
 扛壩子	kang ba zii	1
 扛扛擡擡	kang kang tai tai	1
-扮黑臉	ban hei lian	1
+扮黑臉	ban hei liam	1
 批判性思考	pi pan hing sii kao	1
 找不	zhao bu	1
 找不着	zhao bu zhao	1
@@ -127105,7 +127105,7 @@ import_tables:
 抓兔子	zhua tu zii	1
 抓包	zhua bao	1
 抓姦在牀	zhua gian zai chuang	1
-抓岩機	zhua yan gi	1
+抓岩機	zhua yam gi	1
 抓漏	zhua lou	1
 抓狂一族	zhua kuang yi zu	1
 抓猴	zhua hou	1
@@ -127125,7 +127125,7 @@ import_tables:
 抗耀光	kang yao guang	1
 抗血壓藥	kang hve ya yao	1
 折不折騰	zhe bu zhe teng	1
-折戟沈河	zhe gi chen he	1
+折戟沈河	zhe gi chem he	1
 折線圖	zhe sian tu	1
 折進來	zhe gin lai	1
 折進去	zhe gin kv	1
@@ -127183,7 +127183,7 @@ import_tables:
 挾菜	gia cai	1
 捉對廝殺	zhuo dui sii sha	1
 捍衛國家	han wei guo gia	1
-捐血站	gvan hve zhan	1
+捐血站	gvan hve zham	1
 捐輸給	gvan shu gei	1
 捕獸鋏	bu shou gia	1
 捕食量	bu shii liang	1
@@ -127204,8 +127204,8 @@ import_tables:
 掃盪	sao dang	1
 授權給	shou kvan gei	1
 掉漆	diao ci	1
-掏心挖肺	tao sin wa fei	1
-掏心掏肺	tao sin tao fei	1
+掏心挖肺	tao sim wa fei	1
+掏心掏肺	tao sim tao fei	1
 排放物	pai fang wu	1
 排骨湯	pai gu tang	1
 掠地	lve di	1
@@ -127214,7 +127214,7 @@ import_tables:
 採花大盜	cai hua da dao	1
 採購單	cai gou dan	1
 採購組長	cai gou zu zhang	1
-探着	tan zhao	1
+探着	tam zhao	1
 接他	zie ta	1
 接他們	zie ta men	1
 接受度	zie shou du	2
@@ -127228,27 +127228,27 @@ import_tables:
 推廣給	tui guang gei	1
 推荐給	tui zian gei	1
 推薦給	tui zian gei	1
-掩藏着	yan cang zhe	1
+掩藏着	yam cang zhe	1
 揍我	zou wo	1
 提前結標	ti cian gie biao	1
 提報數	ti bao shu	1
 提姆	ti mu	1
 提得出	ti de chu	1
-提振軍心	ti zhen gvn sin	1
+提振軍心	ti zhen gvn sim	1
 提撥率	ti bo lv	1
 提維西	ti wei si	1
 提詞本	ti cii ben	1
 提高到	ti gao dao	1
 插卡式	cha ka shii	1
 換槍	huan ciang	1
-握感	wo gan	1
+握感	wo gam	1
 握手會	wo shou hui	1
 揮臂式	hui bi shii	1
 搆不着	gou bu zhao	1
-搏感情	bo gan cing	1
+搏感情	bo gam cing	1
 搖搖曳曳	yao yao ye ye	1
-搖滾藍薔薇	yao gun lan ciang wei	1
-搜尋法	sou svn fa	1
+搖滾藍薔薇	yao gun lam ciang wei	1
+搜尋法	sou svm fa	1
 搞不清楚	gao bu cing chu	1
 搞什麼東西	gao shen me dong si	1
 搞定了	gao ding le	1
@@ -127269,7 +127269,7 @@ import_tables:
 搶建	ciang gian	1
 搶搬	ciang ban	1
 搶救回來	ciang giu hui lai	1
-搶救站	ciang giu zhan	1
+搶救站	ciang giu zham	1
 搶救雷恩大兵	ciang giu lei en da bing	1
 搶短	ciang duan	1
 搶進搶出	ciang gin ciang chu	1
@@ -127289,7 +127289,7 @@ import_tables:
 摺疊式	zhe die shii	1
 摺疊爲	zhe die wei	1
 摺疊牀	zhe die chuang	1
-摻加	chan gia	1
+摻加	cham gia	1
 撇條	pie tiao	1
 撐下去呀	cheng hia kv ya	1
 撞個正着	zhuang ge zheng zhao	1
@@ -127297,13 +127297,13 @@ import_tables:
 撞飛	zhuang fei	1
 撥不出去	bo bu chu kv	1
 撥系統	bo hi tong	1
-撫恤金	fu sv gin	1
+撫恤金	fu sv gim	1
 撫髀興歎	fu bi hing tan	1
-播音樂	bo yin yve	1
-撿紅點	gian hong dian	1
+播音樂	bo yim yve	1
+撿紅點	giam hong diam	1
 擄走	lu zou	1
 擇一	ze yi	1
-擊沈	gi chen	1
+擊沈	gi chem	1
 擋不擋得住	dang bu dang de zhu	1
 擋得下	dang de hia	1
 擋得住	dang de zhu	1
@@ -127324,7 +127324,7 @@ import_tables:
 擷摘	gie zhai	1
 擺什麼	bai shen me	1
 攜行袋	hi hing dai	1
-攝護腺炎	she hu sian yan	1
+攝護腺炎	she hu sian yam	1
 攝護腺癌	she hu sian ai	2
 攝食量	she shii liang	1
 攢下	cuan hia	1
@@ -127344,7 +127344,7 @@ import_tables:
 改不	gai bu	1
 改吃	gai chii	1
 改裝車	gai zhuang che	1
-攻佔了	gong zhan le	1
+攻佔了	gong zham le	1
 攻殼	gong ke	1
 攻殼機動隊	gong ke gi dong dui	1
 放他一馬	fang ta yi ma	1
@@ -127360,12 +127360,12 @@ import_tables:
 政治圈	zheng zhii kvan	1
 政治學者	zheng zhii hve zhe	1
 政治所	zheng zhii suo	1
-政治獻金	zheng zhii sian gin	1
+政治獻金	zheng zhii sian gim	1
 政黑板	zheng hei ban	1
 故院長	gu yvan zhang	1
 效率化	hiao lv hua	1
 效率性	hiao lv hing	1
-敏感詞	min gan cii	1
+敏感詞	min gam cii	1
 敏銳度	min rui du	1
 救命錢	giu ming cian	1
 救難人員	giu nan ren yvan	1
@@ -127386,13 +127386,13 @@ import_tables:
 教職員生	giao zhii yvan sheng	1
 教育學分	giao yv hve fen	1
 教評會	giao ping hui	1
-敢唸	gan nian	1
-敢這樣	gan zhe yang	1
+敢唸	gam niam	1
+敢這樣	gam zhe yang	1
 散景	san ging	1
 敦化北路口	dun hua bei lu kou	1
-敦化南北路	dun hua nan bei lu	1
-敦化南路口	dun hua nan lu kou	1
-敦南	dun nan	1
+敦化南北路	dun hua nam bei lu	1
+敦化南路口	dun hua nam lu kou	1
+敦南	dun nam	1
 敦吉	dun gi	1
 敦睦支隊	dun mu zhii dui	1
 敦陽	dun yang	1
@@ -127405,7 +127405,7 @@ import_tables:
 數位印花	shu wei yin hua	1
 數位單眼板	shu wei dan yan ban	1
 數位式	shu wei shii	1
-數位影音	shu wei ying yin	1
+數位影音	shu wei ying yim	1
 數位直噴	shu wei zhii pen	1
 數位相框	shu wei siang kuang	1
 數位變焦	shu wei bian ziao	1
@@ -127427,38 +127427,38 @@ import_tables:
 文字辨識	wen zii bian shii	1
 文學革命論	wen hve ge ming lun	1
 文官學苑	wen guan hve yvan	1
-文建基金會	wen gian gi gin hui	1
+文建基金會	wen gian gi gim hui	1
 文攻武嚇	wen gong wu he	1
 文曄	wen ye	1
-文林苑	wen lin yvan	1
+文林苑	wen lim yvan	1
 文治武德	wen zhii wu de	1
 文藝復興式	wen yi fu hing shii	1
 文藝復興時代	wen yi fu hing shii dai	1
 文蛤丸	wen ge wan	1
 斐瑟	fei se	1
 斗六國中	dou liu guo zhong	1
-斗南高中	dou nan gao zhong	1
+斗南高中	dou nam gao zhong	1
 斜背包	sie bei bao	1
 斜角規	sie giao gui	1
-斯堪的納維亞	sii kan di na wei ya	1
+斯堪的納維亞	sii kam di na wei ya	1
 斯巴達式	sii ba da shii	1
 新了	sin le	1
-新光三越百貨	sin guang san yve bai huo	1
+新光三越百貨	sin guang sam yve bai huo	1
 新利虹	sin li hong	1
 新劇情	sin gv cing	1
-新力音樂	sin li yin le	1
+新力音樂	sin li yim le	1
 新北投	sin bei tou	1
 新北橋	sin bei kiao	1
-新南威爾斯	sin nan wei er sii	1
+新南威爾斯	sin nam wei er sii	1
 新國家連線	sin guo gia lian sian	1
 新堀江	sin gve giang	1
 新天堂樂園	sin tian tang le yvan	3
 新媒體藝術	sin mei ti yi shu	1
-新店區	sin dian kv	1
+新店區	sin diam kv	1
 新日興	sin rii hing	1
 新樂園	sin le yvan	1
 新渡戶稻造	sin du hu dao zao	1
-新生南北路	sin sheng nan bei lu	1
+新生南北路	sin sheng nam bei lu	1
 新疆自治	sin giang zii zhii	1
 新發行	sin fa hing	1
 新竹地方法院	sin zhu di fang fa yvan	1
@@ -127466,13 +127466,13 @@ import_tables:
 新竹縣市	sin zhu hian shii	7
 新竹縣誌	sin zhu hian zhii	1
 新系列	sin hi lie	1
-新纖	sin sian	1
+新纖	sin siam	1
 新聞局長	sin wen gv zhang	1
 新聞處長	sin wen chu zhang	1
 新聞評議會	sin wen ping yi hui	1
 新英格蘭區	sin ying ge lan kv	1
 新莊區	sin zhuang kv	1
-新藍海	sin lan hai	1
+新藍海	sin lam hai	1
 新詞庫	sin cii ku	1
 新陳代謝率	sin chen dai sie lv	1
 斷食法	duan shii fa	1
@@ -127494,7 +127494,7 @@ import_tables:
 日劇板	rii gv ban	1
 日勝化	rii sheng hua	1
 日勝生	rii sheng sheng	1
-日南國中	rii nan guo zhong	1
+日南國中	rii nam guo zhong	1
 日均線	rii gvn sian	1
 日常生活類	rii chang sheng huo lei	1
 日式純愛	rii shii chun ai	1
@@ -127503,7 +127503,7 @@ import_tables:
 日晒	rii shai	3
 日暮西山	rii mu si shan	1
 日月光	rii yve guang	1
-日月潭紅茶	rii yve tan hong cha	1
+日月潭紅茶	rii yve tam hong cha	1
 日月經天江河行地	rii yve ging tian giang he hing di	1
 日本兵	rii ben bing	1
 日本年糕	rii ben nian gao	1
@@ -127514,10 +127514,10 @@ import_tables:
 日本貨	rii ben huo	1
 日本電氣公司	rii ben dian ki gong sii	1
 日本餐	rii ben can	1
-日檢	rii gian	1
+日檢	rii giam	1
 日沒	rii mo	1
 日清杯麪	rii cing bei mian	2
-日漸式微	rii zian shii wei	1
+日漸式微	rii ziam shii wei	1
 日膏	rii gao	1
 日舞影展	rii wu ying zhan	1
 日落而息	rii luo er si	1
@@ -127551,21 +127551,21 @@ import_tables:
 明耀百貨	ming yao bai huo	1
 明著	ming zhu	1
 明誠中學	ming cheng zhong hve	1
-昏昏沈沈	hun hun chen chen	1
-昏沈	hun chen	1
+昏昏沈沈	hun hun chem chem	1
+昏沈	hun chem	1
 易付卡	yi fu ka	1
 易卡紙	yi ka zhii	1
 易把持	yi ba chii	1
 易物	yi wu	1
 易碎物	yi sui wu	1
 易碎物品	yi sui wu pin	1
-星星知我心	sing sing zhii wo sin	1
-星艦奇航	sing gian ki hang	1
+星星知我心	sing sing zhii wo sim	1
+星艦奇航	sing giam ki hang	1
 春光乍洩	chun guang zha hie	1
 春光外洩	chun guang wai hie	1
 春吶	chun na	1
 春夢了無痕	chun mong liao wu hen	1
-春天吶喊	chun tian na han	1
+春天吶喊	chun tian na ham	1
 春秋左氏	chun ciu zuo shii	1
 是不會有	shii bu hui you	1
 是不疼	shii bu teng	1
@@ -127577,7 +127577,7 @@ import_tables:
 時乘六龍	shii cheng liu long	1
 時候會	shii hou hui	1
 時大約	shii da yve	1
-時尚感	shii shang gan	1
+時尚感	shii shang gam	1
 時尚達人	shii shang da ren	1
 時時樂	shii shii le	1
 時脈還	shii mai hai	1
@@ -127586,9 +127586,9 @@ import_tables:
 時鮮蔬菜	shii sian shu cai	1
 晚餐錢	wan can cian	1
 晟銘電	cheng ming dian	1
-晟鑫科技	cheng hin ke gi	1
+晟鑫科技	cheng him ke gi	1
 普魯士王	pu lu shii wang	1
-景深預覽	ging shen yv lan	1
+景深預覽	ging shem yv lam	1
 景碩	ging shuo	1
 景福會館	ging fu hui guan	1
 景美國中	ging mei guo zhong	1
@@ -127598,12 +127598,12 @@ import_tables:
 智者樂水	zhii zhe yao shui	1
 暈開	yvn kai	1
 暑期育樂營	shu ki yv le ying	1
-暗沈沈	an chen chen	1
-暗綠色	an lv se	1
-暗角	an giao	1
-暗黑破壞神	an hei po huai shen	1
+暗沈沈	am chem chem	1
+暗綠色	am lv se	1
+暗角	am giao	1
+暗黑破壞神	am hei po huai shen	1
 暨大附中	gi da fu zhong	1
-暫稱	zhan cheng	1
+暫稱	zham cheng	1
 暴升	bao sheng	1
 暴拳凶星	bao kvan hiong sing	1
 暴熱	bao re	1
@@ -127624,7 +127624,7 @@ import_tables:
 更原	geng yvan	1
 更寮腳	geng liao giao	1
 更弱	geng ruo	1
-更添	geng tian	1
+更添	geng tiam	1
 更滑	geng hua	1
 更該見	geng gai gian	1
 更遭到	geng zao dao	1
@@ -127657,7 +127657,7 @@ import_tables:
 會出現	hui chu hian	1
 會叫的	hui giao de	1
 會常看到	hui chang kan dao	1
-會心一擊	hui sin yi gi	1
+會心一擊	hui sim yi gi	1
 會忘	hui wang	1
 會擋	hui dang	1
 會校正	hui giao zheng	1
@@ -127679,7 +127679,7 @@ import_tables:
 月光山	yve guang shan	1
 月底止	yve di zhii	1
 月是故鄉明	yve shii gu hiang ming	1
-月有陰晴圓缺	yve you yin cing yvan kve	1
+月有陰晴圓缺	yve you yim cing yvan kve	1
 月柱	yve zhu	1
 月見草	yve gian cao	1
 月見草滴	yve gian cao di	1
@@ -127725,7 +127725,7 @@ import_tables:
 朴正熙	piao zheng hi	1
 杉材	sha cai	1
 李奧納多	li ao na duo	1
-李學林	li hve lin	1
+李學林	li hve lim	1
 李居明	li gv ming	1
 杜比	du bi	1
 束諸高閣	shu zhu gao ge	1
@@ -127737,8 +127737,8 @@ import_tables:
 東大墩街	dong da dun gie	1
 東大附中	dong da fu zhong	1
 東方白鸛	dong fang bai guan	1
-東森綜合臺	dong sen zong he tai	1
-東西柏林	dong si bo lin	1
+東森綜合臺	dong sem zong he tai	1
+東西柏林	dong si bo lim	1
 東貿	dong mao	1
 東邪西毒	dong sie si du	1
 東野圭吾	dong ye gui wu	1
@@ -127753,23 +127753,23 @@ import_tables:
 板橋地方法院	ban kiao di fang fa yvan	1
 板橋高中	ban kiao gao zhong	1
 板聚	ban zv	1
-枕席難安	zhen si nan an	1
-林其緯	lin ki wei	1
-林務局長	lin wu gv zhang	1
-林口區	lin kou kv	1
-林口長庚醫院	lin kou chang geng yi yvan	1
-林園區	lin yvan kv	1
-林女	lin nv	1
-林姍	lin shan	1
-林宅	lin zhai	1
-林家煌	lin gia huang	1
-林強	lin kiang	1
-林政課長	lin zheng ke zhang	1
-林榮三	lin rong san	1
-林氏	lin shii	1
-林爸	lin ba	1
-林百里	lin bai li	1
-林肯大郡	lin ken da gvn	1
+枕席難安	zhem si nan an	1
+林其緯	lim ki wei	1
+林務局長	lim wu gv zhang	1
+林口區	lim kou kv	1
+林口長庚醫院	lim kou chang geng yi yvan	1
+林園區	lim yvan kv	1
+林女	lim nv	1
+林姍	lim shan	1
+林宅	lim zhai	1
+林家煌	lim gia huang	1
+林強	lim kiang	1
+林政課長	lim zheng ke zhang	1
+林榮三	lim rong sam	1
+林氏	lim shii	1
+林爸	lim ba	1
+林百里	lim bai li	1
+林肯大郡	lim ken da gvn	1
 果園區	guo yvan kv	1
 果然有差	guo ran you cha	1
 果綠色	guo lv se	1
@@ -127780,11 +127780,11 @@ import_tables:
 柏承	bo cheng	1
 柏拉	bo la	1
 柏拉圖式	bo la tu shii	1
-柏林市	bo lin shii	1
-柏琳	bo lin	1
+柏林市	bo lim shii	1
+柏琳	bo lim	1
 柏騰	bo teng	1
-柑仔店	gan zii dian	1
-染色體組	ran se ti zu	1
+柑仔店	gam zii diam	1
+染色體組	ram se ti zu	1
 柔似蜜市	rou sii mi shii	1
 查一下	cha yi hia	1
 查完	cha wan	1
@@ -127799,7 +127799,7 @@ import_tables:
 查著	cha zhu	1
 查資料	cha zii liao	1
 柯夢波丹	ke mong bo dan	1
-柯江會談	ke giang hui tan	1
+柯江會談	ke giang hui tam	1
 柳信美	liu sin mei	1
 柳橙原汁	liu cheng yvan zhii	1
 柴可洛奇	chai ke luo ki	1
@@ -127810,7 +127810,7 @@ import_tables:
 栖栖皇皇	ci ci huang huang	1
 校刊社	hiao kan she	1
 校務會議	hiao wu hui yi	1
-校務評鑑	hiao wu ping gian	1
+校務評鑑	hiao wu ping giam	1
 校園霸凌	hiao yvan ba ling	1
 校產	hiao chan	1
 校色	giao se	1
@@ -127819,8 +127819,8 @@ import_tables:
 校過	giao guo	1
 校選預士	hiao svan yv shii	1
 核一廠	he yi chang	1
-核三	he san	1
-核三廠	he san chang	4
+核三	he sam	1
+核三廠	he sam chang	4
 核四廠	he sii chang	1
 核子反應堆	he zii fan ying dui	1
 核子廢料	he zii fei liao	1
@@ -127854,11 +127854,11 @@ import_tables:
 棋靈王	ki ling wang	1
 棋魂	ki hun	1
 棒球板	bang kiu ban	1
-森田藥妝	sen tian yao zhuang	1
-森羅博物館	sen luo bo wu guan	1
+森田藥妝	sem tian yao zhuang	1
+森羅博物館	sem luo bo wu guan	1
 棲地	ci di	3
 棲蘭	ci lan	1
-椎名林檎	zhui ming lin kin	1
+椎名林檎	zhui ming lim kim	1
 椒橙花	ziao cheng hua	1
 楊乃文	yang nai wen	1
 楊傳廣	yang chuan guang	1
@@ -127866,8 +127866,8 @@ import_tables:
 楊桃乾	yang tao gan	1
 楓港溪	fong gang hi	1
 楚門的世界	chu men de shii gie	1
-楠梓加工區	nan zii gia gong kv	1
-楠梓加工區站	nan zii gia gong kv zhan	1
+楠梓加工區	nam zii gia gong kv	1
+楠梓加工區站	nam zii gia gong kv zham	1
 業務處長	ye wu chu zhang	1
 極其重要	gi ki zhong yao	1
 極地大陸氣團	gi di da lu ki tuan	1
@@ -127891,7 +127891,7 @@ import_tables:
 模糊掉	mo hu diao	1
 樹枝孤鳥	shu zhii gu niao	1
 橋頭區	kiao tou kv	1
-橋頭火車站	kiao tou huo che zhan	1
+橋頭火車站	kiao tou huo che zham	1
 橘行星之戀	gv hing sing zhii lian	1
 橙路	cheng lu	1
 機動利率	gi dong li lv	1
@@ -127900,32 +127900,32 @@ import_tables:
 機差	gi cha	1
 機械唯物	gi hie wei wu	1
 機械工程系	gi hie gong cheng hi	1
-機械浪劍客黑鐵	gi gie lang gian ke hei tie	1
+機械浪劍客黑鐵	gi gie lang giam ke hei tie	1
 機殼裏	gi ke li	1
 機率值	gi lv zhii	1
 機車展	gi che zhan	1
 機車廠	gi che chang	1
-機車強制險	gi che kiang zhii hian	1
+機車強制險	gi che kiang zhii hiam	1
 機車板	gi che ban	1
 機車秀	gi che hiu	1
 機車道	gi che dao	1
 橫衝直闖	heng chong zhii chuang	1
-檢察司長	gian cha sii zhang	1
-檢察首長	gian cha shou zhang	1
-檢查口	gian cha kou	1
+檢察司長	giam cha sii zhang	1
+檢察首長	giam cha shou zhang	1
+檢查口	giam cha kou	1
 櫻花蝦	ying hua hia	1
 櫻花鉤吻鮭	ying hua gou wen gui	1
-欠他	kian ta	1
-欠債未還	kian zhai wei huan	1
-欠帳未還	kian zhang wei huan	1
-欠會錢	kian hui cian	1
-欠錢未還	kian cian wei huan	1
+欠他	kiam ta	1
+欠債未還	kiam zhai wei huan	1
+欠帳未還	kiam zhang wei huan	1
+欠會錢	kiam hui cian	1
+欠錢未還	kiam cian wei huan	1
 次微米	cii wei mi	1
 次郎	cii lang	1
 欲將	yv ziang	1
 欲製造	yv zhii zao	1
 欲辯已忘言	yv bian yi wang yan	1
-欽羡	kin sian	1
+欽羡	kim sian	1
 歌仔調	ge zii diao	1
 歌劇魅影	ge gv mei ying	1
 歌單	ge dan	1
@@ -127938,7 +127938,7 @@ import_tables:
 歐白芷	ou bai zhii	1
 歐美先進國家	ou mei sian gin guo gia	1
 歐陽嶠暉	ou yang giao hui	1
-止滑墊	zhii hua dian	1
+止滑墊	zhii hua diam	1
 正修科大	zheng siu ke da	1
 正則表達式	zheng ze biao da shii	1
 正副會長	zheng fu hui zhang	1
@@ -127972,7 +127972,7 @@ import_tables:
 歹命仔	dai ming zai	1
 死亡數	sii wang shu	1
 死傷不計	sii shang bu gi	1
-死傷慘重	sii shang can zhong	1
+死傷慘重	sii shang cam zhong	1
 死性不改	sii hing bu gai	1
 殂沒	cu mo	1
 殆忽	dai hu	1
@@ -127995,16 +127995,16 @@ import_tables:
 殺聲	sha sheng	1
 殺陸	sha lu	1
 毆飛	ou fei	1
-每三年	mei san nian	1
+每三年	mei sam nian	1
 每件事物	mei gian shii wu	1
 毒性化學物質	du hing hua hve wu zhii	1
 比一般	bi yi ban	1
-比任何	bi ren he	1
+比任何	bi rem he	1
 比佛利	bi fo li	1
 比利時籍	bi li shii zi	1
 比爾蓋茲	bi er gai zii	1
 比特犬	bi te kvan	1
-比自然音	bi zii ran yin	1
+比自然音	bi zii ran yim	1
 比賽是	bi sai shii	1
 比較久	bi giao giu	1
 比較好玩	bi giao hao wan	1
@@ -128020,7 +128020,7 @@ import_tables:
 民主共和國	min zhu gong he guo	1
 民主女神	min zhu nv shen	1
 民主女神像	min zhu nv shen siang	1
-民心思變	min sin sii bian	1
+民心思變	min sim sii bian	1
 民族區域	min zu kv yv	1
 民生社區	min sheng she kv	2
 民答那峨島	min da na e dao	1
@@ -128030,15 +128030,15 @@ import_tables:
 氣勢磅礡	ki shii pang bo	1
 氦氖氬氪氙氡	hai nai ya ke sian dong	1
 氧硫硒碲釙	yang liu si di po	1
-氮磷砷銻鉍	dan lin shen ti bi	1
-氮磷鉀	dan lin gia	1
+氮磷砷銻鉍	dam lin shen ti bi	1
+氮磷鉀	dam lin gia	1
 水上樂園	shui shang le yvan	1
 水木書苑	shui mu shu yvan	1
 水果行	shui guo hang	1
 水洩不通	shui hie bu tong	1
 水溝蓋	shui gou gai	1
 水肥車	shui fei che	1
-水藍色	shui lan se	1
+水藍色	shui lam se	1
 水貝兒	shui bei er	1
 永信	yong sin	1
 永和區	yong he kv	1
@@ -128057,72 +128057,72 @@ import_tables:
 汰換率	tai huan lv	1
 決定了	gve ding le	1
 汽機車	ki gi che	3
-沈下	chen hia	1
-沈下去	chen hia kv	1
-沈不住氣	chen bu zhu ki	1
-沈住氣	chen zhu ki	1
-沈冤	chen yvan	1
-沈厚	chen hou	1
-沈君山	shen gvn shan	1
-沈吟	chen yin	1
-沈寂	chen zi	1
-沈得住氣	chen de zhu ki	1
-沈志杰	chen zhii gie	1
-沈思	chen sii	1
-沈思往事	chen sii wang shii	1
-沈悶	chen men	1
-沈文程	shen wen cheng	1
-沈沒	chen mo	1
-沈浮	chen fu	1
-沈浸	chen zin	1
-沈淪	chen lun	1
-沈溺	chen ni	1
-沈滯	chen zhii	1
-沈滯性	chen zhii hing	1
-沈潛	chen cian	1
-沈澱	chen dian	1
-沈澱出來	chen dian chu lai	1
-沈澱法	chen dian fa	1
-沈澱物	chen dian wu	1
-沈濁	chen zhuo	1
-沈甸甸	chen dian dian	1
-沈痛	chen tong	1
-沈痼	chen gu	1
-沈痾	chen e	1
-沈睡	chen shui	1
-沈睡不醒	chen shui bu sing	1
-沈砂池	chen sha chii	1
-沈積	chen zi	1
-沈積下來	chen zi hia lai	1
-沈積岩	chen zi yan	1
-沈積石	chen zi shii	1
-沈穩	chen wen	1
-沈筒	chen tong	1
-沈船	chen chuan	1
-沈落	chen luo	1
-沈迷	chen mi	1
-沈迷不醒	chen mi bu sing	1
-沈醉	chen zui	1
-沈重	chen zhong	1
-沈降	chen giang	1
-沈陷	chen hian	1
-沈靜	chen zing	1
-沈靜下來	chen zing hia lai	1
-沈香	chen hiang	1
-沈鬱	chen yv	1
-沈魚落雁	chen yv luo yan	1
-沈默	chen mo	1
-沈默下來	chen mo hia lai	1
-沈默不語	chen mo bu yv	1
-沈默寡言	chen mo gua yan	1
-沉着冷靜	chen zhuo leng zing	1
-沉着應付	chen zhuo ying du	1
-沉着應戰	chen zhuo ying zhan	1
+沈下	chem hia	1
+沈下去	chem hia kv	1
+沈不住氣	chem bu zhu ki	1
+沈住氣	chem zhu ki	1
+沈冤	chem yvan	1
+沈厚	chem hou	1
+沈君山	shem gvn shan	1
+沈吟	chem yim	1
+沈寂	chem zi	1
+沈得住氣	chem de zhu ki	1
+沈志杰	chem zhii gie	1
+沈思	chem sii	1
+沈思往事	chem sii wang shii	1
+沈悶	chem men	1
+沈文程	shem wen cheng	1
+沈沒	chem mo	1
+沈浮	chem fu	1
+沈浸	chem zim	1
+沈淪	chem lun	1
+沈溺	chem ni	1
+沈滯	chem zhii	1
+沈滯性	chem zhii hing	1
+沈潛	chem ciam	1
+沈澱	chem dian	1
+沈澱出來	chem dian chu lai	1
+沈澱法	chem dian fa	1
+沈澱物	chem dian wu	1
+沈濁	chem zhuo	1
+沈甸甸	chem dian dian	1
+沈痛	chem tong	1
+沈痼	chem gu	1
+沈痾	chem e	1
+沈睡	chem shui	1
+沈睡不醒	chem shui bu sing	1
+沈砂池	chem sha chii	1
+沈積	chem zi	1
+沈積下來	chem zi hia lai	1
+沈積岩	chem zi yam	1
+沈積石	chem zi shii	1
+沈穩	chem wen	1
+沈筒	chem tong	1
+沈船	chem chuan	1
+沈落	chem luo	1
+沈迷	chem mi	1
+沈迷不醒	chem mi bu sing	1
+沈醉	chem zui	1
+沈重	chem zhong	1
+沈降	chem giang	1
+沈陷	chem hiam	1
+沈靜	chem zing	1
+沈靜下來	chem zing hia lai	1
+沈香	chem hiang	1
+沈鬱	chem yv	1
+沈魚落雁	chem yv luo yan	1
+沈默	chem mo	1
+沈默下來	chem mo hia lai	1
+沈默不語	chem mo bu yv	1
+沈默寡言	chem mo gua yan	1
+沉着冷靜	chem zhuo leng zing	1
+沉着應付	chem zhuo ying du	1
+沉着應戰	chem zhuo ying zhan	1
 沒人接	mei ren zie	1
 沒什麼了不起	mei shen me liao bu ki	1
 沒什麼大不了	mei shen me da bu liao	1
 沒力氣	mei li ki	1
-沒唸	mei nian	1
+沒唸	mei niam	1
 沒差	mei cha	1
 沒幾分鐘	mei gi fen zhong	1
 沒摸到	mei mo dao	1
@@ -128144,7 +128144,7 @@ import_tables:
 沙丁魚罐	sha ding yv guan	1
 沙加緬度國王	shii gia mian du guo wang	1
 沙灘旁	sha tan pang	1
-沙門氏菌腸炎	sha men shii gvn chang yan	1
+沙門氏菌腸炎	sha men shii gvn chang yam	1
 沙鹿區	sha lu kv	1
 沛然莫之能禦	pei ran mo zhii neng yv	1
 油油的	you you de	1
@@ -128152,7 +128152,7 @@ import_tables:
 油電混合	you dian hun he	1
 治治	zhii zhii	1
 治癒率	zhii yv lv	1
-沾食	zhan shii	1
+沾食	zham shii	1
 泌出	mi chu	1
 泌尿道	bi niao dao	1
 法制委員會	fa zhii wei yvan hui	1
@@ -128166,12 +128166,12 @@ import_tables:
 泛焦	fan ziao	1
 泛用	fan yong	1
 泡水車	pao shui che	1
-泡沫紅茶店	pao mo hong cha dian	3
+泡沫紅茶店	pao mo hong cha diam	3
 泡泡冰	pao pao bing	1
 波士尼亞人	bo shii ni ya ren	1
 波士頓紅襪隊	bo shii dun hong wa dui	1
 波多黎各人	bo duo li ge ren	1
-波海三小國	bo hai san siao guo	1
+波海三小國	bo hai sam siao guo	1
 波特蘭	bo te lan	4
 波特蘭拓荒者	bo te lan tuo huang zhe	1
 波羅地海	bo luo di hai	1
@@ -128182,13 +128182,13 @@ import_tables:
 波麗露	bo li lu	1
 泰國芭樂	tai guo ba le	2
 泰奧菲	tai ao fei	1
-泰山收費站	tai shan shou fei zhan	1
+泰山收費站	tai shan shou fei zham	1
 泰崗溪谷	tai gang hi gu	1
 洋蔥圈	yang cong kvan	1
 洋蔥培根	yang cong pei gen	1
 洒水	sa shui	1
 洒脫	sa tuo	1
-洗三溫暖	si san wen nuan	1
+洗三溫暖	si sam wen nuan	1
 洗個澡	si ge zao	1
 洗內衣	si nei yi	1
 洗內褲	si nei ku	1
@@ -128205,15 +128205,15 @@ import_tables:
 洗髮餅	si fa bing	1
 洛伊韋伯	luo yi wei bo	1
 洛斯阿洛摩斯	luo sii a luo mo sii	1
-洛杉磯天使	luo shan gi tian shii	1
-洛杉磯天使隊	luo shan gi tian shii dui	1
-洛杉磯市	luo shan gi shii	1
-洛杉磯快艇	luo shan gi kuai ting	1
-洛杉磯快艇隊	luo shan gi kuai ting dui	1
-洛杉磯湖人	luo shan gi hu ren	1
-洛杉磯湖人隊	luo shan gi hu ren dui	1
-洛杉磯道奇	luo shan gi dao ki	1
-洛杉磯道奇隊	luo shan gi dao ki dui	1
+洛杉磯天使	luo sham gi tian shii	1
+洛杉磯天使隊	luo sham gi tian shii dui	1
+洛杉磯市	luo sham gi shii	1
+洛杉磯快艇	luo sham gi kuai ting	1
+洛杉磯快艇隊	luo sham gi kuai ting dui	1
+洛杉磯湖人	luo sham gi hu ren	1
+洛杉磯湖人隊	luo sham gi hu ren dui	1
+洛杉磯道奇	luo sham gi dao ki	1
+洛杉磯道奇隊	luo sham gi dao ki dui	1
 洞燭先機	dong zhu sian gi	1
 洞爺湖	dong ye hu	1
 洨軟體	hiao ruan ti	1
@@ -128250,7 +128250,7 @@ import_tables:
 洩題	hie ti	1
 洩題案	hie ti an	1
 洪宛靖	hong wan zing	1
-洪建全基金會	hong gian cvan gi gin hui	2
+洪建全基金會	hong gian cvan gi gim hui	2
 洪熙官	hong hi guan	1
 活不了	huo bu liao	1
 活動組長	huo dong zu zhang	1
@@ -128259,14 +128259,14 @@ import_tables:
 活塞隊	huo sai dui	1
 派上了用場	pai shang le yong chang	1
 派不上用場	pai bu shang yong chang	1
-派人參加	pai ren can gia	1
-派員參加	pai yvan can gia	1
+派人參加	pai ren cam gia	1
+派員參加	pai yvan cam gia	1
 派得上用場	pai de shang yong chang	1
 流傳下來	liu chuan hia lai	1
 流動率	liu dong lv	1
 流洩出來	liu hie chu lai	1
 流產率	liu chan lv	1
-流行性感	liu hing hing gan	1
+流行性感	liu hing hing gam	1
 流行樂	liu hing yve	2
 流行歌壇	liu hing ge tan	1
 浦島太郎	pu dao tai lang	1
@@ -128274,10 +128274,10 @@ import_tables:
 浪費在	lang fei zai	1
 浮光掠影	fu guang lve ying	1
 浮掠	fu lve	1
-浮沈	fu chen	1
-浮泛流濫	fu fan liu lan	1
+浮沈	fu chem	1
+浮泛流濫	fu fan liu lam	1
 浮洲橋	fu zhou kiao	1
-浮浮沈沈	fu fu chen chen	1
+浮浮沈沈	fu fu chem chem	1
 浮盪	fu dang	1
 海事職業	hai shii zhii ye	1
 海倫仙度絲	hai lun sian du sii	1
@@ -128287,7 +128287,7 @@ import_tables:
 海山中學	hai shan zhong hve	1
 海帶乾絲	hai dai gan sii	1
 海底隧道	hai di sui dao	1
-海暗月影	hai an yve ying	1
+海暗月影	hai am yve ying	1
 海洋拉娜	hai yang la na	1
 海洋板塊	hai yang ban kuai	1
 海王紀	hai wang gi	1
@@ -128308,7 +128308,7 @@ import_tables:
 消受不起	siao shou bu ki	1
 消受得起	siao shou de ki	1
 消失無蹤	siao shii wu zong	1
-消沈	siao chen	1
+消沈	siao chem	1
 消耗殆盡	siao hao dai zin	1
 消費主義	siao fei zhu yi	1
 消費券	siao fei kvan	1
@@ -128322,26 +128322,26 @@ import_tables:
 消防人員	siao fang ren yvan	1
 涉入	she ru	3
 液晶投影電視	ye zing tou ying dian shii	4
-涵蓋率	han gai lv	1
+涵蓋率	ham gai lv	1
 涼宮春日	liang gong chun rii	1
-淋巴癌	lin ba ai	1
+淋巴癌	lim ba ai	1
 淒迷不振	ci mi bu zhen	1
-淡菸	dan yan	1
+淡菸	dam yan	1
 淪沒	lun mo	1
-深不見底	shen bu gian di	1
-深具信心	shen gv sin sin	1
-深太空一號	shen tai kong yi hao	1
-深惡	shen wu	1
-深摰	shen zhii	1
-深沈	shen chen	1
-深沈不露	shen chen bu lou	1
-深沈不露	shen chen bu lu	1
-深黑	shen hei	1
+深不見底	shem bu gian di	1
+深具信心	shem gv sin sim	1
+深太空一號	shem tai kong yi hao	1
+深惡	shem wu	1
+深摰	shem zhii	1
+深沈	shem chem	1
+深沈不露	shem chem bu lou	1
+深沈不露	shem chem bu lu	1
+深黑	shem hei	1
 混假	hun gia	1
 混搭板	hun da ban	1
 淺亮	cian liang	1
-淺唱低吟	cian chang di yin	1
-淺景深	cian ging shen	1
+淺唱低吟	cian chang di yim	1
+淺景深	cian ging shem	1
 淺橘色	cian gv se	1
 淺草	cian cao	1
 淺酌	cian zhuo	1
@@ -128357,7 +128357,7 @@ import_tables:
 清潔隊員	cing gie dui yvan	1
 清潔隊長	cing gie dui zhang	1
 清粥小菜	cing zhou siao cai	1
-清粥店	cing zhou dian	1
+清粥店	cing zhou diam	1
 清雲科大	cing yvn ke da	1
 渋谷	se gu	1
 減產率	giam chan lv	1
@@ -128377,7 +128377,7 @@ import_tables:
 游離份子	you li fen zii	1
 湊得齊	cou de ci	1
 湖山水庫	hu shan shui ku	1
-湘南純愛組	siang nan chun ai zu	1
+湘南純愛組	siang nam chun ai zu	1
 湯曜明	tang yao ming	1
 湯馬斯	tang ma sii	1
 準碩士	zhun shuo shii	1
@@ -128408,7 +128408,7 @@ import_tables:
 滾筒洗衣機	gun tong si yi gi	1
 滾軸	gun zhou	1
 滿不在意	man bu zai yi	1
-滿招損謙受益	man zhao sun kian shou yi	1
+滿招損謙受益	man zhao sun kiam shou yi	1
 滿月圓	man yve yvan	1
 滿漢大餐	man han da can	1
 滿血	man hve	1
@@ -128418,10 +128418,10 @@ import_tables:
 漂不漂亮	piao bu piao liang	1
 漂亮地	piao liang de	1
 演化生物學	yan hua sheng wu hve	1
-漠不經心	mo bu ging sin	1
+漠不經心	mo bu ging sim	1
 漢寶溼地	han bao shii di	1
 漢神百貨	han shen bai huo	1
-漢音輸入法	han yin shu ru fa	1
+漢音輸入法	han yim shu ru fa	1
 漫博會	man bo hui	1
 漫漫長路	man man chang lu	1
 漫無章法	man wu zhang fa	1
@@ -128434,8 +128434,8 @@ import_tables:
 澤被	ze bei	1
 澤被	ze pi	1
 澱粉水解酶	dian fen shui gie mei	1
-濃妝艷抹	nong zhuang yan mo	1
-濱南工業區	bin nan gong ye kv	1
+濃妝艷抹	nong zhuang yam mo	1
+濱南工業區	bin nam gong ye kv	1
 濱崎	bin ki	1
 瀕危之虞	bin wei zhii yv	1
 瀟洒	hiao sa	1
@@ -128460,7 +128460,7 @@ import_tables:
 灰塵物	hui chen wu	1
 灰度值	hui du zhii	1
 灰瓣足鷸	hui ban zu yv	1
-灰藍	hui lan	1
+灰藍	hui lam	1
 灰軸	hui zhou	1
 灰青	hui cing	1
 灼眼的夏娜	zhuo yan de hia na	1
@@ -128484,7 +128484,7 @@ import_tables:
 炸蝦球	zha hia kiu	1
 烈女傳	lie nv zhuan	1
 烏漆抹黑	wu ci mo hei	1
-烏蔘	wu shen	1
+烏蔘	wu shem	1
 烏青	wu cing	1
 烏魚期	wu yv ki	1
 烘乾酪犢肉片	hong gan luo du rou pian	1
@@ -128494,20 +128494,20 @@ import_tables:
 烤羊排	kao yang pai	1
 烤肉串	kao rou chuan	1
 烤肉區	kao rou kv	1
-烤肉店	kao rou dian	1
+烤肉店	kao rou diam	1
 烤肉架	kao rou gia	1
 烤肉炭	kao rou tan	1
 烤蛇麪	kao she mian	1
 焊啊	han a	1
 焗味噌茄子	gv wei zeng kie zii	1
 無一處	wu yi chu	1
-無三小路用	wu san siao lu yong	1
+無三小路用	wu sam siao lu yong	1
 無主題	wu zhu ti	1
 無事一身輕	wu shii yi shen king	1
 無事終了	wu shii zhong liao	1
 無人值守	wu ren zhii shou	1
 無以名狀	wu yi ming zhuang	1
-無任歡迎	wu ren huan ying	1
+無任歡迎	wu rem huan ying	1
 無刻	wu ke	1
 無刻印	wu ke yin	1
 無可旁貸	wu ke pang dai	1
@@ -128516,13 +128516,13 @@ import_tables:
 無垠無涯	wu yin wu ya	1
 無影罩	wu ying zhao	1
 無從着手	wu cong zhuo shou	1
-無心插柳	wu sin cha liu	4
+無心插柳	wu sim cha liu	4
 無怨無尤	wu yvan wu you	1
 無所不往	wu suo bu wang	1
 無政府狀	wu zheng fu zhuang	1
 無敵怪醫	wu di guai yi	1
 無敵浩克	wu di hao ke	1
-無敵鐵金剛	wu di tie gin gang	1
+無敵鐵金剛	wu di tie gim gang	1
 無時不刻	wu shii bu ke	1
 無暝無日	wu ming wu rii	1
 無條件投降	wu tiao gian tou hiang	1
@@ -128547,7 +128547,7 @@ import_tables:
 焢肉飯	kong rou fan	1
 焦臭	ziao chou	1
 焦長	ziao chang	1
-煉金術	lian gin shu	1
+煉金術	lian gim shu	1
 煉鋼業	lian gang ye	1
 煖和	nuan huo	1
 煖房	nuan fang	1
@@ -128566,17 +128566,17 @@ import_tables:
 熊玩遊戲	hiong wan you hi	1
 熟悉度	shou si du	1
 熟是	shou shii	1
-熟男	shou nan	1
-熟食店	shou shii dian	1
+熟男	shou nam	1
+熟食店	shou shii diam	1
 熬了	ao le	1
-熱夏野男孩	re hia ye nan hai	1
+熱夏野男孩	re hia ye nam hai	1
 熱漲冷縮	re zhang leng suo	1
-熱物實驗	re wu shii yan	1
+熱物實驗	re wu shii yam	1
 熱物性質	re wu hing zhii	1
 熱狗大亨堡	re gou da heng bao	1
 熱血拳兒	re hve kvan er	1
 熱血沸騰	re hve fei teng	1
-熱血男兒	re hve nan er	1
+熱血男兒	re hve nam er	1
 熱靴蓋	re hve gai	1
 燁興	hua hing	1
 燁輝	hua hui	1
@@ -128586,14 +128586,14 @@ import_tables:
 燒肉飯	shao rou fan	1
 燒造	shao zao	1
 燒造出	shao zao chu	1
-燕語呢喃	yan yv ni nan	1
+燕語呢喃	yan yv ni nam	1
 營業登記證	ying ye deng gi zheng	1
 營業處長	ying ye chu zhang	1
 營火區	ying huo kv	1
 營造公會	ying zao gong hui	1
 營運長	ying yvn zhang	1
-營養三明治	ying yang san ming zhii	1
-燴三鮮	hui san sian	1
+營養三明治	ying yang sam ming zhii	1
+燴三鮮	hui sam sian	1
 燻豬腰肉	hvn zhu yao rou	1
 燻鮭魚	hvn gui yv	1
 燿華	yao hua	1
@@ -128606,10 +128606,10 @@ import_tables:
 爆米香	bao mi hiang	1
 爆肝	bao gan	1
 爆頭	bao tou	1
-爆點	bao dian	1
-爪尖	zhao zian	1
+爆點	bao diam	1
+爪尖	zhao ziam	1
 爬升率	pa sheng lv	1
-爭奇鬥艷	zheng ki dou yan	1
+爭奇鬥艷	zheng ki dou yam	1
 爭相走告	zheng siang zou gao	1
 爭食	zheng shii	3
 爲之語塞	wei zhii yv se	1
@@ -128639,7 +128639,7 @@ import_tables:
 牛肉泡麪	niu rou pao mian	1
 牛肉燴飯	niu rou hui fan	1
 牛肉飯	niu rou fan	1
-牛肉餡餅	niu rou hian bing	1
+牛肉餡餅	niu rou hiam bing	1
 牛肉麪攤	niu rou mian tan	1
 牛肉麪館	niu rou mian guan	1
 牛蒡絲	niu bang sii	1
@@ -128668,7 +128668,7 @@ import_tables:
 特殊教育系	te shu giao yv hi	1
 特產業	te chan ye	1
 牽一髮動全身	kian yi fa dong cvan shen	1
-犀牛角粉	hi niu giao fen	1
+犀牛角粉	si niu giao fen	1
 犢肉片	du rou pian	1
 狂放不羈	kuang fang bu gi	1
 狄卡皮歐	di ka pi ou	1
@@ -128688,7 +128688,7 @@ import_tables:
 猶記得	you gi de	1
 獃住	dai zhu	1
 獅子會長	shii zii hui zhang	1
-獎助學金	ziang zhu hve gin	2
+獎助學金	ziang zhu hve gim	2
 獎勵投資條例	ziang li tou zii tiao li	1
 獨愴然而涕下	du chuang ran er ti hia	1
 獨招	du zhao	1
@@ -128701,9 +128701,9 @@ import_tables:
 獵人板	lie ren ban	1
 獵犢肉	lie du rou	1
 玄天上帝廟	hvan tian shang di miao	1
-玄武岩質	hvan wu yan zhii	1
+玄武岩質	hvan wu yam zhii	1
 率性而爲	shuai hing er wei	1
-率隊參加	shuai dui can gia	1
+率隊參加	shuai dui cam gia	1
 玉爪	yv zhao	1
 玉米排骨湯	yv mi pai gu tang	1
 王世堅	wang shii gian	1
@@ -128740,7 +128740,7 @@ import_tables:
 球迷會	kiu mi hui	1
 理事會議	li shii hui yi	1
 理我	li wo	1
-理監事會	li gian shii hui	1
+理監事會	li giam shii hui	1
 理直氣和	li zhii ki he	1
 瑕疵品	hia cii pin	1
 瑞埔國小	rui pu guo siao	1
@@ -128759,12 +128759,12 @@ import_tables:
 瓜仔肉	gua zii rou	1
 瓦楞紙板	wa leng zhii ban	1
 瓶中信	ping zhong sin	1
-甜椒	tian ziao	1
-甜粿	tian guo	1
+甜椒	tiam ziao	1
+甜粿	tiam guo	1
 生命期	sheng ming ki	1
 生平第一次	sheng ping di yi cii	1
 生態保護區	sheng tai bao hu kv	1
-生態園區站	sheng tai yvan kv zhan	1
+生態園區站	sheng tai yvan kv zham	1
 生活劇	sheng huo gv	1
 生炒花枝	sheng chao hua zhii	1
 生熟食	sheng shou shii	1
@@ -128801,22 +128801,22 @@ import_tables:
 甲基汞	gia gi gong	1
 甲狀腺亢進	gia zhuang sian kang gin	1
 申請案號	shen cing an hao	1
-男女板	nan nv ban	1
+男女板	nam nv ban	1
 留尼旺	liu ni wang	1
 留尼旺島	liu ni wang dao	2
 留考	liu kao	1
 畚箕湖	ben gi hu	1
 畜牧處長	sv mu chu zhang	1
 畢業歌曲	bi ye ge kv	1
-畢業紀念冊	bi ye gi nian ce	1
+畢業紀念冊	bi ye gi niam ce	1
 略傳	lve zhuan	1
-略加點綴	lve gia dian zhui	1
+略加點綴	lve gia diam zhui	1
 略差	lve cha	1
 略說	lve shuo	1
 略讀	lve du	1
 番外篇	fan wai pian	1
 番薯藤	fan shu teng	1
-畫下了句點	hua hia le gv dian	1
+畫下了句點	hua hia le gv diam	1
 異常率	yi chang lv	1
 異業	yi ye	1
 異業結盟	yi ye gie meng	1
@@ -128830,7 +128830,7 @@ import_tables:
 當歸麪線	dang gui mian sian	1
 當紅炸子雞	dang hong zha zii gi	1
 疊到	die dao	1
-疊氮化鈉	die dan hua na	1
+疊氮化鈉	die dam hua na	1
 疊蓆	die si	1
 疼你	teng ni	1
 痙孿	ging luan	1
@@ -128847,10 +128847,10 @@ import_tables:
 發放給	fa fang gei	1
 發洩	fa hie	9
 發癬	fa sian	1
-發監執行	fa gian zhii hing	1
+發監執行	fa giam zhii hing	1
 發色	fa se	1
 發財車	fa cai che	1
-白三烯素	bai san hi su	1
+白三烯素	bai sam hi su	1
 白先勇	bai sian yong	3
 白名單	bai ming dan	1
 白姬抄	bai gi chao	1
@@ -128863,7 +128863,7 @@ import_tables:
 白河商工	bai he shang gong	1
 白海豚	bai hai tun	1
 白爛	bai lan	1
-白玉蟾	bai yv chan	1
+白玉蟾	bai yv cham	1
 白環鸚嘴鵯	bai huan ying zui bei	1
 白目	bai mu	1
 白目鬼	bai mu gui	1
@@ -128885,7 +128885,7 @@ import_tables:
 白襪隊	bai wa dui	1
 白賊	bai zei	1
 白賊義	bai zei yi	1
-白金漢	bai gin han	1
+白金漢	bai gim han	1
 白雪露露	bai sve lu lu	1
 白頭殼仔	bai tou ke zai	1
 白鰻魚	bai man yv	1
@@ -128901,7 +128901,7 @@ import_tables:
 百和	bai he	1
 百容	bai rong	1
 百膚可	bai fu ke	1
-百花爭艷	bai hua zheng yan	1
+百花爭艷	bai hua zheng yam	1
 百裏	bai li	1
 百轉千折	bai zhuan cian zhe	1
 百里香滴	bai li hiang di	1
@@ -128952,9 +128952,9 @@ import_tables:
 盜壘成功	dao lei cheng gong	1
 盜壘王	dao lei wang	1
 盟立	meng li	1
-監視攝影機	gian shii she ying gi	1
-監視系統	gian shii hi tong	1
-監造人	gian zao ren	1
+監視攝影機	giam shii she ying gi	1
+監視系統	giam shii hi tong	1
+監造人	giam zao ren	1
 盤古樂隊	pan gu yve dui	1
 盤谷銀行	pan gu yin hang	1
 盧彥勳	lu yan hvn	1
@@ -128969,7 +128969,7 @@ import_tables:
 相對的	siang dui de	1
 相對被	siang dui bei	1
 相形遜色	siang hing svn se	1
-相思樹林	siang sii shu lin	1
+相思樹林	siang sii shu lim	1
 相當地	siang dang di	1
 相當適合	siang dang shii he	1
 相較於	siang giao yv	2
@@ -128985,7 +128985,7 @@ import_tables:
 省市議員	sheng shii yi yvan	1
 省市長	sheng shii zhang	1
 省改	sing gai	1
-省林業廳	sheng lin ye ting	1
+省林業廳	sheng lim ye ting	1
 省查	sing cha	1
 省水月	sheng shui yve	1
 省的	sheng de	1
@@ -129000,7 +129000,7 @@ import_tables:
 真不過	zhen bu guo	1
 真受不了	zhen shou bu liao	1
 真摰	zhen zhii	1
-真月譚月姬	zhen yve tan yve gi	1
+真月譚月姬	zhen yve tam yve gi	1
 眠月線	mian yve sian	1
 眼睜睜地看着	yan zheng zheng de kan zhe	1
 眼睜睜看着	yan zheng zheng kan zhe	1
@@ -129029,7 +129029,7 @@ import_tables:
 着重強調	zhuo zhong kiang diao	1
 着重抓好	zhuo zhong zhua hao	1
 着重描寫	zhuo zhong miao sie	1
-着重檢查	zhuo zhong gian cha	1
+着重檢查	zhuo zhong giam cha	1
 着重研究	zhuo zhong yan giu	1
 着重解決	zhuo zhong gie gve	1
 着錄	zhao lu	1
@@ -129051,7 +129051,7 @@ import_tables:
 石化業	shii hua ye	13
 石垣島	shii yvan dao	1
 石榴姐	shii liu zie	1
-石沈大海	shii chen da hai	1
+石沈大海	shii chem da hai	1
 石澤	shii ze	1
 石田衣良	shii tian yi liang	1
 石碇中學	shii ding zhong hve	1
@@ -129060,18 +129060,18 @@ import_tables:
 石稜稜	shii leng leng	1
 石造	shii zao	1
 砂石公會	sha shii gong hui	1
-砍他	kan ta	1
+砍他	kam ta	1
 破了個大洞	po le ge da dong	1
 破壞王	po huai wang	1
 破壞魔定光	po huai mo ding guang	1
-破敗感	po bai gan	1
+破敗感	po bai gam	1
 破破碎碎	po po sui sui	1
-破釜沈舟	po fu chen zhou	1
+破釜沈舟	po fu chem zhou	1
 硬塞	ying sai	1
 硬差	ying cha	1
 硬拗	ying ao	1
 硬體板	ying ti ban	1
-碎碎念	sui sui nian	1
+碎碎念	sui sui niam	1
 碧兒泉	bi er cvan	1
 碧奇魂	bi ki hun	1
 碧綠如茵	bi lv ru yin	1
@@ -129081,11 +129081,11 @@ import_tables:
 碳矽鍺錫鉛	tan si zhe si kian	1
 碳粉匣是	tan fen hia shii	1
 確信率	kve sin lv	1
-確實感	kve shii gan	1
+確實感	kve shii gam	1
 磅數	bang shu	1
 磅礡	pang bo	1
 磚紅	zhuan hong	1
-磷酸三鈣	lin suan san gai	1
+磷酸三鈣	lin suan sam gai	1
 礦冶	kuang ye	1
 礦土	kuang tu	1
 礦權	kuang kvan	1
@@ -129116,7 +129116,7 @@ import_tables:
 神志不清	shen zhii bu cing	1
 神槍	shen ciang	1
 神樣	shen yang	1
-神盾艦	shen dun gian	1
+神盾艦	shen dun giam	1
 神祕兮兮	shen mi hi hi	1
 神達	shen da	1
 神麴	shen kv	1
@@ -129124,7 +129124,7 @@ import_tables:
 神龍擺尾	shen long bai wei	1
 票券公會	piao kvan gong hui	1
 票騎	piao gi	1
-禁得起考驗	gin de ki kao yan	1
+禁得起考驗	gim de ki kao yam	1
 禍從天降	huo cong tian giang	1
 福佬人	fu lao ren	1
 福佬話	fu lao hua	1
@@ -129137,12 +129137,12 @@ import_tables:
 福懋科	fu mao ke	1
 福爾摩沙社	fu er mo sha she	1
 福特六和	fu te liu he	2
-禪修	chan siu	1
+禪修	cham siu	1
 禮拜六派	li bai liu pai	1
-禽肉	kin rou	1
+禽肉	kim rou	1
 禾黃稻熟	he huang dao shou	1
 秀姑漱玉	hiu gu shu yv	1
-私密金鑰	sii mi gin yao	1
+私密金鑰	sii mi gim yao	1
 私鑰	sii yao	1
 秋水共長天	ciu shui gong chang tian	1
 秋茂園	ciu mao yvan	1
@@ -129155,7 +129155,7 @@ import_tables:
 科羅拉多大學	ke luo la duo da hve	2
 科藝百代	ke yi bai dai	1
 租借費	zu gie fei	1
-租賃業	zu ren ye	1
+租賃業	zu rem ye	1
 租車行	zu che hang	1
 秤斤秤兩	cheng gin cheng liang	1
 移入率	yi ru lv	1
@@ -129170,7 +129170,7 @@ import_tables:
 稅後純益	shui hou chun yi	5
 稅捐處長	shui gvan chu zhang	1
 程大概	cheng da gai	1
-程式核心	cheng shii he sin	1
+程式核心	cheng shii he sim	1
 稍重	shao zhong	1
 稗田	bai tian	1
 稗田阿求	bai tian a kiu	1
@@ -129187,14 +129187,14 @@ import_tables:
 積攢下來	zi cuan hia lai	1
 積極地	zi gi de	1
 積水盈尺	zi shui ying chii	1
-積陰德	zi yin de	1
-穩定感	wen ding gan	1
+積陰德	zi yim de	1
+穩定感	wen ding gam	1
 空屋數	kong wu shu	1
 空氣槍	kong ki ciang	1
 空白帶	kong bai dai	1
 空空盪盪	kong kong dang dang	1
 空色造雲罐	kong se zao yvn guan	1
-空谷跫音	kong gu kiong yin	1
+空谷跫音	kong gu kiong yim	1
 空軍機械	kong gvn gi hie	1
 空軍通信	kong gvn tong sin	1
 空運組長	kong yvn zu zhang	1
@@ -129210,16 +129210,16 @@ import_tables:
 立山黑部	li shan hei bu	1
 立得美	li de mei	1
 立法院長	li fa yvan zhang	1
-站內信	zhan nei sin	1
-站在錢的觀點	zhan zai cian de guan dian	1
-站在錢的角度	zhan zai cian de giao du	1
+站內信	zham nei sin	1
+站在錢的觀點	zham zai cian de guan diam	1
+站在錢的角度	zham zai cian de giao du	1
 竟開着	ging kai zhe	1
 競合關係	ging he guan hi	1
 競業	ging ye	1
 競業條款	ging ye tiao kuan	1
 竹內	zhu nei	1
 竹北國中	zhu bei guo zhong	1
-竹南國中	zhu nan guo zhong	1
+竹南國中	zhu nam guo zhong	1
 竹筍排骨湯	zhu sun pai gu tang	1
 竹縣人	zhu hian ren	1
 竹縣民	zhu hian min	1
@@ -129231,20 +129231,20 @@ import_tables:
 笑而不答	siao er bu da	1
 符不符合	fu bu fu he	1
 笨板	ben ban	1
-第七十三	di ci shii san	1
+第七十三	di ci shii sam	1
 第七十六	di ci shii liu	1
-第三件	di san gian	1
-第三個字	di san ge zii	1
-第三個月	di san ge yve	1
-第三十七	di san shii ci	1
-第三十三	di san shii san	1
-第三十八	di san shii ba	1
-第三十六	di san shii liu	1
-第三十四	di san shii sii	1
-第三句話	di san gv hua	1
-第三棒	di san bang	1
-第三頁	di san ye	1
-第二十三條	di er shii san tiao	1
+第三件	di sam gian	1
+第三個字	di sam ge zii	1
+第三個月	di sam ge yve	1
+第三十七	di sam shii ci	1
+第三十三	di sam shii sam	1
+第三十八	di sam shii ba	1
+第三十六	di sam shii liu	1
+第三十四	di sam shii sii	1
+第三句話	di sam gv hua	1
+第三棒	di sam bang	1
+第三頁	di sam ye	1
+第二十三條	di er shii sam tiao	1
 第二十六	di er shii liu	1
 第二句話	di er gv hua	1
 第五十六	di wu shii liu	1
@@ -129257,11 +129257,11 @@ import_tables:
 第六十六	di liu shii liu	1
 第六十四	di liu shii sii	1
 第六季	di liu gi	1
-第六感生死戀	di liu gan sheng sii lian	1
+第六感生死戀	di liu gam sheng sii lian	1
 第六級	di liu gi	1
 第六集	di liu zi	1
-第十三屆	di shii san gie	1
-第十三集	di shii san zi	1
+第十三屆	di shii sam gie	1
+第十三集	di shii sam zi	1
 第十六集	di shii liu zi	1
 第四個月	di sii ge yve	1
 第四十六	di sii shii liu	1
@@ -129294,9 +129294,9 @@ import_tables:
 築地魚河岸	zhu di yv he an	1
 篤行國小	du hing guo siao	2
 簡單講	gian dan giang	1
-簽條	cian tiao	1
-簽證數	cian zheng shu	1
-籃球板	lan kiu ban	1
+簽條	ciam tiao	1
+簽證數	ciam zheng shu	1
+籃球板	lam kiu ban	1
 籌備處長	chou bei chu zhang	1
 米底亞	mi di ya	1
 米粉湯	mi fen tang	1
@@ -129308,7 +129308,7 @@ import_tables:
 粉介蟲	fen gie chong	1
 粉底液	fen di ye	1
 粗腳	cu giao	1
-粘着劑	nian zhuo zi	1
+粘着劑	niam zhuo zi	1
 粟野傳之烝	su ye chuan zhii zheng	1
 粽伯	zong bo	1
 精挑細選出	zing tiao si svan chu	1
@@ -129327,29 +129327,29 @@ import_tables:
 系統辨識	hi tong bian shii	1
 糾察隊長	giu cha dui zhang	1
 紀傳	gi zhuan	1
-紀卉芯	gi hui sin	1
+紀卉芯	gi hui sim	1
 約翰屈伏塔	yve han kv fu ta	1
-約翰藍儂	yve han lan nong	1
+約翰藍儂	yve han lam nong	1
 約翰走路	yve han zou lu	1
 約翰走路盃	yve han zou lu bei	1
-約翰霍普金斯	yve han huo pu gin sii	1
+約翰霍普金斯	yve han huo pu gim sii	1
 約翰韋恩	yve han wei en	1
 約聘僱	yve pin gu	1
 紅人隊	hong ren dui	1
 紅冠水雞	hong guan shui gi	3
-紅利積點	hong li zi dian	1
+紅利積點	hong li zi diam	1
 紅包袋	hong bao dai	1
 紅嘴黑鵯	hong zui hei bei	1
 紅地球	hong di kiu	1
 紅外線光譜	hong wai sian guang pu	1
-紅岩	hong yan	1
-紅杉林	hong shan lin	1
-紅樹林站	hong shu lin zhan	1
+紅岩	hong yam	1
+紅杉林	hong sham lim	1
+紅樹林站	hong shu lim zham	1
 紅燒冬瓜	hong shao dong gua	1
 紅燒扣肉	hong shao kou rou	1
 紅燒油豆腐	hong shao you dou fu	1
 紅燒牛肉	hong shao niu rou	1
-紅燒牛腩	hong shao niu nan	1
+紅燒牛腩	hong shao niu nam	1
 紅燒獅子頭	hong shao shii zii tou	1
 紅燒豆腐	hong shao dou fu	1
 紅燒豬肉	hong shao zhu rou	1
@@ -129363,7 +129363,7 @@ import_tables:
 紅磚道	hong zhuan dao	3
 紅美鈴	hong mei ling	1
 紅肉鮭	hong rou gui	1
-紅茶店	hong cha dian	1
+紅茶店	hong cha diam	1
 紅茶袋	hong cha dai	1
 紅葉國小	hong ye guo siao	1
 紅葉少棒	hong ye shao bang	2
@@ -129373,7 +129373,7 @@ import_tables:
 紅蟳	hong hvn	1
 紅蟳米粉	hong hvn mi fen	1
 紅血球量	hong hve kiu liang	1
-紅衫	hong shan	1
+紅衫	hong sham	1
 紅襪隊	hong wa dui	1
 紅豆年糕	hong dou nian gao	1
 紅豆湯圓	hong dou tang yvan	1
@@ -129415,24 +129415,24 @@ import_tables:
 索還	suo huan	1
 索還債款	suo huan zhai kuan	1
 紫菜蛋花湯	zii cai dan hua tang	1
-紫音之月	zii yin zhii yve	1
+紫音之月	zii yim zhii yve	1
 紮下去	zha hia kv	1
 累不累	lei bu lei	1
 累死了	lei sii le	1
 累趴了	lei pa le	1
 細細碎碎	si si sui sui	1
 紳士同盟	shen shii tong meng	1
-紳藍	shen lan	1
+紳藍	shen lam	1
 終學科	zhong hve ke	1
 終於在	zhong yv zai	1
 終生學習	zhong sheng hve si	1
 終身俸	zhong shen fong	1
-絃外之音	hian wai zhii yin	1
+絃外之音	hian wai zhii yim	1
 絃柱	hian zhu	1
 組合屋	zu he wu	1
 組合鍵	zu he gian	1
 組工會	zu gong hui	2
-組隊參加	zu dui can gia	1
+組隊參加	zu dui cam gia	1
 結了果實	gie le guo shii	1
 結合爲一	gie he wei yi	1
 結屎面	gie shii mian	1
@@ -129445,7 +129445,7 @@ import_tables:
 絕對的	zve dui de	1
 絕色影城	zve se ying cheng	1
 絕食書	zve shii shu	1
-絞夾心肉	giao gia sin rou	1
+絞夾心肉	giao gia sim rou	1
 絡頭	lao tou	1
 絡頭	luo tou	1
 給報	gei bao	1
@@ -129459,7 +129459,7 @@ import_tables:
 綁約	bang yve	1
 經合會議	ging he hui yi	1
 經年久月	ging nian giu yve	1
-經湛	ging zhan	1
+經湛	ging zham	1
 經濟學人	ging zi hve ren	1
 經濟部國營會	ging zi bu guo ying hui	1
 經發會	ging fa hui	1
@@ -129587,14 +129587,14 @@ import_tables:
 羚羊排	ling yang pai	1
 羚羊肉	ling yang rou	1
 羚羊類	ling yang lei	1
-羞惡之心	siu wu zhii sin	1
+羞惡之心	siu wu zhii sim	1
 羣俠傳	kvn hia zhuan	1
 羣合衆力	kvn he zhong li	1
 義大世界	yi da shii gie	1
 義大利籍	yi da li zi	1
 義大利裔	yi da li yi	1
 義大利隊	yi da li dui	1
-義大犀牛	yi da hi niu	1
+義大犀牛	yi da si niu	1
 義學國中	yi hve guo zhong	1
 義民中學	yi min zhong hve	1
 義美黑豆漿	yi mei hei dou ziang	1
@@ -129663,12 +129663,12 @@ import_tables:
 職業不分貴賤	zhii ye bu fen gui zian	1
 職業隊	zhii ye dui	1
 聽令行事	ting ling hing shii	1
-聽感	ting gan	1
+聽感	ting gam	1
 肇事率	zhao shii lv	1
 肉價	rou gia	1
 肉味	rou wei	1
 肉塊	rou kuai	1
-肉墊	rou dian	1
+肉墊	rou diam	1
 肉市	rou shii	1
 肉捲	rou gvan	1
 肉燥米粉	rou zao mi fen	1
@@ -129701,7 +129701,7 @@ import_tables:
 肴肉	yao rou	1
 肺外結核	fei wai gie he	1
 肺結核症	fei gie he zheng	1
-肺纖維症	fei sian wei zheng	1
+肺纖維症	fei siam wei zheng	1
 肺腺癌	fei sian ai	1
 肺魚	fei yv	1
 背了	bei le	1
@@ -129714,16 +129714,16 @@ import_tables:
 胡言胡語	hu yan hu yv	1
 胰蛋白酶基因	yi dan bai mei gi yin	1
 能將它	neng ziang ta	1
-能感	neng gan	1
+能感	neng gam	1
 能難倒	neng nan dao	1
-能飲一杯無	neng yin yi bei wu	1
+能飲一杯無	neng yim yi bei wu	1
 脆一些	cui yi sie	1
-脈脈含情	mo mo han cing	1
+脈脈含情	mo mo ham cing	1
 脣蜜	chun mi	1
 脫不了	tuo bu liao	1
 脫韁野馬	tuo giang ye ma	1
 脾臟癌	pi zang ai	1
-腎血管炎	shen hve guan yan	1
+腎血管炎	shen hve guan yam	1
 腐女	fu nv	1
 腐女子	fu nv zii	1
 腔棘魚	kiang gi yv	1
@@ -129733,7 +129733,7 @@ import_tables:
 腳尾飯	giao wei fan	1
 腳底按摩	giao di an mo	1
 腳座	giao zuo	1
-腳踏車店	giao ta che dian	1
+腳踏車店	giao ta che diam	1
 腳踏車架	giao ta che gia	1
 腳踏車道	giao ta che dao	1
 腹笥便便	fu sii pian pian	1
@@ -129741,9 +129741,9 @@ import_tables:
 膝蓋中了一箭	si gai zhong le yi zian	1
 膝蓋中箭	si gai zhong zian	1
 膿胞	nong bao	1
-臉不	lian bu	1
-臉色大變	lian se da bian	1
-臉部辨識	lian bu bian shii	1
+臉不	liam bu	1
+臉色大變	liam se da bian	1
+臉部辨識	liam bu bian shii	1
 臍帶血幹細胞	ci dai hve gan si bao	1
 臘光色紙	la guang se zhii	1
 自亂陣腳	zii luan zhen giao	1
@@ -129779,7 +129779,7 @@ import_tables:
 自賊	zii ze	1
 自足自給	zii zu zii gi	1
 自顧自地	zii gu zii di	1
-自黏便條	zii nian bian tiao	1
+自黏便條	zii niam bian tiao	1
 臭氣薰天	chou ki hvn tian	1
 臭臭鍋	chou chou guo	1
 至於說	zhii yv shuo	1
@@ -129803,10 +129803,10 @@ import_tables:
 臺北市議會	tai bei shii yi hui	2
 臺北師範	tai bei shii fan	1
 臺北府	tai bei fu	2
-臺北捷運站	tai bei zie yvn zhan	1
+臺北捷運站	tai bei zie yvn zham	1
 臺北新公園	tai bei sin gong yvan	1
 臺北樹蛙	tai bei shu wa	1
-臺北火車站	tai bei huo che zhan	1
+臺北火車站	tai bei huo che zham	1
 臺北燈會	tai bei deng hui	1
 臺北版	tai bei ban	1
 臺北科大	tai bei ke da	1
@@ -129817,19 +129817,19 @@ import_tables:
 臺北縣誌	tai bei hian zhii	1
 臺北護理	tai bei hu li	1
 臺十六線	tai shii liu sian	1
-臺南地方法院	tai nan di fang fa yvan	1
-臺南場	tai nan chang	1
-臺南市人	tai nan shii ren	1
-臺南師範	tai nan shii fan	1
-臺南新報	tai nan sin bao	1
-臺南棺材板	tai nan guan cai ban	1
-臺南科學園區	tai nan ke hve yvan kv	1
-臺南縣長	tai nan hian zhang	1
+臺南地方法院	tai nam di fang fa yvan	1
+臺南場	tai nam chang	1
+臺南市人	tai nam shii ren	1
+臺南師範	tai nam shii fan	1
+臺南新報	tai nam sin bao	1
+臺南棺材板	tai nam guan cai ban	1
+臺南科學園區	tai nam ke hve yvan kv	1
+臺南縣長	tai nam hian zhang	1
 臺哥大	tai ge da	1
 臺塑化	tai su hua	1
 臺塑生技	tai su sheng gi	1
 臺大醫學院	tai da yi hve yvan	2
-臺大醫院站	tai da yi yvan zhan	1
+臺大醫院站	tai da yi yvan zham	1
 臺式肉粽	tai shii rou zong	1
 臺擎科技	tai king ke gi	1
 臺東女中	tai dong nv zhong	1
@@ -129846,7 +129846,7 @@ import_tables:
 臺灣航業	tai wan hang ye	1
 臺灣藉	tai wan zi	1
 臺灣藝術	tai wan yi shu	1
-臺灣錢淹腳目	tai wan cian yan giao mu	1
+臺灣錢淹腳目	tai wan cian yam giao mu	1
 臺灣黑熊	tai wan hei hiong	1
 臺綜院	tai zong yvan	1
 臺達化	tai da hua	1
@@ -129866,30 +129866,30 @@ import_tables:
 舒不舒服	shu bu shu fu	1
 舒妃	shu fei	1
 舒筋解勞	shu gin gie lao	1
-舔他	tian ta	1
-舔嘴脣	tian zui chun	1
-舔我	tian wo	1
+舔他	tiam ta	1
+舔嘴脣	tiam zui chun	1
+舔我	tiam wo	1
 舖天蓋地	pu tian gai di	1
 航務處長	hang wu chu zhang	1
 航海王	hang hai wang	1
 般若波羅蜜	bo re bo luo mi	1
 艘船	sou chuan	1
-艘軍艦	sou gvn gian	1
+艘軍艦	sou gvn giam	1
 良得	liang de	1
 色偏	se pian	1
 色卡	se ka	1
 色層分析法	se ceng fen si fa	1
-色彩艷麗	se cai yan li	1
-色彩鮮艷	se cai sian yan	1
+色彩艷麗	se cai yam li	1
+色彩鮮艷	se cai sian yam	1
 色溫鏡	se wen ging	1
 色牢度	se lao du	1
 色票	se piao	1
-色素沉着	se su chen zhuo	1
+色素沉着	se su chem zhuo	1
 色色的	se se de	1
-艷光四射	yan guang sii she	1
-艷福不淺	yan fu bu cian	1
-艷稱	yan cheng	1
-艷色	yan se	1
+艷光四射	yam guang sii she	1
+艷福不淺	yam fu bu cian	1
+艷稱	yam cheng	1
+艷色	yam se	1
 艾地苯	ai di ben	1
 艾思黎	ai sii li	1
 艾未未	ai wei wei	1
@@ -129902,12 +129902,12 @@ import_tables:
 芋頭粿	yv tou guo	1
 芒果冰	mang guo bing	1
 芙美得	fu mei de	1
-芙蓓森	fu pei sen	1
+芙蓓森	fu pei sem	1
 芝加哥白襪	zhii gia ge bai wa	1
 芝加哥白襪隊	zhii gia ge bai wa dui	1
 芥末醬	gie mo ziang	1
-芥籃	gie lan	1
-芥籃菜	gie lan cai	1
+芥籃	gie lam	1
+芥籃菜	gie lam cai	1
 芥蘭菜	gie lan cai	1
 芭比波朗	ba bi bo lang	1
 芭蕾舞劇	ba lei wu gv	1
@@ -129929,7 +129929,7 @@ import_tables:
 花身雞魚	hua shen gi yv	1
 芹菜炒花枝	kin cai chao hua zhii	1
 芹菜炒豆乾	kin cai chao dou gan	1
-芹菜甜不辣	kin cai tian bu la	1
+芹菜甜不辣	kin cai tiam bu la	1
 苑裏人	yvan li ren	1
 苑裏高中	yvan li gao zhong	1
 苗栗區	miao li kv	1
@@ -129962,7 +129962,7 @@ import_tables:
 茶壼	cha kun	1
 茶業界	cha ye gie	1
 茶水費	cha shui fei	1
-茶葉店	cha ye dian	1
+茶葉店	cha ye diam	1
 茶軸	cha zhou	1
 茶道會	cha dao hui	1
 茹絲葵	ru sii kui	1
@@ -129971,7 +129971,7 @@ import_tables:
 草創期	cao chuang ki	1
 草屯療養院	cao tun liao yang yvan	1
 草衙	cao ya	1
-草衙站	cao ya zhan	1
+草衙站	cao ya zham	1
 草食性	cao shii hing	3
 莎娜	sha na	1
 莎貝之聖	sha bei zhii sheng	1
@@ -129993,9 +129993,9 @@ import_tables:
 菜錢	cai cian	1
 菜頭粿	cai tou guo	1
 華佗雞精	hua tuo gi zing	1
-華南金	hua nan gin	1
-華南金控	hua nan gin kong	1
-華南高商	hua nan gao shang	1
+華南金	hua nam gim	1
+華南金控	hua nam gim kong	1
+華南高商	hua nam gao shang	1
 華岡藝校	hua gang yi hiao	1
 華擎	hua king	1
 華盛頓公約	hua sheng dun gong yve	3
@@ -130019,8 +130019,8 @@ import_tables:
 落版	luo ban	1
 落落長	luo luo chang	1
 落跑	lao pao	1
-落點分析	luo dian fen si	1
-落點預測	luo dian yv ce	1
+落點分析	luo diam fen si	1
+落點預測	luo diam yv ce	1
 葉啓田	ye ki tian	1
 葉憲修	ye hian siu	1
 葉景茂	ye ging mao	1
@@ -130035,11 +130035,11 @@ import_tables:
 葡萄王	pu tao wang	1
 葡萄糖液	pu tao tang ye	1
 董事長級	dong shii zhang gi	1
-董氏基金會	dong shii gi gin hui	2
-董監事會	dong gian shii hui	1
+董氏基金會	dong shii gi gim hui	2
+董監事會	dong giam shii hui	1
 蒙受不白之冤	mong shou bu bai zhii yvan	1
 蒙古烤肉	mong gu kao rou	1
-蒙特婁博覽會	mong te lou bo lan hui	1
+蒙特婁博覽會	mong te lou bo lam hui	1
 蒙面俠蘇洛	mong mian hia su luo	1
 蒙頭大睡	mong tou da shui	1
 蒜味肉羹	suan wei rou geng	1
@@ -130058,7 +130058,7 @@ import_tables:
 蓮藕色	lian ou se	1
 蔓延開來	man yan kai lai	1
 蔓越莓汁	man yve mei zhii	1
-蔘茸	shen rong	1
+蔘茸	shem rong	1
 蔚華科	wei hua ke	1
 蔡仁堅	cai ren gian	1
 蔡健雅	cai gian ya	1
@@ -130071,15 +130071,15 @@ import_tables:
 蔥抓餅	cong zhua bing	1
 蔥燒牛肉麪	cong shao niu rou mian	1
 蔥爆牛肉	cong bao niu rou	1
-蔥爆甜不辣	cong bao tian bu la	1
-蔪露	zhan lu	1
+蔥爆甜不辣	cong bao tiam bu la	1
+蔪露	zham lu	1
 蔬果園	shu guo yvan	1
 蔬菜園	shu cai yvan	1
 蔬菜攤	shu cai tan	1
 蔬菜油	shu cai you	1
 蔬菜葉類	shu cai ye lei	1
 蔬菜類	shu cai lei	1
-蔭豉	yin shii	1
+蔭豉	yim shii	1
 蔻麗雅那	kou li ya na	1
 蕃茄汁鯖魚	fan kie zhii cing yv	1
 蕃茄炒蛋	fan kie chao dan	1
@@ -130097,18 +130097,18 @@ import_tables:
 薛楷莉	sve kai li	1
 薩爾茲堡	sa er zii bao	1
 藉稿於地	zie gao yv di	1
-藍子裏	lan zii li	1
-藍寶堅尼	lan bao gian ni	1
-藍山咖啡	lan shan ka fei	1
-藍帶獎	lan dai ziang	1
-藍柑汁	lan gan zhii	1
-藍爆	lan bao	1
-藍白拖	lan bai tuo	1
-藍紫色	lan zii se	1
-藍藍路	lan lan lu	1
-藍鳥	lan niao	1
-藍鳥隊	lan niao dui	1
-藍鵲	lan cve	1
+藍子裏	lam zii li	1
+藍寶堅尼	lam bao gian ni	1
+藍山咖啡	lam shan ka fei	1
+藍帶獎	lam dai ziang	1
+藍柑汁	lam gam zhii	1
+藍爆	lam bao	1
+藍白拖	lam bai tuo	1
+藍紫色	lam zii se	1
+藍藍路	lam lam lu	1
+藍鳥	lam niao	1
+藍鳥隊	lam niao dui	1
+藍鵲	lam cve	1
 藏珠字集	cang zhu zii zi	1
 藝術專科	yi shu zhuan ke	1
 藝術總監	zong gian yi shu	1
@@ -130117,7 +130117,7 @@ import_tables:
 藤岡靛	teng gang dian	1
 藥師丸博子	yao shii wan bo zii	1
 藥燉排骨	yao dun pai gu	1
-藥物濫用	yao wu lan yong	1
+藥物濫用	yao wu lam yong	1
 蘆洲區	lu zhou kv	1
 蘆筍湯	lu sun tang	1
 蘇打槍	su da ciang	1
@@ -130165,7 +130165,7 @@ import_tables:
 蜜桃女孩	mi tao nv hai	1
 蜜絲佛陀	mi sii fo tuo	1
 蜜雪兒菲佛	mi sve er fei fo	1
-蝕甚復圓	shii shen fu yvan	1
+蝕甚復圓	shii shem fu yvan	1
 蝦仁炒飯	hia ren chao fan	1
 蝦仁肉丸	hia ren rou wan	1
 蝦味先	hia wei sian	1
@@ -130178,17 +130178,17 @@ import_tables:
 蠔油芥蘭	hao you gie lan	1
 蠢地	chun de	1
 蠢地要	chun de yao	1
-蠻敢的	man gan de	1
+蠻敢的	man gam de	1
 蠻涼的	man liang de	1
 蠻趕的	man gan de	1
 血仇	hve chou	1
 血便	hve bian	1
 血壓值	hve ya zhii	1
 血拚	hve pin	1
-血染的風采	hve ran de fong cai	1
+血染的風采	hve ram de fong cai	1
 血液量	hve ye liang	1
 血管壁	hve guan bi	2
-血管炎	hve guan yan	1
+血管炎	hve guan yam	1
 血糖值	hve tang zhii	1
 血絲蟲	hve sii chong	1
 血色素	hve se su	1
@@ -130200,8 +130200,8 @@ import_tables:
 行前準備	hing cian zhun bei	1
 行動力	hing dong li	1
 行動的	hing dong de	1
-行憲紀念	hing hian gi nian	1
-行控中心	hing kong zhong sin	1
+行憲紀念	hing hian gi niam	1
+行控中心	hing kong zhong sim	1
 行政院文建會	hing zheng yvan wen gian hui	1
 行政院會	hing zheng yvan hui	1
 行政院陸委會	hing zheng yvan lu wei hui	1
@@ -130218,9 +130218,9 @@ import_tables:
 衝字數	chong zii shu	1
 衣着入時	yi zhuo ru shii	1
 衣着打扮	yi zhuo da ban	1
-衣着襤褸	yi zhuo lan lv	1
+衣着襤褸	yi zhuo lam lv	1
 衣缽傳人	yi bo chuan ren	1
-表參道	biao can dao	1
+表參道	biao cam dao	1
 表特板	biao te ban	1
 衰尾道人	shuai wei dao ren	1
 被上	pi shang	1
@@ -130244,7 +130244,7 @@ import_tables:
 被頭散髮	pi tou san fa	1
 裕日車	yv rii che	1
 補教業	bu giao ye	1
-補給站	bu gi zhan	1
+補給站	bu gi zham	1
 裝在它	zhuang zai ta	1
 裝屎	zhuang shii	1
 裝機率	zhuang gi lv	1
@@ -130297,7 +130297,7 @@ import_tables:
 親力親爲	cin li cin wei	1
 親子丼	cin zii dong	1
 親子共學	cin zii gong hve	1
-親師座談會	cin shii zuo tan hui	1
+親師座談會	cin shii zuo tam hui	1
 親水公園	cin shui gong yvan	3
 親衛隊	cin wei dui	1
 覺不覺得	gve bu gve de	1
@@ -130305,13 +130305,13 @@ import_tables:
 觀景窗	guan ging chuang	2
 觀月	guan yve	1
 觀月亞里沙	guan yve ya li sha	1
-觀落陰	guan luo yin	1
+觀落陰	guan luo yim	1
 角川	giao chuan	1
-角川書店	giao chuan shu dian	1
+角川書店	giao chuan shu diam	1
 角板山	giao ban shan	1
 角球旗	giao kiu ki	1
 角鏡	giao ging	1
-解放感	gie fang gan	1
+解放感	gie fang gam	1
 解構主義	gie gou zhu yi	1
 解構爲	gie gou wei	1
 解決不了	gie gve bu liao	1
@@ -130333,7 +130333,7 @@ import_tables:
 記地址	gi di zhii	1
 記者招待	gi zhe zhao dai	1
 設計圖說	she gi tu shuo	1
-設計感	she gi gan	1
+設計感	she gi gam	1
 許多事情	hv duo shii cing	1
 許多國家	hv duo guo gia	1
 許多許多	hv duo hv duo	1
@@ -130348,13 +130348,13 @@ import_tables:
 試讀本	shii du ben	1
 話術	hua shu	1
 該屬	gai shu	1
-詹姆斯柯麥隆	zhan mu sii ke mai long	1
+詹姆斯柯麥隆	zham mu sii ke mai long	1
 認份	ren fen	1
 認爲說	ren wei shuo	1
 認真地	ren zhen de	1
 認識人	ren shii ren	1
 語言所	yv yan suo	1
-語重深長	yv zhong shen zhang	1
+語重深長	yv zhong shem zhang	1
 誠懇地	cheng ken de	1
 誠摰	cheng chii	1
 誠泰銀行	cheng tai yin hang	1
@@ -130368,7 +130368,7 @@ import_tables:
 課務組長	ke wu zu zhang	1
 課說	ke shuo	1
 調一下	tiao yi hia	1
-調味鹽	tiao wei yan	1
+調味鹽	tiao wei yam	1
 調和式	tiao he shii	1
 調帳	tiao zhang	1
 調度士	diao du shii	1
@@ -130381,7 +130381,7 @@ import_tables:
 調整過來	tiao zheng guo lai	1
 調昇	diao sheng	1
 調時差	tiao shii cha	1
-調查站	diao cha zhan	1
+調查站	diao cha zham	1
 調查處	diao cha chu	1
 調焦環	tiao ziao huan	1
 調理包	tiao li bao	1
@@ -130404,7 +130404,7 @@ import_tables:
 調高爲	tiao gao wei	1
 調高至	tiao gao zhii	1
 請勿吸煙	cing wu hi yan	1
-請問鑫	cing wen hin	1
+請問鑫	cing wen him	1
 請美	cing mei	1
 諒他	liang ta	1
 諒你也不	liang ni ye bu	1
@@ -130433,7 +130433,7 @@ import_tables:
 證基會	zheng gi hui	1
 識賢	shii hian	1
 識閒	shii hian	1
-警三分局	ging san fen gv	1
+警三分局	ging sam fen gv	1
 警分局長	ging fen gv zhang	1
 警務處長	ging wu chu zhang	1
 警匪槍戰	ging fei ciang zhan	1
@@ -130451,9 +130451,9 @@ import_tables:
 變身爲	bian shen wei	1
 讚嘆不已	zan tan bu yi	1
 豆科植物	dou ke zhii wu	1
-豐南國中	fong nan guo zhong	1
+豐南國中	fong nam guo zhong	1
 豐原區	fong yvan kv	1
-豔紅	yan hong	1
+豔紅	yam hong	1
 象牙塔裏的	siang ya ta li de	1
 豪大大雞排	hao da da gi pai	1
 豪快地	hao kuai de	1
@@ -130479,14 +130479,14 @@ import_tables:
 貝勒爺	bei le ye	1
 貝氏	bei shii	1
 貞本義行	zhen ben yi hing	1
-負不負責任	fu bu fu ze ren	1
+負不負責任	fu bu fu ze rem	1
 財不露白	cai bu lou bai	1
 財政局長	cai zheng gv zhang	1
 貢丸湯	gong wan tang	1
 貢丸米粉湯	gong wan mi fen tang	1
 貢寮溪	gong liao hi	1
 貧窮藝術	pin kiong yi shu	1
-貪污治罪條例	tan wu zhii zui tiao li	1
+貪污治罪條例	tam wu zhii zui tiao li	1
 貯放	zhu fang	1
 貴子坑溪	gui zii keng hi	1
 貴得要	gui de yao	1
@@ -130526,9 +130526,9 @@ import_tables:
 賣不賣力	mai bu mai li	1
 賣力地	mai li de	1
 賣春女	mai chun nv	1
-賺不到	zhuan bu dao	1
-賺多少	zhuan duo shao	1
-購物籃	gou wu lan	1
+賺不到	zhuam bu dao	1
+賺多少	zhuam duo shao	1
+購物籃	gou wu lam	1
 購買率	gou mai lv	1
 購足	gou zu	1
 賽內加爾籍	sai nei gia er zi	1
@@ -130553,7 +130553,7 @@ import_tables:
 超賣區	chao mai kv	1
 超難	chao nan	1
 超難的	chao nan de	1
-超音波對焦	chao yin bo dui ziao	1
+超音波對焦	chao yim bo dui ziao	1
 越描越黑	yve miao yve hei	1
 越淺	yve cian	1
 越狙代庖	yve zv dai pao	1
@@ -130571,7 +130571,7 @@ import_tables:
 足跟膜	zu gen mo	1
 跑腿費	pao tui fei	1
 跑車級	pao che gi	1
-距離感	gv li gan	1
+距離感	gv li gam	1
 跟撞	gen zhuang	1
 路攝	lu she	1
 路易西安那	lu yi si an na	1
@@ -130609,11 +130609,11 @@ import_tables:
 軟體動物門	ruan ti dong wu men	1
 軸承聲	zhou cheng sheng	1
 較以往	giao yi wang	1
-較低廉	giao di lian	1
+較低廉	giao di liam	1
 較長的	giao chang de	1
 較高階	giao gao gie	1
-載沈載浮	zai chen zai fu	1
-載浮載沉	zai fu zai chen	1
+載沈載浮	zai chem zai fu	1
+載浮載沉	zai fu zai chem	1
 輔仔	fu zai	1
 輔導組長	fu dao zu zhang	1
 輕一些	king yi sie	1
@@ -130622,7 +130622,7 @@ import_tables:
 輕機車	king gi che	1
 輕油裂解廠	king you lie gie chang	2
 輕熟女	king shou nv	1
-輕熟男	king shou nan	1
+輕熟男	king shou nam	1
 輕省筆電	king sheng bi dian	1
 輕重工業	king zhong gong ye	1
 輕黑軸	king hei zhou	1
@@ -130635,7 +130635,7 @@ import_tables:
 輻射屋	fu she wu	1
 輻射度	fu she du	1
 輻射源	fu she yvan	1
-輻射點	fu she dian	1
+輻射點	fu she diam	1
 轉介	zhuan gie	1
 轉介到	zhuan gie dao	1
 轉學考	zhuan hve kao	1
@@ -130648,7 +130648,7 @@ import_tables:
 辜汪會晤	gu wang hui wu	1
 辣子雞丁	la zii gi ding	1
 辦事處長	ban shii chu zhang	1
-辦光纖	ban guang sian	1
+辦光纖	ban guang siam	1
 辦過的	ban guo de	1
 辨識技術	bian shii gi shu	1
 辨識模組	bian shii mo zu	1
@@ -130656,7 +130656,7 @@ import_tables:
 農工職業	nong gong zhii ye	1
 農曆一月	nong li yi yve	1
 農曆七月	nong li ci yve	1
-農曆三月	nong li san yve	1
+農曆三月	nong li sam yve	1
 農曆九月	nong li giu yve	1
 農曆二月	nong li er yve	1
 農曆五月	nong li wu yve	1
@@ -130666,7 +130666,7 @@ import_tables:
 農曆十二月	nong li shii er yve	1
 農曆十月	nong li shii yve	1
 農曆四月	nong li sii yve	1
-農林漁牧業	nong lin yv mu ye	1
+農林漁牧業	nong lim yv mu ye	1
 農業局長	nong ye gv zhang	1
 農業發展條例	nong ye fa zhan tiao li	1
 農畜產品	nong sv chan pin	1
@@ -130682,7 +130682,7 @@ import_tables:
 追丟	zhui diu	1
 追價	zhui gia	1
 追出去	zhui chu kv	1
-追尋出	zhui svn chu	1
+追尋出	zhui svm chu	1
 追平	zhui ping	1
 追摹	zhui mo	1
 追焦	zhui ziao	1
@@ -130697,7 +130697,7 @@ import_tables:
 逃不了	tao bu liao	1
 透光率	tou guang lv	1
 透可板	tou ke ban	1
-透視感	tou shii gan	1
+透視感	tou shii gam	1
 這一塊	zhe yi kuai	1
 這些事情	zhe sie shii cing	1
 這個嘛	zhe ge ma	1
@@ -130711,7 +130711,7 @@ import_tables:
 這次趁	zhe cii chen	1
 這牆	zhe ciang	1
 這部份	zhe bu fen	1
-這針	zhe zhen	1
+這針	zhe zhem	1
 這麼廢	zhe me fei	1
 這麼涼	zhe me liang	1
 這麼舊	zhe me giu	1
@@ -130734,11 +130734,11 @@ import_tables:
 造船國	zao chuan guo	1
 逢高	feng gao	1
 連她	lian ta	1
-連帶賠償責任	lian dai pei chang ze ren	1
+連帶賠償責任	lian dai pei chang ze rem	1
 連攝影師	lian she ying shii	1
 連看都	lian kan dou	1
 連車帶人	lian che dai ren	1
-連震東基金會	lian zhen dong gi gin hui	1
+連震東基金會	lian zhen dong gi gim hui	1
 逮着	dai zhao	1
 週均線	zhou gvn sian	1
 週折	zhou zhe	1
@@ -130782,9 +130782,9 @@ import_tables:
 達芬尼斯	da fen ni sii	1
 達豐	da fong	1
 達電	da dian	1
-違合感	wei he gan	1
-違和感	wei he gan	1
-違禁藥物	wei gin yao wu	1
+違合感	wei he gam	1
+違和感	wei he gam	1
+違禁藥物	wei gim yao wu	1
 遙控它	yao kong ta	1
 遜一籌	svn yi chou	1
 遜喀	svn ka	1
@@ -130814,12 +130814,12 @@ import_tables:
 避之唯恐不及	bi zhii wei kong bu gi	1
 避掉	bi diao	1
 避暑山庄	bi shu shan zhuang	1
-避談	bi tan	2
+避談	bi tam	2
 避走	bi zou	1
 避震器	bi zhen ki	7
 邁阿密熱火	mai a mi re huo	1
 邁阿密熱火隊	mai a mi re huo dui	1
-邁阿密馬林魚	mai a mi ma lin yv	1
+邁阿密馬林魚	mai a mi ma lim yv	1
 還不急	hai bu gi	1
 還不錯	hai bu cuo	1
 還原作用	huan yvan zuo yong	1
@@ -130887,13 +130887,13 @@ import_tables:
 都城隍爺	du cheng huang ye	1
 都市人	du shii ren	4
 都廳	du ting	1
-都心	du sin	1
+都心	du sim	1
 都想笑	dou siang siao	1
 都懶	dou lan	1
 都抄	dou chao	1
 都是在	dou shii zai	1
 都更	du geng	1
-都會公園站	du hui gong yvan zhan	1
+都會公園站	du hui gong yvan zham	1
 都會想	dou hui siang	1
 都有事	dou you shii	1
 都有霧	dou you wu	1
@@ -130903,12 +130903,12 @@ import_tables:
 都蘭山	dou lan shan	1
 都趁	dou chen	1
 都鐸	du duo	1
-都黏	dou nian	1
+都黏	dou niam	1
 鄉代會	hiang dai hui	1
 鄉農會	hiang nong hui	1
 鄉鎮市長	hiang zhen shii zhang	1
 鄔瑪舒曼	wu ma shu man	1
-鄭南榕	zheng nan rong	1
+鄭南榕	zheng nam rong	1
 鄭慧芸	zheng hui yvn	1
 配套措施	pei tao cuo shii	1
 配給卡	pei gi ka	1
@@ -130927,7 +130927,7 @@ import_tables:
 酸菜鴨肉湯	suan cai ya rou tang	1
 醇黑	chun hei	1
 醉月湖畔	zui yve hu pan	1
-醋醰	cu tan	1
+醋醰	cu tam	1
 醜得	chou de	1
 醫學獎	yi hve ziang	1
 醫師數	yi shii shu	1
@@ -130935,14 +130935,14 @@ import_tables:
 釀造酒	niang zao ziu	1
 里見八犬傳	li gian ba kvan zhuan	1
 重不重要	zhong bu zhong yao	1
-重低音	zhong di yin	1
+重低音	zhong di yim	1
 重傷害	zhong shang hai	1
 重勢派	zhong shii pai	1
 重型架	zhong hing gia	1
 重情義	zhong cing yi	1
 重慶北路	chong king bei lu	1
-重慶南路	chong king nan lu	1
-重慶南路口	chong king nan lu kou	1
+重慶南路	chong king nam lu	1
+重慶南路口	chong king nam lu kou	1
 重慶路	chong king lu	1
 重技術	zhong gi shu	1
 重機	zhong gi	1
@@ -130952,8 +130952,8 @@ import_tables:
 重複曝光	chong fu pu guang	1
 重議	chong yi	1
 重鎚	zhong chui	1
-重鹹	zhong hian	1
-重點新聞	zhong dian sin wen	1
+重鹹	zhong hiam	1
+重點新聞	zhong diam sin wen	1
 野生動植物	ye sheng dong zhii wu	1
 野生動物區	ye sheng dong wu kv	1
 野白合	ye bai he	1
@@ -130964,27 +130964,27 @@ import_tables:
 量身打造	liang shen da zao	1
 量身訂作	liang shen ding zuo	1
 量身訂做	liang shen ding zuo	1
-金六結	gin liu gie	1
-金南佶	gin nan gi	1
-金坷垃	gin ke la	1
-金大班	gin da ban	1
-金屬粒	gin shu li	1
-金屬類	gin shu lei	1
-金氏世界紀錄	gin shii shii gie gi lu	3
-金瓜石站	gin gua shii zhan	1
-金盾	gin dun	1
-金石堂	gin shii tang	1
-金礦博物館	gin kuang bo wu guan	1
-金管會	gin guan hui	1
-金腿鳳煲湯	gin tui fong bao tang	1
-金融互助會	gin rong hu zhu hui	1
-金門國家公園	gin men guo gia gong yvan	1
-金門大橋	gin men da kiao	1
-金門縣籍	gin men hian zi	1
-金鳥樂園	gin niao le yvan	1
+金六結	gim liu gie	1
+金南佶	gim nam gi	1
+金坷垃	gim ke la	1
+金大班	gim da ban	1
+金屬粒	gim shu li	1
+金屬類	gim shu lei	1
+金氏世界紀錄	gim shii shii gie gi lu	3
+金瓜石站	gim gua shii zham	1
+金盾	gim dun	1
+金石堂	gim shii tang	1
+金礦博物館	gim kuang bo wu guan	1
+金管會	gim guan hui	1
+金腿鳳煲湯	gim tui fong bao tang	1
+金融互助會	gim rong hu zhu hui	1
+金門國家公園	gim men guo gia gong yvan	1
+金門大橋	gim men da kiao	1
+金門縣籍	gim men hian zi	1
+金鳥樂園	gim niao le yvan	1
 釣魚樂	diao yv le	1
 釦着	kou zhe	1
-鈦金屬	tai gin shu	1
+鈦金屬	tai gim shu	1
 鉅亨網	gv heng wang	1
 鉅大	gv da	2
 鉅費	gv fei	1
@@ -131002,38 +131002,38 @@ import_tables:
 銅箔基板	tong bo gi ban	1
 銘傳	ming zhuan	1
 銘傳國中	ming chuan guo zhong	1
-銫一三七	se yi san ci	1
+銫一三七	se yi sam ci	1
 銳不可擋	rui bu ke dang	1
 銳利度	rui li du	1
 銷售率	siao shou lv	3
-鋒面南下	fong mian nan hia	1
+鋒面南下	fong mian nam hia	1
 鋒面系統	fong mian hi tong	1
-鋼之鍊金術師	gang zhii lian gin shu shii	1
+鋼之鍊金術師	gang zhii lian gim shu shii	1
 錢哈哈	cian ha ha	1
 錢嗎	cian ma	1
 錢能	cian neng	1
 錢薇娟	cian wei gvan	1
 錢鼠	cian shu	1
-錦衣足食	gin yi zu shii	1
+錦衣足食	gim yi zu shii	1
 錯不了	cuo bu liao	1
 錯誤的第一步	cuo wu de di yi bu	1
 鍵鼠板	gian shu ban	1
 鍾楚紅	zhong chu hong	1
 鍾理和	zhong li he	1
-鎂鋁合金	mei lv he gin	1
+鎂鋁合金	mei lv he gim	1
 鎗火	ciang huo	1
 鎚兒	chui er	1
 鏡到底	ging dao di	1
 鏡頭蓋	ging tou gai	1
 鐘乳石洞	zhong ru shii dong	2
-鐵布杉	tie bu shan	1
+鐵布杉	tie bu sham	1
 鐵拳無敵	tie kvan wu di	1
 鐵板灰	tie ban hui	1
 鐵臂神拳	tie bi shen kvan	1
 鐵臂阿童木	tie bi a tong mu	1
 鐵達尼	tie da ni	1
 鐵隕石	tie yvn shii	1
-鑑識組長	gian shii zu zhang	1
+鑑識組長	giam shii zu zhang	1
 鑰匙兒童	yao shii er tong	1
 長億集團	chang yi zi tuan	1
 長億高中	chang yi gao zhong	1
@@ -131060,27 +131060,27 @@ import_tables:
 長長久久	chang chang giu giu	1
 長鬃山羊	chang zong shan yang	1
 門得列夫	men de lie fu	1
-閃光彈	shan guang dan	1
+閃光彈	sham guang dan	1
 開不了	kai bu liao	1
-開南	kai nan	1
-開南商工	kai nan shang gong	1
+開南	kai nam	1
+開南商工	kai nam shang gong	1
 開始着手	kai shii zhuo shou	1
 開幕戰	kai mu zhan	1
 開幕日	kai mu rii	1
-開心地	kai sin de	1
+開心地	kai sim de	1
 開拓出	kai tuo chu	1
 開放給	kai fang gei	1
 開疆拓土	kai giang tuo tu	2
 開腸剖肚	kai chang pou du	1
 開車到	kai che dao	1
 開錯處方	kai cuo chu fang	1
-開開心心地	kai kai sin sin de	1
+開開心心地	kai kai sim sim de	1
 開陽白菜	kai yang bai cai	1
 閒來沒事	hian lai mei shii	1
 閒盪	hian dang	1
 閱讀者	yve du zhe	1
-闇之盾	an zhii dun	1
-闊葉樹林	kuo ye shu lin	1
+闇之盾	am zhii dun	1
+闊葉樹林	kuo ye shu lim	1
 關仔嶺	guan zii ling	2
 關切度	guan cie du	1
 關回籠內	guan hui long nei	1
@@ -131095,7 +131095,7 @@ import_tables:
 防紅眼	fang hong yan	1
 防顢	fang man	1
 阻止不了	zu zhii bu liao	1
-阿公店	a gong dian	1
+阿公店	a gong diam	1
 阿基里斯	a gi li sii	3
 阿壞	a huai	1
 阿姆羅	a mu luo	1
@@ -131109,7 +131109,7 @@ import_tables:
 阿桐阿寶	a tong a bao	1
 阿求	a kiu	1
 阿瑪迪斯	a ma di sii	1
-阿甘正傳	a gan zheng zhuan	1
+阿甘正傳	a gam zheng zhuan	1
 阿知	a zhii	1
 阿給	a gei	1
 阿美族人	a mei zu ren	1
@@ -131124,14 +131124,14 @@ import_tables:
 阿里山茶	a li shan cha	1
 阿飄	a piao	1
 阿飄板	a piao ban	1
-阿鼻劍	a bi gian	1
+阿鼻劍	a bi giam	1
 附屬國民	fu shu guo min	1
 附屬高級	fu shu gao gi	1
 附帶民事賠償	fu dai min shii pei chang	1
 附的	fu de	1
 附着在	fu zhuo zai	1
 附着性	fu zhuo hing	1
-附着點	fu zhuo dian	1
+附着點	fu zhuo diam	1
 附睪	fu gao	1
 陋地	lou di	1
 降低到	giang di dao	1
@@ -131140,7 +131140,7 @@ import_tables:
 降尿酸劑	giang niao suan zi	1
 降格爲	giang ge wei	1
 降水區	giang shui kv	1
-降膽固醇	giang dan gu chun	1
+降膽固醇	giang dam gu chun	1
 降賜	giang cii	1
 降質求量	giang zhii kiu liang	1
 降頭	giang tou	1
@@ -131149,41 +131149,41 @@ import_tables:
 降龍十八掌	hiang long shii ba zhang	1
 限制的	hian zhii de	1
 限洗裝備	hian si zhuang bei	1
-陝人	shan ren	1
+陝人	sham ren	1
 陡升	dou sheng	1
 陡降	dou giang	1
 院轄市長	yvan hia shii zhang	1
 院長室	yvan zhang shii	1
 院長盃	yvan zhang bei	1
-陰差	yin chai	1
-陰影在	yin ying zai	1
-陰時多雲	yin shii duo yvn	1
-陰晴圓缺	yin cing yvan kve	1
-陰沈	yin chen	1
-陰沈沈	yin chen chen	1
-陰的	yin de	1
-陰陰沈沈	yin yin chen chen	1
-陰電荷	yin dian he	1
-陳世念	chen shii nian	1
-陳今佩	chen gin pei	1
+陰差	yim chai	1
+陰影在	yim ying zai	1
+陰時多雲	yim shii duo yvn	1
+陰晴圓缺	yim cing yvan kve	1
+陰沈	yim chem	1
+陰沈沈	yim chem chem	1
+陰的	yim de	1
+陰陰沈沈	yim yim chem chem	1
+陰電荷	yim dian he	1
+陳世念	chen shii niam	1
+陳今佩	chen gim pei	1
 陳信安	chen sin an	1
 陳偉殷	chen wei yin	1
 陳傳興	chen chuan hing	1
 陳元甲	chen yvan gia	1
 陳克華	chen ke hua	1
 陳其邁	chen ki mai	1
-陳冠任	chen guan ren	1
+陳冠任	chen guan rem	1
 陳冲	chen chong	1
-陳哲男	chen zhe nan	7
+陳哲男	chen zhe nam	7
 陳唐山	chen tang shan	1
 陳國清	chen guo cing	1
 陳大豐	chen da fong	1
 陳大順	chen da shun	1
 陳奕勳	chen yi hvn	1
-陳如琳	chen ru lin	1
+陳如琳	chen ru lim	1
 陳妍希	chen yan hi	1
 陳妙秋	chen miao ciu	1
-陳姿吟	chen zii yin	1
+陳姿吟	chen zii yim	1
 陳姿穎	chen zii ying	1
 陳州糶米	chen zhou tiao mi	1
 陳建輔	chen gian fu	1
@@ -131204,13 +131204,13 @@ import_tables:
 陳義信	chen yi sin	2
 陳菊	chen gv	1
 陳蹟	chen zi	1
-陳金鋒	chen gin fong	1
+陳金鋒	chen gim fong	1
 陳鏞基	chen yong gi	1
 陶瓷燙	tao cii tang	1
-陷下去	hian hia kv	1
-陷入僵局	hian ru giang gv	1
-陷在	hian zai	1
-陷空島	hian kong dao	1
+陷下去	hiam hia kv	1
+陷入僵局	hiam ru giang gv	1
+陷在	hiam zai	1
+陷空島	hiam kong dao	1
 陸上颱風警報	lu shang tai fong ging bao	1
 陸光隊	lu guang dui	1
 陸奧	lu ao	1
@@ -131258,7 +131258,7 @@ import_tables:
 雙聯學制	shuang lian hve zhii	1
 雙胞兄弟	shuang bao hiong di	1
 雙首長制	shuang shou zhang zhii	1
-雜糧纖麩餅	za liang sian fu bing	1
+雜糧纖麩餅	za liang siam fu bing	1
 雜誌公會	za zhii gong hui	1
 雜貨行	za huo hang	1
 雞卷	gi gvan	1
@@ -131277,7 +131277,7 @@ import_tables:
 難分軒輊	nan fen hvan zhii	1
 難回答	nan hui da	1
 難安裝	nan an zhuang	1
-難尋	nan svn	1
+難尋	nan svm	1
 難想像	nan siang siang	1
 難按	nan an	1
 難民潮	nan min chao	1
@@ -131288,37 +131288,37 @@ import_tables:
 雨停了	yv ting le	1
 雨勢不斷	yv shii bu duan	1
 雨後春筍般	yv hou chun sun ban	1
-雨林區	yv lin kv	1
+雨林區	yv lim kv	1
 雨柳堂物語	yv liu tang wu yv	1
-雨淋日晒	yv lin rii shai	1
-雨露均沾	yv lu gvn zhan	1
+雨淋日晒	yv lim rii shai	1
+雨露均沾	yv lu gvn zham	1
 雪兒板	sve er ban	1
 雪城大學	sve cheng da hve	1
 雪花遍地	sve hua bian di	1
 雪菜肉絲麪	sve cai rou sii mian	1
 雲仙樂園	yvn sian le yvan	1
-雲南菜	yvn nan cai	1
+雲南菜	yvn nam cai	1
 雲居	yvn gv	1
 雲居一輪	yvn gv yi lun	1
 雲景	yvn ging	1
 雲景	yvn ying	1
-雲林地方法院	yvn lin di fang fa yvan	1
-雲林縣政府	yvn lin hian zheng fu	1
+雲林地方法院	yvn lim di fang fa yvan	1
+雲林縣政府	yvn lim hian zheng fu	1
 零之使魔	ling zhii shii mo	1
 零和遊戲	ling he you hi	1
 零持股	ling chii gu	1
 零秒出手	ling miao chu shou	1
 零租	ling zu	1
-零食店	ling shii dian	1
-零點三三	ling dian san san	1
-零點零幾	ling dian ling gi	1
+零食店	ling shii diam	1
+零點三三	ling diam sam sam	1
+零點零幾	ling diam ling gi	1
 雷光夏	lei guang hia	1
 雷射光	lei she guang	1
 雷射鼠	lei she shu	1
 雷比達	lei bi da	1
 雷氏症候羣	lei shii zheng hou kvn	1
 雷霆崖	lei ting yai	1
-電信三法	dian sin san fa	1
+電信三法	dian sin sam fa	1
 電信人員	dian sin ren yvan	1
 電信區	dian sin kv	1
 電信商	dian sin shang	1
@@ -131332,7 +131332,7 @@ import_tables:
 電信館	dian sin guan	1
 電光火石	dian guang huo shii	1
 電力組長	dian li zu zhang	1
-電壓互感	dian ya hu gan	1
+電壓互感	dian ya hu gam	1
 電子寵物	dian zii chong wu	1
 電子白板鍵	dian zii bai ban gian	1
 電子觀景窗	dian zii guan ging chuang	1
@@ -131357,7 +131357,7 @@ import_tables:
 靈異傳	ling yi zhuan	1
 靈肉合一	ling rou he yi	1
 青埔	cing bu	1
-青埔站	cing bu zhan	1
+青埔站	cing bu zham	1
 青少棒隊	cing shao bang dui	3
 青年公園	cing nian gong yvan	2
 青年國中	cing nian guo zhong	1
@@ -131369,7 +131369,7 @@ import_tables:
 青木	cing mu	1
 青果社	cing guo she	1
 青梗花椰菜	cing geng hua ye cai	1
-青樓艷妓	cing lou yan gi	1
+青樓艷妓	cing lou yam gi	1
 青玉蘋果	cing yv ping guo	1
 青背山雀	cing bei shan kve	1
 青蒜炒香腸	cing suan chao hiang chang	1
@@ -131387,9 +131387,9 @@ import_tables:
 靜葉	zing ye	1
 非交錯式	fei giao cuo shii	1
 非份之財	fei fen zhii cai	1
-非侵害性	fei cin hai hing	1
+非侵害性	fei cim hai hing	1
 非假日	fei gia rii	1
-非凡商業臺	fei fan shang ye tai	1
+非凡商業臺	fei fam shang ye tai	1
 非告訴乃論	fei gao su nai lun	1
 非商業	fei shang ye	1
 非得到	fei de dao	1
@@ -131407,10 +131407,10 @@ import_tables:
 韓劇板	han gv ban	1
 韓氏	han shii	1
 韓系	han hi	1
-音樂祭	yin yve zi	1
-音樂總監	yin yve zong gian	1
-音樂老師	yin yve lao shii	1
-音樂迷	yin yve mi	1
+音樂祭	yim yve zi	1
+音樂總監	yim yve zong giam	1
+音樂老師	yim yve lao shii	1
+音樂迷	yim yve mi	1
 響尾蛇隊	hiang wei she dui	1
 頂溪	ding hi	1
 頂溪國小	ding hi guo siao	1
@@ -131430,7 +131430,7 @@ import_tables:
 風之谷	fong zhii gu	1
 風吹拂	fong chui fu	1
 風景照	fong ging zhao	1
-風景點	fong ging dian	1
+風景點	fong ging diam	1
 風神伴月	fong shen ban yve	1
 風紀股長	fong gi gu zhang	1
 風見	fong gian	1
@@ -131465,17 +131465,17 @@ import_tables:
 食科所	shii ke suo	1
 食道鏡	shii dao ging	1
 食鐵獸	shii tie shou	1
-食鹽水	shii yan shui	1
+食鹽水	shii yam shui	1
 飢溺	gi ni	1
-飲料業	yin liao ye	1
-飲食費	yin shii fei	1
+飲料業	yim liao ye	1
+飲食費	yim shii fei	1
 飽了	bao le	1
 餅乾屑	bing gan sie	1
 養兒育女	yang er yv nv	1
 養工處長	yang gong chu zhang	1
 養樂多隊	yang le duo dui	1
 養豬業	yang zhu ye	1
-養陰丸	yang yin wan	1
+養陰丸	yang yim wan	1
 餐廳區	can ting kv	1
 餐廳數	can ting shu	1
 餐盒業	can he ye	1
@@ -131490,13 +131490,13 @@ import_tables:
 餬口飯吃	hu kou fan chii	1
 餵食口	wei shii kou	1
 饒穎奇	rao ying ki	2
-首席檢查	shou si gian cha	1
+首席檢查	shou si giam cha	1
 首班車	shou ban che	1
 首賣會	shou mai hui	1
 香取慎吾	hiang cv shen wu	1
 香柚	hiang you	1
 香榭大道	hiang sie da dao	5
-香港浸會	hiang gang zin hui	1
+香港浸會	hiang gang zim hui	1
 香緹卡	hiang ti ka	1
 香艾酒	hiang ai ziu	1
 香菇肉焿	hiang gu rou geng	1
@@ -131508,7 +131508,7 @@ import_tables:
 香酥蝦餅	hiang su hia bing	1
 馬丁鞋	ma ding hie	1
 馬偕	ma gie	1
-馬偕紀念醫院	ma gie gi nian yi yvan	1
+馬偕紀念醫院	ma gie gi niam yi yvan	1
 馬偕醫院	ma gie yi yvan	1
 馬克白	ma ke bai	1
 馬場町	ma chang ting	1
@@ -131540,18 +131540,18 @@ import_tables:
 騙我們	pian wo men	1
 騙我的	pian wo de	1
 騙色	pian se	1
-騙點錢	pian dian cian	1
+騙點錢	pian diam cian	1
 驚嘆不已	ging tan bu yi	1
 驚天地泣鬼神	ging tian di ki gui shen	1
-驚心肉跳	ging sin rou tiao	1
+驚心肉跳	ging sim rou tiao	1
 驟死戰	zou sii zhan	1
 驟死賽	zou sii sai	1
 驟逝	zou shii	1
 骨稽	gu gi	1
 體委會	ti wei hui	1
-體感	ti gan	1
-體染色體	ti ran se ti	1
-體育園區站	ti yv yvan kv zhan	1
+體感	ti gam	1
+體染色體	ti ram se ti	1
+體育園區站	ti yv yvan kv zham	1
 體育委員會	ti yv wei yvan hui	1
 體育組長	ti yv zu zhang	1
 體術	ti shu	1
@@ -131568,9 +131568,9 @@ import_tables:
 高尿酸血症	gao niao suan hve zheng	1
 高居不下	gao gv bu hia	1
 高師大	gao shii da	1
-高感光度	gao gan guang du	1
-高感度	gao gan du	1
-高感染率	gao gan ran lv	1
+高感光度	gao gam guang du	1
+高感度	gao gam du	1
+高感染率	gao gam ram lv	1
 高成長率	gao cheng zhang lv	1
 高所得	gao suo de	1
 高挑戰性	gao tiao zhan hing	1
@@ -131578,7 +131578,7 @@ import_tables:
 高效率化	gao hiao lv hua	1
 高教司長	gao giao sii zhang	1
 高比率	gao bi lv	1
-高污染	gao wu ran	1
+高污染	gao wu ram	1
 高津臣吾	gao zin chen wu	1
 高流動率	gao liu dong lv	1
 高準度	gao zhun du	1
@@ -131592,7 +131592,7 @@ import_tables:
 高精確度	gao zing kve du	1
 高縣府	gao hian fu	1
 高縣長	gao hian zhang	1
-高纖餅乾	gao sian bing gan	1
+高纖餅乾	gao siam bing gan	1
 高血壓性	gao hve ya hing	1
 高血脂肪症	gao hve zhii fang zheng	1
 高血鈣	gao hve gai	1
@@ -131622,7 +131622,7 @@ import_tables:
 魔動火王	mo dong huo wang	1
 魔動王	mo dong wang	1
 魔動風王	mo dong fong wang	1
-魔法提琴手	mo fa ti kin shou	1
+魔法提琴手	mo fa ti kim shou	1
 魔爪	mo zhao	1
 魔爪	mo zhua	1
 魔獸板	mo shou ban	1
@@ -131632,7 +131632,7 @@ import_tables:
 魚尾獅	yv wei shii	1
 魚板燴黃瓜	yv ban hui huang gua	1
 魚槍	yv ciang	1
-魚沈雁杳	yv chen yan yao	1
+魚沈雁杳	yv chem yan yao	1
 魚目其間	yv mu ki gian	1
 魚羹湯	yv geng tang	1
 魚肉塊	yv rou kuai	1
@@ -131642,7 +131642,7 @@ import_tables:
 魚鱗石	yv lin shii	1
 魩仔魚	mo zai yv	1
 魯冰花	lu bing hua	1
-魯邦三世	lu bang san shii	1
+魯邦三世	lu bang sam shii	1
 魷魚乾	you yv gan	1
 魷魚圈	you yv kvan	1
 鮮肉包	sian rou bao	1
@@ -131686,18 +131686,18 @@ import_tables:
 鴨肉羹	ya rou geng	1
 鴨肉麪	ya rou mian	1
 鴨血	ya hve	1
-鴻漸於陸	hong zian yv lu	1
+鴻漸於陸	hong ziam yv lu	1
 鴻禧大溪別館	hong hi da hi bie guan	8
 鵝肉麪	e rou mian	1
 鵝頸橋	e ging kiao	1
 鶴佬	he lao	1
 鶴嘴鋤	he zui chu	2
 鷹俠	ying hia	1
-鹹湯圓	hian tang yvan	1
-鹹粿炸	hian guo zha	1
-鹽埕埔	yan cheng bu	1
-鹽埕埔站	yan cheng bu zhan	1
-鹽的物語	yan de wu yv	1
+鹹湯圓	hiam tang yvan	1
+鹹粿炸	hiam guo zha	1
+鹽埕埔	yam cheng bu	1
+鹽埕埔站	yam cheng bu zham	1
+鹽的物語	yam de wu yv	1
 鹿伯酒	lu bo ziu	1
 鹿兒島縣	lu er dao hian	1
 鹿場大山	lu chang da shan	1
@@ -131712,7 +131712,7 @@ import_tables:
 麥寮高中	mai liao gao zhong	1
 麥桿酒	mai gan ziu	1
 麥當當	mai dang dang	1
-麥考利克金	mai kao li ke gin	1
+麥考利克金	mai kao li ke gim	1
 麥茵茲	mai yin zii	1
 麥迪遜之橋	mai di svn zhii kiao	1
 麥迪遜廣場	mai di svn guang chang	1
@@ -131741,7 +131741,7 @@ import_tables:
 黃巾賊	huang gin zei	1
 黃復興	huang fu hing	1
 黃牛肉	huang niu rou	1
-黃牛肉店	huang niu rou dian	1
+黃牛肉店	huang niu rou diam	1
 黃牛肉麪	huang niu rou mian	1
 黃百祿	huang bai lu	1
 黃睿靚	huang rui zing	1
@@ -131749,30 +131749,30 @@ import_tables:
 黃義達	huang yi da	1
 黃色鬼屋	huang se gui wu	1
 黃藥師	huang yao shii	1
-黃金海岸區	huang gin hai an kv	1
+黃金海岸區	huang gim hai an kv	1
 黃麪羹	huang mian geng	1
 黃黃的	huang huang de	1
 黃黴毒素	huang mei du su	1
 黎得芳	li de fang	1
 黎明中學	li ming zhong hve	1
-黏液滴	nian ye di	1
-黏着度	nian zhuo du	1
-黏着性	nian zhuo hing	1
-黏着衣服	nian zhe yi fu	1
-黏黏的	nian nian de	1
+黏液滴	niam ye di	1
+黏着度	niam zhuo du	1
+黏着性	niam zhuo hing	1
+黏着衣服	niam zhe yi fu	1
+黏黏的	niam niam de	1
 黑執事	hei zhii shii	1
 黑客松	hei ke song	1
 黑川	hei chuan	1
 黑幼龍	hei you long	1
-黑心商品	hei sin shang pin	1
-黑心食品	hei sin shii pin	1
+黑心商品	hei sim shang pin	1
+黑心食品	hei sim shii pin	1
 黑星手槍	hei sing shou ciang	1
 黑曜石	hei yao shii	1
 黑木	hei mu	1
 黑木瞳	hei mu tong	1
-黑枕藍鶲	hei zhen lan wong	1
+黑枕藍鶲	hei zhem lam wong	1
 黑橋牌	hei kiao pai	1
-黑沈沈	hei chen chen	1
+黑沈沈	hei chem chem	1
 黑澀會	hei se hui	1
 黑澤	hei ze	1
 黑牛	hei niu	1
@@ -131780,7 +131780,7 @@ import_tables:
 黑狗兄	hei gou hiong	1
 黑白切	hei bai cie	1
 黑白無常	hei bai wu chang	1
-黑眶蟾蜍	hei kuang chan chu	1
+黑眶蟾蜍	hei kuang cham chu	1
 黑石榴	hei shii liu	1
 黑腹絨鼠	hei fu rong shu	1
 黑膠	hei giao	1
@@ -131798,13 +131798,13 @@ import_tables:
 默示錄	mo shii lu	1
 黛咪摩兒	dai mi mo er	1
 黛安娜羅絲	dai an na luo sii	1
-點三八	dian san ba	1
-點三八制式	dian san ba zhii shii	1
-點了點頭	dian le dian tou	1
-點錯	dian cuo	1
-點閱率	dian yve lv	1
+點三八	diam sam ba	1
+點三八制式	diam sam ba zhii shii	1
+點了點頭	diam le diam tou	1
+點錯	diam cuo	1
+點閱率	diam yve lv	1
 黨產會	dang chan hui	1
-黯陰陽	an yin yang	1
+黯陰陽	am yim yang	1
 鼓樂隊	gu yve dui	1
 鼠尾草滴	shu wei cao di	1
 鼠板	shu ban	1
@@ -131814,7 +131814,7 @@ import_tables:
 齊納二極體	ci na er gi ti	1
 齊豫	ci yv	1
 齊頭式平等	ci tou shii ping deng	1
-龍南路	long nan lu	1
+龍南路	long nam lu	1
 龍卷	long gvan	1
 龍戰於野	long zhan yv ye	1
 龍洞灣	long dong wan	1
