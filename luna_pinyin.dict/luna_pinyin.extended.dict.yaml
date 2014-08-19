@@ -23259,8 +23259,6 @@ import_tables:
 咕咕雞		1
 咕嘰咕嘰		1
 咕嚕着		1
-咖哩葉		1
-咖哩鱔魚堡		1
 咖啡伴侶		1
 咖啡園		2
 咖啡師		1
@@ -23273,9 +23271,6 @@ import_tables:
 咖啡茶		1
 咖啡貓		1
 咖啡飲料		1
-咖喱牛肉		1
-咖喱葉		1
-咖喱雞		1
 咚咚鏘		1
 咧着		1
 咧着嘴笑		1
@@ -125492,6 +125487,12 @@ import_tables:
 和興	he xing	1
 和鑫	he xin	1
 和風式	he feng shi	1
+咖哩牛肉	ka li niu rou	1
+咖哩葉	ka li ye	1
+咖哩鱔魚堡	ka li shan yu bao	1
+咖喱牛肉	ga li niu rou	1
+咖喱葉	ga li ye	1
+咖喱鱔魚堡	ga li shan yu bao	1
 咬下去	yao xia qu	1
 咬壞	yao huai	1
 咬斷	yao duan	1
