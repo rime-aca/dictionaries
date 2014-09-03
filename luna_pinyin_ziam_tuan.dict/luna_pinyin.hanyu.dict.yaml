@@ -20,7 +20,7 @@
 
 ---
 name: luna_pinyin.hanyu
-version: "2013.11.01"
+version: "2014.09.03"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1804,7 +1804,7 @@ use_preset_vocabulary: true
 三祭
 三福
 三禪
-三种	san chong
+三种
 三科九旨
 三種人
 三穢
