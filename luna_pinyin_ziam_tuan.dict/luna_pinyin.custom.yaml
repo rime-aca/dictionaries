@@ -21,7 +21,9 @@ patch:
   "translator/preedit_format":
     - xform/v/ü/
     - xform/ii/ï/
-    - "xform/([zcs]h?|r)y/$1ï/"
+    # 兼容中州羅馬字 {
+    #- "xform/([zcs]h?|r)y/$1ï/"
+    # }
   "reverse_lookup/comment_format":
     - xform/v/ü/
     - xform/ii/ï/
