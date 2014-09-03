@@ -36,13 +36,13 @@
 #
 
 ---
-name: luna_pinyin.extended
-version: "2014.3.2"
+name: luna_pinyin_ziam_tuan.extended
+version: "2014.09.03"
 sort: by_weight
 use_preset_vocabulary: true
 #此処爲明月拼音擴充詞庫（基本）默認鏈接載入的詞庫，有朙月拼音官方詞庫、明月拼音擴充詞庫（漢語大詞典）、明月拼音擴充詞庫（詩詞）。如果不需要加載某个詞庫請將其用「#」註釋掉。
 import_tables:
-  - luna_pinyin
+  - luna_pinyin_ziam_tuan
   - luna_pinyin.hanyu
   - luna_pinyin.poetry
 ...
@@ -123988,6 +123988,7 @@ import_tables:
 三瓶	sam ping	1
 三百部	sam bai bu	1
 三石琴乃	sam shii kim nai	1
+三种	sam chong	1
 三秒膠	sam miao giao	1
 三稜鏡	sam leng ging	1
 三立新聞臺	sam li sin wen tai	1
@@ -124407,8 +124408,8 @@ import_tables:
 人類學組	ren lei hve zu	1
 人類學者	ren lei hve zhe	1
 什錦炒飯	shii gim chao fan	1
-什麼地步	shen me di bu	1
-什麼碗糕	shen me wan gao	1
+什麼地步	shem me di bu	1
+什麼碗糕	shem me wan gao	1
 仁者俠醫	ren zhe hia yi	1
 今朝有酒	gim zhao you ziu	1
 介不介意	gie bu gie yi	1
@@ -124685,7 +124686,7 @@ import_tables:
 傾國怨伶	king guo yvan ling	1
 傾城之戀	king cheng zhii lian	2
 像一般	siang yi ban	1
-像什麼	siang shen me	1
+像什麼	siang shem me	1
 像他們	siang ta men	1
 像圈	siang kvan	1
 像我們	siang wo men	1
@@ -124892,7 +124893,7 @@ import_tables:
 典型在夙昔	dian hing zai su si	1
 兼六園	giam liu yvan	1
 再差	zai cha	1
-再怎麼	zai zen me	1
+再怎麼	zai zem me	1
 再提高	zai ti gao	1
 再着手	zai zhuo shou	1
 再聯絡	zai lian luo	1
@@ -126894,9 +126895,9 @@ import_tables:
 念了	niam le	1
 念天地之悠悠	niam tian di zhii you you	1
 念錯	niam cuo	1
-怎的	zen de	1
-怎行	zen hing	1
-怎麼賺	zen me zhuam	1
+怎的	zem de	1
+怎行	zem hing	1
+怎麼賺	zem me zhuam	1
 怏嚇	yang he	1
 怕得很	pa de hen	1
 思樂冰	sii le bing	1
@@ -127168,7 +127169,7 @@ import_tables:
 指數值	zhii shu zhii	1
 指爪	zhii zhao	1
 指爪	zhii zhua	1
-按怎	an zen	1
+按怎	an zem	1
 按耐不住	an nai bu zhu	1
 按錯	an cuo	1
 挑挑看	tiao tiao kan	1
@@ -127250,7 +127251,7 @@ import_tables:
 搖滾藍薔薇	yao gun lam ciang wei	1
 搜尋法	sou svm fa	1
 搞不清楚	gao bu cing chu	1
-搞什麼東西	gao shen me dong si	1
+搞什麼東西	gao shem me dong si	1
 搞定了	gao ding le	1
 搞掛了	gao gua le	1
 搞死了	gao sii le	1
@@ -127322,7 +127323,7 @@ import_tables:
 擴大到	kuo da dao	1
 擷圖	gie tu	1
 擷摘	gie zhai	1
-擺什麼	bai shen me	1
+擺什麼	bai shem me	1
 攜行袋	hi hing dai	1
 攝護腺炎	she hu sian yam	1
 攝護腺癌	she hu sian ai	2
@@ -127958,7 +127959,7 @@ import_tables:
 正規表示式	zheng gui biao shii shii	1
 正電子對撞機	zheng dian zii dui zhuang gi	2
 正露丸	zheng lu wan	1
-此話怎講	cii hua zen giang	1
+此話怎講	cii hua zem giang	1
 此部份	cii bu fen	1
 步數	bu shu	1
 步車	bu che	1
@@ -128119,8 +128120,8 @@ import_tables:
 沉着應付	chem zhuo ying du	1
 沉着應戰	chem zhuo ying zhan	1
 沒人接	mei ren zie	1
-沒什麼了不起	mei shen me liao bu ki	1
-沒什麼大不了	mei shen me da bu liao	1
+沒什麼了不起	mei shem me liao bu ki	1
+沒什麼大不了	mei shem me da bu liao	1
 沒力氣	mei li ki	1
 沒唸	mei niam	1
 沒差	mei cha	1
@@ -128615,7 +128616,7 @@ import_tables:
 爲之語塞	wei zhii yv se	1
 爲了你	wei le ni	1
 爲人子女	wei ren zii nv	1
-爲什麼要	wei shen me yao	1
+爲什麼要	wei shem me yao	1
 爲學校	wei hve hiao	1
 爵士樂風	zve shii yve fong	1
 爵士隊	zve shii dui	1
@@ -129278,7 +129279,7 @@ import_tables:
 答不答應	da bu da ying	1
 答復	da fu	1
 算得了	suan de liao	1
-算得了什麼	suan de liao shen me	1
+算得了什麼	suan de liao shem me	1
 算錢	suan cian	1
 管不了那麼多	guan bu liao na me duo	1
 管不到	guan bu dao	1
@@ -129614,7 +129615,7 @@ import_tables:
 老遊戲板	lao you hi ban	1
 老革命	lao ge ming	1
 老鼠炮	lao shu pao	1
-考什麼試	kao shen me shii	1
+考什麼試	kao shem me shii	1
 考古學界	kao gu hve gie	1
 考掘學	kao gve hve	1
 考覈權	kao he kvan	1
@@ -130360,7 +130361,7 @@ import_tables:
 誠泰銀行	cheng tai yin hang	1
 說一套做一套	shuo yi tao zuo yi tao	1
 說不了	shuo bu liao	1
-說什麼	shuo shen me	1
+說什麼	shuo shem me	1
 說得到做得到	shuo de dao zuo de dao	1
 說得過	shuo de guo	1
 誰是誰非	shei shii shei fei	1
@@ -130421,7 +130422,7 @@ import_tables:
 謎之聲	mi zhii sheng	1
 謎片	mi pian	1
 講一些	giang yi sie	1
-講什麼	giang shen me	1
+講什麼	giang shem me	1
 講他	giang ta	1
 講兩句	giang liang gv	1
 講完了	giang wan le	1
@@ -130558,7 +130559,7 @@ import_tables:
 越淺	yve cian	1
 越狙代庖	yve zv dai pao	1
 趕不完	gan bu wan	1
-趕什麼	gan shen me	1
+趕什麼	gan shem me	1
 趕回家	gan hui gia	2
 趕抵	gan di	1
 趕拍	gan pai	1

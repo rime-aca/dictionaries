@@ -17,30 +17,47 @@
 
 patch:
   # 載入朙月拼音擴充詞庫
-  "translator/dictionary": luna_pinyin.extended
+  "translator/dictionary": luna_pinyin_ziam_tuan.extended
   "translator/preedit_format":
     - xform/v/ü/
     - xform/ii/ï/
+    - "xform/([zcs]h?|r)y/$1ï/"
   "reverse_lookup/comment_format":
     - xform/v/ü/
     - xform/ii/ï/
-  # 設置模糊音
   "speller/algebra":
     - "erase/^xx$/"
+    # 設置模糊音
     - "derive/^([nl])ve$/$1ue/"
-#    - "xform/[zg]([iv])/j$1/"
-#    - "xform/[ck]([iv])/q$1/"
-#    - "xform/[sh]([iv])/x$1/"
+    - "derive/[zg]([iv])/j$1/"
+    - "derive/[ck]([iv])/q$1/"
+    - "derive/[sh]([iv])/x$1/"
     - "derive/^([jqxy])v/$1u/"
-#    - "xform/([zcs]h?|r)ii/$1i/"
+    - "derive/([zcs]h|r)ii$/$1i/"
     - "derive/m$/n/"
     - "derive/ia([mn])$/ie$1/"
     - "derive/([bpmfw])ong/$1eng/"
     - "derive/un$/uen/"
     - "derive/ui$/uei/"
     - "derive/iu$/iou/"
+    # 兼容中州羅馬字 {
+    #- "derive/^([nlzcs])ong$/$1iong/"
+    #- "derive/^yong$/yvng/"
+    #- "derive/iong$/vng/"
+    #- "derive/^([jqx])iong$/$1ung/"
+    #- "derive/ong$/ung/"
+    #- "derive/^we([in])/wu$1/"
+    #- "derive/ao$/au/"
+    #- "derive/ve$/vo/"
+    #- "derive/^([jqxy])ve$/$1uo/"
+    #- "derive/([zcs]h?|r)ii$/$1y/"
+    #- "derive/([zcs]h|r)u$/$1v/"
+    #- "derive/([fw])ei$/$1i/"
+    #- "derive/([nlw])ei$/$1ui/"
+    # }
+    # 糾錯
     - "derive/([aeiou])ng$/$1gn/"
     - "derive/([dtngkhrzcs])o(u|ng)$/$1o/"
     - "derive/ong$/on/"
     - "derive/ao$/oa/"
-    - "derive/([iu])a(o|ng?)$/a$1$2/"
+    - "derive/([iu])a([ou]|ng?)$/a$1$2/"
