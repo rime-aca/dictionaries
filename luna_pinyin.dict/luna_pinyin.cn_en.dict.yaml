@@ -1,0 +1,104 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Luna Pinyin Extended Dictionary(Chinese&English) - 明月拼音擴充詞庫（含西文的詞彙）
+#
+#   瑾昀 <cokunhui@gmail.com>
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.cn_en
+version: "2014.09.07"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+AA制	a a zhi	100
+ATM機	a t m ji	100
+Android	android	100
+A片	a pian	100
+A盤	a pan	100
+A股	a gu	100
+B淋巴細胞	b lin ba xi bao	100
+B盤	b pan	100
+B細胞	b xi bao	100
+B股	b gu	100
+B超	b chao	100
+C盤	c pan	100
+C語言	c yu yan	100
+DNA	d n a	100
+DVD	d v d	100
+D盤	d pan	100
+E盤	e pan	100
+F盤	f pan	100
+Google	google	100
+G盤	g pan	100
+G點	g dian	100
+H盤	h pan	100
+H股	h gu	100
+IP位址	i p wei zhi	100
+IP卡	i p ka	100
+IP地址	i p di zhi	100
+IP電話	i p dian hua	100
+I盤	i pan	100
+J盤	j pan	100
+K歌	k ge	100
+K歌	kei ge	100
+K粉	k fen	100
+K粉	kei fen	100
+K金	k jin	100
+K金	kei jin	100
+Linux	linux	100
+POS機	p o s ji	100
+QQ	q q	100
+QQ會員	q q hui yuan	100
+QQ羣	q q qun	100
+QQ號	q q hao	100
+QQ號碼	q q hao ma	100
+Q幣	q bi	100
+Rime	rime	100
+Rime	zhong zhou yun	100
+SIM卡	s i m ka	100
+T型臺	t xing tai	100
+T恤	t xu	100
+T恤衫	t xu shan	100
+T恤衫	t xu shan	100
+T淋巴細胞	t lin ba xi bao	100
+T細胞	t xi bao	100
+USB	u s b	100
+U形管	u xing guan	100
+U盤	u pan	100
+U盾	u dun	100
+WiFi	wai fai	100
+WiFi	wi fi	100
+X光	x guang	100
+X光	x guang	100
+X刀	x dao	100
+X射綫	x she xian	100
+X射線	x she xian	100
+X染色體	x ran se ti	100
+Y染色體	y ran se ti	100
+iOS	i os	100
+iPad	i pad	100
+iPhone	i phone	100
+iPod	i pod	100
+α射線	a er fa she xian	100
+α粒子	a er fa li zi	100
+β射線	bei ta she xian	100
+β粒子	bei ta li zi	100
+γ刀	ga ma dao	100
+γ射線	ga ma she xian	100
+三K黨	san k dang	100
+三K黨	san kei dang	100
+卡拉OK	ka la o k	100
+哆啦A夢	duo la a meng	100
+智能ABC	zhi neng a b c	100
+阿Q	a q	100
+阿Q正傳	a q zheng zhuan	100
