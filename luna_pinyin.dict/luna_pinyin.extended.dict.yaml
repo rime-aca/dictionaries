@@ -1378,13 +1378,6 @@ import_tables:
 三俠		1
 三俠劍		1
 三信汽車		1
-三個臭裨匠<-----500
-三個臭裨匠勝過諸葛亮<---250
-三個臭裨匠合成一個諸葛亮<-------1
-三個臭裨匠賽過一個諸葛亮<-------1
-三個臭裨匠賽過諸葛亮<---300
-三個臭裨匠頂個諸葛亮<---400
-三個臭裨將頂個諸葛亮		400
 三倍數		1
 三倍的		1
 三元乙丙		1
@@ -2600,7 +2593,6 @@ import_tables:
 不到之處		1
 不到位		1
 不到場		1
-不到烏江心不死		1
 不刺激		1
 不加分析		1
 不加區分		1
@@ -15762,7 +15754,6 @@ import_tables:
 刊名		13
 刊布		1
 刊物上		1
-刑不尊大夫		1
 刑事上		1
 刑事判決書		1
 刑事法律		1
@@ -33872,9 +33863,7 @@ import_tables:
 媽祖婆		2
 媽閣廟		1
 嫁不嫁		1
-嫁乞隨乞		1
 嫁入豪門		1
-嫁叟隨叟		1
 嫁妝一牛車		1
 嫁得瞿塘賈		1
 嫁掉		1
@@ -45148,7 +45137,6 @@ import_tables:
 志賀麻登佳		1
 忘事		1
 忘光		1
-忘八端		1
 忘啦		1
 忘川		1
 忘帶		1
@@ -74584,7 +74572,6 @@ import_tables:
 無定期		1
 無害的		1
 無實質		1
-無尖不商		1
 無尚		1
 無尾		1
 無尾滑鼠		1
@@ -74598,7 +74585,6 @@ import_tables:
 無序性		1
 無序狀態		1
 無序競爭		1
-無度不丈夫		600
 無庫存		1
 無庸贅言		1
 無廣告版		1
@@ -76810,7 +76796,6 @@ import_tables:
 狗瘟		1
 狗的		1
 狗的早餐		1
-狗皮不通		1
 狗籠		1
 狗羣		1
 狗脊		1
@@ -84543,7 +84528,6 @@ import_tables:
 禪詩		1
 禪語		1
 禪說		1
-禮不卑庶人		1
 禮來		1
 禮儀上		1
 禮儀志		2
@@ -126727,8 +126711,6 @@ import_tables:
 媒體識讀	mei ti shi du	1
 媧桿	wa gan	1
 媽媽咪呀	ma ma mi ya	1
-嫁乞隨乞	jia ji sui ji	500
-嫁叟隨叟	jia gou sui gou	500
 嫌不足	xian bu zu	1
 嫩薑	nen jiang	1
 嬌嬌女	jiao jiao nv	1
@@ -127348,7 +127330,6 @@ import_tables:
 志玲姊姊	zhi ling jie jie	1
 忘了寄	wang le ji	1
 忘了記	wang le ji	1
-忘八端	wang ba dan	1
 忘記了	wang ji le	1
 忙得很	mang de hen	1
 忠孝不能	zhong xiao bu neng	1
@@ -127664,9 +127645,6 @@ import_tables:
 捕魚區	bu yu qu	1
 捕魚業	bu yu ye	1
 捨不下	she bu xia	1
-捨不得鞋子套不住狼	she bu de hai zi tao bu zhu lang	1
-捨不得鞋子套不到狼	she bu de hai zi tao bu dao lang	1
-捨不得鞋子套不得狼	she bu de hai zi tao bu de lang	1
 捨車保帥	she ju bao shuai	1
 捱的	ai de	1
 捱着	ai zhao	1
@@ -128171,7 +128149,6 @@ import_tables:
 有沒有帶	you mei you dai	1
 有沒有搞錯	you mei you gao cuo	1
 有沒有空	you mei you kong	1
-有眼不識荊山玉	you yan bu shi jin xiang yu	1
 有線系統	you xian xi tong	1
 有線電視業	you xian dian shi ye	1
 有線電視系統	you xian dian shi xi tong	1
