@@ -15,14 +15,27 @@
 
 ---
 name: luna_pinyin.cn_en
-version: "2014.09.07"
+version: "2014.10.27"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
+2B	er b	100
+2B	er bi	100
 AA制	a a zhi	100
+AMD	a m d	100
+ATI	ati	100
 ATM機	a t m ji	100
 Android	android	100
+Arduino	arduino	100
+A他	a ta	100
+A他	ei ta	100
+A她	a ta	100
+A她	ei ta	100
+A死他	a si ta	100
+A死他	ei si ta	100
+A死她	a si ta	100
+A死她	ei si ta	100
 A片	a pian	100
 A盤	a pan	100
 A股	a gu	100
@@ -47,17 +60,33 @@ IP位址	i p wei zhi	100
 IP卡	i p ka	100
 IP地址	i p di zhi	100
 IP電話	i p dian hua	100
+Intel	intel	100
 I盤	i pan	100
 J盤	j pan	100
+K他	k ta	100
+K他	kei ta	100
+K她	k ta	100
+K她	kei ta	100
+K寶	k bao	100
+K寶	kei bao	100
 K歌	k ge	100
 K歌	kei ge	100
+K死他	k si ta	100
+K死他	kei si ta	100
+K死她	k si ta	100
+K死她	kei si ta	100
 K粉	k fen	100
 K粉	kei fen	100
 K金	k jin	100
 K金	kei jin	100
 Linux	linux	100
+MIPS	m i p s	100
+MP3	m p san	100
+MP4	m p si	100
+Mac	mac	100
+Nvidia	nvidia	100
 POS機	p o s ji	100
-QQ	q q	100
+QQ	q q	1000
 QQ會員	q q hui yuan	100
 QQ羣	q q qun	100
 QQ號	q q hao	100
@@ -71,15 +100,18 @@ T恤	t xu	100
 T恤衫	t xu shan	100
 T淋巴細胞	t lin ba xi bao	100
 T細胞	t xi bao	100
+UIM卡	u i m ka	100
 USB	u s b	100
+USIM卡	u s i m ka100
 U形管	u xing guan	100
 U盤	u pan	100
 U盾	u dun	100
 WiFi	wai fai	100
 WiFi	wi fi	100
+Windows	windows	100
+Xeon	xeon	100
 X光	x guang	100
 X刀	x dao	100
-X射綫	x she xian	100
 X射線	x she xian	100
 X染色體	x ran se ti	100
 Y染色體	y ran se ti	100
@@ -87,6 +119,9 @@ iOS	i os	100
 iPad	i pad	100
 iPhone	i phone	100
 iPod	i pod	100
+iWatch	i watch	100
+z變換	z bian huan	100
+z逆變換	z ni bian huan	100
 α射線	a er fa she xian	100
 α粒子	a er fa li zi	100
 β射線	bei ta she xian	100
@@ -95,8 +130,19 @@ iPod	i pod	100
 γ射線	ga ma she xian	100
 三K黨	san k dang	100
 三K黨	san kei dang	100
+二B	er b	100
+二B	er bi	100
+傻B	sha b	100
+傻B	sha bi	100
 卡拉OK	ka la o k	100
 哆啦A夢	duo la a meng	100
+單邊z變換	dan bian z bian huan	100
 智能ABC	zhi neng a b c	100
+牛B	niu b	100
+牛B	niu bi	100
+裝B	zhuang b	100
+裝B	zhuang bi	100
+逗B	dou b	100
+逗B	dou bi	100
 阿Q	a q	100
 阿Q正傳	a q zheng zhuan	100
