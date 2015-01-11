@@ -41,11 +41,30 @@ Rime 擴充詞庫
 
 ## 增加自己的詞庫
 
-在這個架構底下增加自己的詞庫相當容易，只需新增一個自訂的 `*.dict.yaml` 檔案，如 `lazywei.dict.yaml`
-然後在 `luna_pinyin.extended.dict.yaml` 的 `import_tables` 底下加上你的字典名稱，例如我的例子中就是
+在這個架構底下增加自己的詞庫相當容易，只需新增一個自訂的 `*.dict.yaml` 檔案，內容可以仿照 `luna_pinyin.extended.dict.yaml`，並於其中引入 `luna_pinyin.extended` 及相關字典檔，例如：
 
 ```
-  - lazywei
+# lazywei.dict.yaml
+---
+name: lazywei
+version: "2015.1.10"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+  - luna_pinyin.extended
+  - luna_pinyin.hanyu
+  - luna_pinyin.poetry
+...
+
+這是我的詞
 ```
 
-而 `lazywei.dict.yaml` 的內容就可以仿照 `luna_pinyin.hanyu.dict.yaml` 等檔案的內容了，惟需注意：本詞庫升級時需重新修改 `import_tables`，若有更好解法請不吝分享。
+接着再於 `*.schema.yaml` 或 `*.custom.yaml` 中將 `translator/dictionary` 設置成此字典檔即可，例如：
+
+```
+patch:
+  translator/dictionary: lazywei
+```
+
+如此，往後 `luna_pinyin.extended` 升級時並不會影響到這個 `lazywei.dict.yaml`，所以直接將所有檔案覆蓋即可。
