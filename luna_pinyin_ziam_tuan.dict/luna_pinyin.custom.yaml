@@ -63,3 +63,6 @@ patch:
     - "derive/ong$/on/"
     - "derive/ao$/oa/"
     - "derive/([iu])a([ou]|ng?)$/a$1$2/"
+    # 簡拼
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([zcs]h).+$/$1/

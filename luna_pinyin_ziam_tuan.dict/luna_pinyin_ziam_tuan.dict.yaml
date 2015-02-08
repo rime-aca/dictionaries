@@ -29,7 +29,7 @@
 
 ---
 name: luna_pinyin_ziam_tuan
-version: "2014.09.03"
+rersion: "2015.02.08"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -30135,7 +30135,7 @@ use_preset_vocabulary: true
 雽	yv
 雾	wu
 雿	zhao
-需	hv	100%
+需	sv	100%
 需	nuo	0%
 需	ru	0%
 需	ruan	0%
