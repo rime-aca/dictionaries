@@ -15,7 +15,7 @@
 
 ---
 name: luna_pinyin.cn_en
-version: "2014.10.27"
+version: "2015-01-18"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -112,6 +112,8 @@ U盤	u pan	100
 U盾	u dun	100
 Wi-Fi	wai fai	100
 Wi-Fi	wi fi	100
+WiFi	wai fai	100
+WiFi	wi fi	100
 Windows	windows	100
 Xeon	xeon	100
 X光	x guang	100
