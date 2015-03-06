@@ -15,7 +15,7 @@
 
 ---
 name: luna_pinyin.cn_en
-version: "2015-01-18"
+version: "2015.1.18"
 sort: by_weight
 use_preset_vocabulary: true
 ...
