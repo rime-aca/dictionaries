@@ -31,13 +31,16 @@ Rime 擴充詞庫
 
     附雙拼方案與其對應的 id 一覽表：
 
-| 輸入方案   | id                 |
-|------------|--------------------|
-| 自然碼雙拼 | double_pinyin      |
-| 智能ABC雙拼| double_pinyin_abc  |
-| 小鶴雙拼   | double_pinyin_flypy|
-| MSPY雙拼   | double_pinyin_mspy |
+    | 輸入方案   | id                 |
+    |------------|--------------------|
+    | 自然碼雙拼 | double_pinyin      |
+    | 智能ABC雙拼| double_pinyin_abc  |
+    | 小鶴雙拼   | double_pinyin_flypy|
+    | MSPY雙拼   | double_pinyin_mspy |
 
+4. 若爲「朙月拼音」系列輸入方案使用者，請將補靪文件 `luna_pinyin.custom.yaml` 改名爲你所使用的輸入方案對應的 id。（比如朙月拼音·簡化字方案，則將 `luna_pinyin.custom.yaml` 改名爲 `luna_pinyin_simp.custom.yaml`）。
+
+驗證：切換到拼音或其他適用方案，輸入「一介書生」（驗證擴充詞庫之基本詞庫）、「一丈紅」（驗證擴充詞庫之漢語大詞典詞彙）、「疑是地上霜」（驗證擴充詞庫之詩詞詞庫）、輸入「哆啦A夢（duo la a meng）」（驗證擴充詞庫之西文詞庫，此子詞庫爲朙月拼音系列方案專有，雙拼方案不推薦使用）。
 
 ## 增加自己的詞庫
 
