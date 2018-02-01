@@ -29,7 +29,7 @@
 
 ---
 name: luna_pinyin_ziam_tuan
-rersion: "2015.02.08"
+version: "2015.02.08"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8833,7 +8833,7 @@ use_preset_vocabulary: true
 后	hou
 吏	li
 吐	tu
-向	siang
+向	hiang
 吒	chii
 吒	zha
 吓	he	0.22%
@@ -12774,7 +12774,7 @@ use_preset_vocabulary: true
 怤	fu
 急	gi
 怦	peng
-性	hing
+性	sing
 怨	yvan
 怩	ni
 怪	guai
@@ -21550,7 +21550,7 @@ use_preset_vocabulary: true
 箾	siao
 箾	sve
 箿	zi
-節	gie
+節	zie
 篁	huang
 篂	sing
 篃	mei
@@ -28045,7 +28045,7 @@ use_preset_vocabulary: true
 逯	lu
 逰	you
 週	zhou
-進	gin
+進	zin
 逳	yv
 逴	chuo
 逵	kui
@@ -48822,7 +48822,7 @@ use_preset_vocabulary: true
 下頜	hia he
 下頦	hia hai
 不乾不淨	bu gan bu zing
-不乾性油	bu gan hing you
+不乾性油	bu gan sing you
 不乾淨	bu gan zing
 不了	bu le
 不了	bu liao
@@ -48936,7 +48936,7 @@ use_preset_vocabulary: true
 不着疼熱	bu zhuo teng re
 不着痕跡	bu zhuo hen zi
 不着痛癢	bu zhuo tong yang
-不着筋節	bu zhuo gin gie
+不着筋節	bu zhuo gin zie
 不着腳	bu zhuo giao
 不着要	bu zhuo yao
 不着親	bu zhuo cin
@@ -48993,7 +48993,7 @@ use_preset_vocabulary: true
 不重	bu zhong
 不長一智	bu zhang yi zhii
 不長眼睛	bu zhang yan zing
-不長進	bu zhang gin
+不長進	bu zhang zin
 不阿	bu e
 不隄防	bu ti fang
 不露	bu lu
@@ -49370,7 +49370,7 @@ use_preset_vocabulary: true
 了無生趣	liao wu sheng cv
 了無痕跡	liao wu hen zi
 了無罣礙	liao wu gua ai
-了無長進	liao wu zhang gin
+了無長進	liao wu zhang zin
 了然	liao ran
 了然不惑	liao ran bu huo
 了畢	liao bi
@@ -49415,7 +49415,7 @@ use_preset_vocabulary: true
 二重唱	er chong chang
 二重國籍	er chong guo zi
 二重奏	er chong zou
-二重性	er chong hing
+二重性	er chong sing
 二陸	er lu
 二面角	er mian giao
 二韃子吃螺螄	er da zii chii luo sii
@@ -50086,7 +50086,7 @@ use_preset_vocabulary: true
 偌大	ruo da
 偌時	ruo shii
 偎乾就濕	wei gan ziu shii
-偏向虎山行	pian siang hu shan hing
+偏向虎山行	pian hiang hu shan hing
 偏差行爲	pian cha hing wei
 偏棲	pian ci
 偏畸	pian gi
@@ -50321,7 +50321,7 @@ use_preset_vocabulary: true
 兇相畢露	hiong siang bi lu
 兇終隙末	hiong zhong hi mo
 先吾着鞭	sian wu zhuo bian
-先天性畸形	sian tian hing gi hing
+先天性畸形	sian tian sing gi sing
 先天缺陷	sian tian kve hiam
 先怎麼栽	sian zem mo zai
 先憂後樂	sian you hou le
@@ -50432,7 +50432,7 @@ use_preset_vocabulary: true
 兩丱	liang guan
 兩個肩膀扛張嘴	liang ge gian bang kang zhang zui
 兩地	liang di
-兩性生殖	liang hing sheng zhii
+兩性生殖	liang sing sheng zhii
 兩日三朝	liang rii sam zhao
 兩棲	liang ci
 兩棲作戰	liang ci zuo zhan
@@ -50720,7 +50720,7 @@ use_preset_vocabulary: true
 分薄緣慳	fen bo yvan kian
 分蘗	fen nie
 分蘗期	fen nie ki
-分蘗節	fen nie gie
+分蘗節	fen nie zie
 分行	fen hang
 分行布白	fen hang bu bai
 分裂生殖	fen lie sheng zhii
@@ -50902,7 +50902,7 @@ use_preset_vocabulary: true
 剛勁	gang ging
 剛愎	gang bi
 剛愎不仁	gang bi bu ren
-剛愎性成	gang bi hing cheng
+剛愎性成	gang bi sing cheng
 剛愎自用	gang bi zii yong
 剛戾	gang li
 剛戾自用	gang li zii yong
@@ -51012,7 +51012,7 @@ use_preset_vocabulary: true
 勁敵	ging di
 勁旅	ging lv
 勁秋	ging ciu
-勁節	ging gie
+勁節	ging zie
 勁翮	ging he
 勁舞	gin wu
 勁舞團	gin wu tuan
@@ -51204,7 +51204,7 @@ use_preset_vocabulary: true
 協緝	hie ci
 協緝	hie zi
 協調	hie tiao
-協調性	hie tiao hing
+協調性	hie tiao sing
 協調機制	hie tiao gi zhii
 協調發展	hie tiao fa zhan
 南北朝	nam bei chao
@@ -51313,7 +51313,7 @@ use_preset_vocabulary: true
 厭惡	yam wu
 厭薄	yam bo
 厲行	li hing
-厲行節約	li hing gie yve
+厲行節約	li hing zie yve
 厹矛	kiu mao
 去呢	kv ni
 去蕪存菁	kv wu cun zing
@@ -51525,7 +51525,7 @@ use_preset_vocabulary: true
 可共患難不可共安樂	ke gong huan nan bu ke gong an le
 可口可樂	ke kou ke le
 可執行	ke zhii hing
-可塑性	ke su hing
+可塑性	ke su sing
 可少不了	ke shao bu liao
 可惡	ke wu
 可樂	ke le
@@ -51534,7 +51534,7 @@ use_preset_vocabulary: true
 可磣	ke chem
 可耕地	ke geng di
 可行	ke hing
-可行性	ke hing hing
+可行性	ke sing sing
 可調	ke tiao
 叱吒	chii zha
 叱吒風雲	chii zha fong yvn
@@ -51580,7 +51580,7 @@ use_preset_vocabulary: true
 各展其長	ge zhan ki chang
 各抱一角	ge bao yi giao
 各有所長	ge you suo chang
-各自進行	ge zii gin hing
+各自進行	ge zii zin hing
 各行其志	ge hing ki zhii
 各行其是	ge hing ki shii
 各行各業	ge hang ge ye
@@ -51619,7 +51619,7 @@ use_preset_vocabulary: true
 同宿	tong su
 同工異調	tong gong yi diao
 同志天地	tong zhii tian di
-同時進行	tong shii gin hing
+同時進行	tong shii zin hing
 同校	tong hiao
 同榜	tong bang
 同樂	tong le
@@ -51666,10 +51666,10 @@ use_preset_vocabulary: true
 吐露心腹	tu lu sim fu
 吐魯番	tu lu fan
 吐魯番窪地	tu lu fan wa di
-向地性	siang di hing
-向隅	siang yv
-向隅獨泣	siang yv du ki
-向隅而泣	siang yv er ki
+向地性	hiang di sing
+向隅	hiang yv
+向隅獨泣	hiang yv du ki
+向隅而泣	hiang yv er ki
 吒叉	zha cha
 吒吒	zha zha
 吒異	zha yi
@@ -51822,7 +51822,7 @@ use_preset_vocabulary: true
 呶呶	nao nao
 呶呶不休	nao nao bu hiu
 呶呶嘴	nao nao zui
-呼吸調節中樞	hu hi tiao gie zhong shu
+呼吸調節中樞	hu hi tiao zie zhong shu
 呼天搶地	hu tian ciang di
 呼奴使婢	hu nu shii bi
 命中率	ming zhong lv
@@ -52172,7 +52172,7 @@ use_preset_vocabulary: true
 單弦拉戲	dan hian la hi
 單弦說唱	dan hian shuo chang
 單獨行爲	dan du hing wei
-單線進行	dan sian gin hing
+單線進行	dan sian zin hing
 單縣	shan hian
 單腳鞋銀行	dan giao hie yin hang
 單薄	dan bo
@@ -52344,7 +52344,7 @@ use_preset_vocabulary: true
 嚴重	yam zhong
 嚴重影響	yam zhong ying hiang
 嚴重後果	yam zhong hou guo
-嚴重性	yam zhong hing
+嚴重性	yam zhong sing
 嚴重者	yam zhong zhe
 嚴靚	yam zing
 嚼不了	ziao bu liao
@@ -52520,7 +52520,7 @@ use_preset_vocabulary: true
 土番	tu fan
 土番鴨	tu fan ya
 土着	tu zhuo
-土耳其進行曲	tu er ki gin hing kv
+土耳其進行曲	tu er ki zin hing kv
 土芥	tu gie
 土著	tu zhu
 土行	tu hang
@@ -52607,13 +52607,13 @@ use_preset_vocabulary: true
 地勤	di kin
 地匣	di hia
 地區	di kv
-地區性	di kv hing
+地區性	di kv sing
 地區方言	di kv fang yan
 地區通行證	di kv tong hing zheng
 地名	di ming
 地圈	di kvan
 地圖	di tu
-地圖性視覺化	di tu hing shii gve hua
+地圖性視覺化	di tu sing shii gve hua
 地土蛇	di tu she
 地土風俗	di tu fong su
 地地道道	di di dao dao
@@ -52622,7 +52622,7 @@ use_preset_vocabulary: true
 地坪	di ping
 地坼天崩	di che tian beng
 地域	di yv
-地域性	di yv hing
+地域性	di yv sing
 地域觀念	di yv guan niam
 地基	di gi
 地塊	di kuai
@@ -52664,7 +52664,7 @@ use_preset_vocabulary: true
 地方分權	di fang fen kvan
 地方官	di fang guan
 地方志	di fang zhii
-地方性	di fang hing
+地方性	di fang sing
 地方戲	di fang hi
 地方戲曲	di fang hi kv
 地方政府	di fang zheng fu
@@ -52896,7 +52896,7 @@ use_preset_vocabulary: true
 埳軻	kam ke
 執法不阿	zhii fa bu e
 執着	zhii zhuo
-執着性	zhii zhuo hing
+執着性	zhii zhuo sing
 執行	zhii hing
 執行力	zhii hing li
 執行情況	zhii hing cing kuang
@@ -52953,8 +52953,8 @@ use_preset_vocabulary: true
 塌趿	ta sa
 塌陷	ta hiam
 塑像	su siang
-塑性	su hing
-塑性加工	su hing gia gong
+塑性	su sing
+塑性加工	su sing gia gong
 塑料	su liao
 塑膠	su giao
 塑膠工業	su giao gong ye
@@ -53011,7 +53011,7 @@ use_preset_vocabulary: true
 塞責	se ze
 塞車	sai che
 塞車症候羣	sai che zheng hou kvn
-塞進	sai gin
+塞進	sai zin
 塞音	se yim
 塞黑	sai hei
 填咽	tian ye
@@ -53062,7 +53062,7 @@ use_preset_vocabulary: true
 壓軸	ya zhou
 壓軸子	ya zhou zii
 壓軸戲	ya zhou hi
-壓迫性潰瘍	ya po hing kui yang
+壓迫性潰瘍	ya po sing kui yang
 壝埒	wei le
 壞坯子	huai pei zii
 壞疽	huai zv
@@ -53135,7 +53135,7 @@ use_preset_vocabulary: true
 多重	duo chong
 多重人格	duo chong ren ge
 多重國籍	duo chong guo zi
-多重性格	duo chong hing ge
+多重性格	duo chong sing ge
 多錢善賈	duo cian shan gu
 多長	duo chang
 多長時間	duo chang shii gian
@@ -53253,8 +53253,8 @@ use_preset_vocabulary: true
 大老闆	da lao ban
 大耋	da die
 大肆抨擊	da sii peng gi
-大腦出血性中風	da nao chu hie hing zhong fong
-大腦出血性中風	da nao chu hve hing zhong fong
+大腦出血性中風	da nao chu hie sing zhong fong
+大腦出血性中風	da nao chu hve sing zhong fong
 大腹便便	da fu pian pian
 大腹賈	da fu gu
 大臠	da luan
@@ -53279,7 +53279,7 @@ use_preset_vocabulary: true
 大謬不然	da miu bu ran
 大賈	da gu
 大賺	da zhuam
-大躍進	da yve gin
+大躍進	da yve zin
 大軸子	da zhou zii
 大軸子裹小軸子	da zhou zii guo siao zhou zii
 大輅	da lu
@@ -53309,8 +53309,8 @@ use_preset_vocabulary: true
 大陸妹	da lu mei
 大陸客	da lu ke
 大陸市場	da lu shii chang
-大陸性氣候	da lu hing ki hou
-大陸性氣團	da lu hing ki tuan
+大陸性氣候	da lu sing ki hou
+大陸性氣團	da lu sing ki tuan
 大陸政策	da lu zheng ce
 大陸斜坡	da lu sie po
 大陸會議	da lu hui yi
@@ -53428,7 +53428,7 @@ use_preset_vocabulary: true
 天長地老	tian chang di lao
 天長地遠	tian chang di yvan
 天長日久	tian chang rii giu
-天長節	tian chang gie
+天長節	tian chang zie
 天震地駭	tian zhen di hai
 天馬行空	tian ma hing kong
 天高地厚	tian gao di hou
@@ -53490,7 +53490,7 @@ use_preset_vocabulary: true
 奇崛	ki gve
 奇數	gi shu
 奇日	gi rii
-奇節瑰行	ki gie gui hing
+奇節瑰行	ki zie gui hing
 奇羨	gi sian
 奇葩	ki pa
 奇葩異卉	ki pa yi hui
@@ -53589,7 +53589,7 @@ use_preset_vocabulary: true
 好長	hao chang
 好馬不鞴雙鞍	hao ma bu bei shuang an
 好麼	hao ma
-如何進行	ru he gin hing
+如何進行	ru he zin hing
 如來藏	ru lai zang
 如出一轍	ru chu yi che
 如出一轍	ru chu yi zhe
@@ -53667,14 +53667,14 @@ use_preset_vocabulary: true
 娛樂八卦	yv le ba gua
 娛樂圈	yv le kvan
 娛樂場所	yv le chang suo
-娛樂性	yv le hing
+娛樂性	yv le sing
 娛樂新聞	yv le sin wen
 娛樂業	yv le ye
 娛樂活動	yv le huo dong
 娛樂片	yv le pian
 娛樂界	yv le gie
 娛樂稅	yv le shui
-娛樂節目	yv le gie mu
+娛樂節目	yv le zie mu
 娜娜	nuo nuo
 娩出	mian chu
 娩息	mian si
@@ -53850,7 +53850,7 @@ use_preset_vocabulary: true
 學殖	hve zhii
 學生家長	hve sheng gia zhang
 學生宿舍	hve sheng su she
-學生進行	hve sheng gin hing
+學生進行	hve sheng zin hing
 學籍簿	hve zi bu
 學行	hve hing
 學長	hve zhang
@@ -54182,8 +54182,8 @@ use_preset_vocabulary: true
 將將	ziang ziang
 將弁	ziang bian
 將校	ziang hiao
-將進酒	ciang gin ziu
-將進酒	ziang gin ziu
+將進酒	ciang zin ziu
+將進酒	ziang zin ziu
 將銳兵驍	ziang rui bing hiao
 專利地圖	zhuan li di tu
 專差	zhuan chai
@@ -54223,7 +54223,7 @@ use_preset_vocabulary: true
 對誰	dui shui
 對調	dui diao
 對還	dui huan
-導向飛彈	dao siang fei dan
+導向飛彈	dao hiang fei dan
 導彈	dao dan
 小乘	siao sheng
 小乘戒	siao sheng gie
@@ -54670,7 +54670,7 @@ use_preset_vocabulary: true
 幡蓋	fan gai
 幢幡	chuang fan
 幢幢	chuang chuang
-幢節	chuang gie
+幢節	chuang zie
 幢蓋	chuang gai
 幢隊	chuang dui
 幢麾	chuang hui
@@ -54898,7 +54898,7 @@ use_preset_vocabulary: true
 弧角	hu giao
 弩箭離絃	nu zian li hian
 弭棹	mi zhao
-弭節徘徊	mi gie pai huai
+弭節徘徊	mi zie pai huai
 弱怯怯	ruo kve kve
 張僧繇	zhang seng you
 張家長李家短	zhang gia chang li gia duan
@@ -54966,16 +54966,16 @@ use_preset_vocabulary: true
 彈布爾	tan bu er
 彈弄	tan long
 彈弓	dan gong
-彈性	tan hing
-彈性上班	tan hing shang ban
-彈性勢能	tan hing shii neng
-彈性工時	tan hing gong shii
-彈性放假	tan hing fang gia
-彈性模數	tan hing mo shu
-彈性疲乏	tan hing pi fa
-彈性纖維	tan hing siam wei
-彈性製造系統	tan hing zhii zao hi tong
-彈性限度	tan hing hian du
+彈性	tan sing
+彈性上班	tan sing shang ban
+彈性勢能	tan sing shii neng
+彈性工時	tan sing gong shii
+彈性放假	tan sing fang gia
+彈性模數	tan sing mo shu
+彈性疲乏	tan sing pi fa
+彈性纖維	tan sing siam wei
+彈性製造系統	tan sing zhii zao hi tong
+彈性限度	tan sing hian du
 彈指	tan zhii
 彈指之間	tan zhii zhii gian
 彈指神功	tan zhii shen gong
@@ -55024,7 +55024,7 @@ use_preset_vocabulary: true
 彊志	kiang zhii
 彊本	kiang ben
 彊本弱末	kiang ben ruo mo
-彊本節用	kiang ben gie yong
+彊本節用	kiang ben zie yong
 彊梁	kiang liang
 彊禦	kiang yv
 彊記博聞	kiang gi bo wen
@@ -55220,7 +55220,7 @@ use_preset_vocabulary: true
 心寬體胖	sim kuan ti pan
 心廣體胖	sim guang ti pan
 心弦	sim hian
-心律調節器	sim lv tiao gie ki
+心律調節器	sim lv tiao zie ki
 心怯	sim kve
 心懸兩地	sim hvan liang di
 心旌搖曳	sim zing yao ye
@@ -55338,11 +55338,11 @@ use_preset_vocabulary: true
 急行軍	gi hing gvn
 急驚風撞着慢郎中	gi ging fong zhuang zhao man lang zhong
 急驚風遇着慢郎中	gi ging fong yv zhao man lang zhong
-性地	hing di
-性知識	hing zhii shii
-性行	hing hing
-性行爲	hing hing wei
-性變態行爲	hing bian tai hing wei
+性地	sing di
+性知識	sing zhii shii
+性行	sing hing
+性行爲	sing hing wei
+性變態行爲	sing bian tai hing wei
 怨仇	yvan chou
 怨天怨地	yvan tian yvan di
 怨懣	yvan men
@@ -55386,7 +55386,7 @@ use_preset_vocabulary: true
 恇怯	kuang kve
 恐嚇	kong he
 恐嚇信	kong he sin
-恐嚇性	kong he hing
+恐嚇性	kong he sing
 恐嚇罪	kong he zui
 恝置	gia zhii
 恣心所欲	zii sim suo yv
@@ -55484,7 +55484,7 @@ use_preset_vocabulary: true
 情深意重	cing shem yi zhong
 情深義重	cing shem yi zhong
 情熟	cing shu
-情節嚴重	cing gie yam zhong
+情節嚴重	cing zie yam zhong
 情見乎言	cing hian hu yan
 情見乎辭	cing hian hu cii
 情見力屈	cing hian li kv
@@ -55510,8 +55510,8 @@ use_preset_vocabulary: true
 惡哏哏	e hen hen
 惡地	e di
 惡嫌	wu hiam
-惡性貧血	e hing pin hie
-惡性貧血	e hing pin hve
+惡性貧血	e sing pin hie
+惡性貧血	e sing pin hve
 惡惡	wu e
 惡惡從短	wu e cong duan
 惡有	wu you
@@ -55746,7 +55746,7 @@ use_preset_vocabulary: true
 成都平原	cheng du ping yvan
 成都賣卜	cheng du mai bu
 成長	cheng zhang
-成長性	cheng zhang hing
+成長性	cheng zhang sing
 成長率	cheng zhang lv
 成長股	cheng zhang gu
 成長過程	cheng zhang guo cheng
@@ -55821,10 +55821,10 @@ use_preset_vocabulary: true
 房地產商	fang di chan shang
 房地產業	fang di chan ye
 房宿錢	fang su cian
-所向披靡	suo siang pi mi
+所向披靡	suo hiang pi mi
 所在地	suo zai di
 所在地區	suo zai di kv
-所得彈性	suo de tan hing
+所得彈性	suo de tan sing
 所所長	suo suo chang
 所着	suo zhuo
 所著	suo zhu
@@ -55891,7 +55891,7 @@ use_preset_vocabulary: true
 扎花	zha hua
 扎草	zha cao
 扎西	zha si
-扎進	zha gin
+扎進	zha zin
 扎針	zha zhem
 扑作教刑	pu zuo giao hing
 扑打	pu da
@@ -56340,7 +56340,7 @@ use_preset_vocabulary: true
 拗彆	ao bie
 拗彆攪炒	ao bie giao chao
 拗怒	yv nu
-拗性	niu hing
+拗性	niu sing
 拗曲作直	ao kv zuo zhii
 拗甜	ao tiam
 拗相公	niu siang gong
@@ -57216,8 +57216,8 @@ use_preset_vocabulary: true
 敕賜	chii sii
 敖不可長	ao bu ke zhang
 敗棋有勝着	bai ki you sheng zhuo
-敗血性休克	bai hie hing hiu ke
-敗血性休克	bai hve hing hiu ke
+敗血性休克	bai hie sing hiu ke
+敗血性休克	bai hve sing hiu ke
 敗血症	bai hie zheng
 敗血症	bai hve zheng
 敗血膿毒症	bai hie nong du zheng
@@ -57285,7 +57285,7 @@ use_preset_vocabulary: true
 斐濟人	fei zi ren
 斐濟共和國	fei zi gong he guo
 斐然	fei ran
-斐然向風	fei ran siang fong
+斐然向風	fei ran hiang fong
 斐然成章	fei ran cheng zhang
 斑蝥	ban mao
 斑駁陸離	ban bo lu li
@@ -57722,7 +57722,7 @@ use_preset_vocabulary: true
 曾任	ceng rem
 曾參	zeng shem
 曾參殺人	zeng shem sha ren
-曾向	ceng siang
+曾向	ceng hiang
 曾因	ceng yin
 曾國荃	zeng guo cvan
 曾國藩	zeng guo fan
@@ -57826,8 +57826,8 @@ use_preset_vocabulary: true
 有娠	you shen
 有尺水行尺船	you chii shui hing chii chuan
 有庳	you bi
-有性生殖	you hing sheng zhii
-有性繁殖	you hing fan zhii
+有性生殖	you sing sheng zhii
+有性繁殖	you sing fan zhii
 有感地震	you gam di zhen
 有感覺	you gam gve
 有朝一日	you zhao yi rii
@@ -57888,7 +57888,7 @@ use_preset_vocabulary: true
 朝升暮合	zhao sheng mu ge
 朝南	chao nam
 朝參暮禮	zhao cam mu li
-朝向	chao siang
+朝向	chao hiang
 朝四暮三	zhao sii mu sam
 朝報	chao bao
 朝士	chao shii
@@ -58043,7 +58043,7 @@ use_preset_vocabulary: true
 末末了	mo mo liao
 末杪年	mo miao nian
 末着	mo zhao
-末節細行	mo gie si hing
+末節細行	mo zie si hing
 末腳	mo gve
 本地	ben di
 本地人	ben di ren
@@ -58160,7 +58160,7 @@ use_preset_vocabulary: true
 松柏之茂	song bo zhii mao
 松柏園	song bo yvan
 松柏後凋	song bo hou diao
-松柏節操	song bo gie cao
+松柏節操	song bo zie cao
 松柏長青	song bo chang cing
 松柏長青茶	song bo chang cing cha
 松皮癬	song pi sian
@@ -58263,7 +58263,7 @@ use_preset_vocabulary: true
 柏臺烏府	bo tai wu fu
 柏舟	bo zhou
 柏舟之痛	bo zhou zhii tong
-柏舟之節	bo zhou zhii gie
+柏舟之節	bo zhou zhii zie
 柏舟之誓	bo zhou zhii shii
 柏舟操	bo zhou cao
 柏芝	bai zhii
@@ -58685,7 +58685,7 @@ use_preset_vocabulary: true
 樂觀	le guan
 樂觀主義	le guan zhu yi
 樂觀其成	le guan ki cheng
-樂觀進取	le guan gin cv
+樂觀進取	le guan zin cv
 樂託	le tuo
 樂記	yve gi
 樂語	yve yv
@@ -58916,7 +58916,7 @@ use_preset_vocabulary: true
 止血點	zhii hve diam
 正三角形	zheng sam giao hing
 正傳	zheng zhuan
-正在進行	zheng zai gin hing
+正在進行	zheng zai zin hing
 正在運行	zheng zai yvn hing
 正常運行	zheng chang yvn hing
 正弦	zheng hian
@@ -59009,7 +59009,7 @@ use_preset_vocabulary: true
 殆無孑遺	dai wu gie yi
 殆無虛日	dai wu hv rii
 殆盡	dai zin
-殊功勁節	shu gong ging gie
+殊功勁節	shu gong ging zie
 殖利	zhii li
 殖殖	zhii zhii
 殖毛劑	zhii mao zi
@@ -59207,7 +59207,7 @@ use_preset_vocabulary: true
 水長船高	shui zhang chuan gao
 水門汀	shui men ting
 水陸	shui lu
-水陸並進	shui lu bing gin
+水陸並進	shui lu bing zin
 水陸之饌	shui lu zhii zhuan
 水陸畢陳	shui lu bi chen
 水陸畫	shui lu hua
@@ -59301,7 +59301,7 @@ use_preset_vocabulary: true
 沈淪	chem lun
 沈溺	chem ni
 沈滯	chem zhii
-沈滯性	chem zhii hing
+沈滯性	chem zhii sing
 沈澱	chem dian
 沈澱出來	chem dian chu lai
 沈澱法	chem dian fa
@@ -59422,7 +59422,7 @@ use_preset_vocabulary: true
 沒輕沒重	mei king mei zhong
 沒金飲羽	mo gim yim yv
 沒長眼	mei zhang yan
-沒長進	mei zhang gin
+沒長進	mei zhang zin
 沒頂	mo ding
 沒頭沒腦	mei tou mei nao
 沒頭沒腦	mo tou mo nao
@@ -59703,8 +59703,8 @@ use_preset_vocabulary: true
 流行	liu hing
 流行坎止	liu hing kam zhii
 流行學	liu hing hve
-流行性	liu hing hing
-流行性感冒	liu hing hing gam mao
+流行性	liu sing sing
+流行性感冒	liu sing sing gam mao
 流行歌曲	liu hing ge kv
 流行病	liu hing bing
 流行病學	liu hing bing hve
@@ -59790,7 +59790,7 @@ use_preset_vocabulary: true
 浹渫	zia sie
 浼人親行	mei ren cin hing
 浼浼	mei mei
-消化性潰瘍	siao hua hing kui yang
+消化性潰瘍	siao hua sing kui yang
 消化液	siao hua ye
 消折	siao she
 消沈	siao chem
@@ -59954,7 +59954,7 @@ use_preset_vocabulary: true
 清澹	cing dam
 清還	cing huan
 清都	cing du
-清風勁節	cing fong ging gie
+清風勁節	cing fong ging zie
 清馨	cing hin
 減削	giam sve
 減煠	giam zha
@@ -60385,7 +60385,7 @@ use_preset_vocabulary: true
 無將大車	wu ziang da che
 無將大車	wu ziang da zv
 無弦琴	wu hian kim
-無性生殖	wu hing sheng zhii
+無性生殖	wu sing sheng zhii
 無感地震	wu gam di zhen
 無斁	wu yi
 無條件投降	wu tiao gian tou hiang
@@ -60837,7 +60837,7 @@ use_preset_vocabulary: true
 獃事	dai shii
 獃人	dai ren
 獃子	dai zii
-獃性	dai hing
+獃性	dai sing
 獃想	dai siang
 獃憨獃	dai ham dai
 獃根	dai gen
@@ -60904,7 +60904,7 @@ use_preset_vocabulary: true
 率土宅心	shuai tu zhai sim
 率土歸心	shuai tu gui sim
 率師	shuai shii
-率性	shuai hing
+率性	shuai sing
 率更	lv geng
 率然	shuai ran
 率爲	lv wei
@@ -61364,7 +61364,7 @@ use_preset_vocabulary: true
 疥癬	gie sian
 疥癬蟲	gie sian chong
 疫癘	yi li
-疱疹性咽狹症	pao zhen hing yan hia zheng
+疱疹性咽狹症	pao zhen sing yan hia zheng
 疵癘	cii li
 疵蒙謬累	cii mong miu lei
 疾之如仇	zi zhii ru chou
@@ -61716,7 +61716,7 @@ use_preset_vocabulary: true
 目無尊長	mu wu zun zhang
 目的	mu di
 目的地	mu di di
-目的性	mu di hing
+目的性	mu di sing
 目的物	mu di wu
 目瞠口哆	mu cheng kou che
 盱眙	hv yi
@@ -61730,7 +61730,7 @@ use_preset_vocabulary: true
 直效行銷	zhii hiao hing siao
 直率	zhii shuai
 直着	zhii zhuo
-直節勁氣	zhii gie ging ki
+直節勁氣	zhii zie ging ki
 直行	zhii hing
 直裰	zhii duo
 直覺	zhii gve
@@ -61744,7 +61744,7 @@ use_preset_vocabulary: true
 相似之處	siang sii zhii chu
 相似多邊形	siang sii duo bian hing
 相似形	siang sii hing
-相似性	siang sii hing
+相似性	siang sii sing
 相似詞	siang sii cii
 相倚爲彊	siang yi wei kiang
 相去咫尺	siang kv zhii chii
@@ -61877,7 +61877,7 @@ use_preset_vocabulary: true
 着眼於	zhuo yan yv
 着眼點	zhao yan diam
 着着失敗	zhuo zhuo shii bai
-着着進逼	zhuo zhuo gin bi
+着着進逼	zhuo zhuo zin bi
 着筆	zhuo bi
 着糞佛頭	zhuo fen fo tou
 着緊	zhuo gin
@@ -62056,22 +62056,22 @@ use_preset_vocabulary: true
 砢砢	luo luo
 砢磣	ke chem
 砥兵礪伍	di bing li wu
-砥名勵節	di ming li gie
+砥名勵節	di ming li zie
 砥平繩直	di ping sheng zhii
 砥志礪行	di zhii li hing
 砥據	di gv
 砥柱	di zhu
 砥柱中流	di zhu zhong liu
 砥礪	di li
-砥礪名節	di li ming gie
+砥礪名節	di li ming zie
 砥礪名號	di li ming hao
 砥礪名行	di li ming hing
 砥礪廉隅	di li liam yv
-砥礪清節	di li cing gie
-砥礪風節	di li fong gie
-砥節奉公	di gie fong gong
-砥節守公	di gie shou gong
-砥節礪行	di gie li hing
+砥礪清節	di li cing zie
+砥礪風節	di li fong zie
+砥節奉公	di zie fong gong
+砥節守公	di zie shou gong
+砥節礪行	di zie li hing
 砥行磨名	di hing mo ming
 砥行立名	di hing li ming
 破家鬻子	po gia yv zii
@@ -62349,8 +62349,8 @@ use_preset_vocabulary: true
 稟命	bing ming
 稟報	bing bao
 稟帖	bing tie
-稟性	bing hing
-稟性難移	bing hing nan yi
+稟性	bing sing
+稟性難移	bing sing nan yi
 稟承	bing cheng
 稟明	bing ming
 稟氣	bing ki
@@ -62423,8 +62423,8 @@ use_preset_vocabulary: true
 空屋率	kong wu lv
 空弦落雁	kong hian luo yan
 空弮	kong kvan
-空氣調節	kong ki tiao gie
-空氣調節機	kong ki tiao gie gi
+空氣調節	kong ki tiao zie
+空氣調節機	kong ki tiao zie gi
 空氣軸承	kong ki zhou cheng
 空氣鎗	kong ki ciang
 空水澄鮮	kong shui cheng sian
@@ -62511,7 +62511,7 @@ use_preset_vocabulary: true
 競短爭長	ging duan zheng chang
 竹地雷	zhu di lei
 竹筴魚	zhu zia yv
-竹節蓼	zhu gie liao
+竹節蓼	zhu zie liao
 竹頭木屑	zhu tou mu sie
 笄丱	gi guan
 笏板	hu ban
@@ -62587,11 +62587,11 @@ use_preset_vocabulary: true
 箴諫	zhem gian
 箸長碗短	zhu chang wan duan
 箾韶	shuo shao
-節儉力行	gie giam li hing
-節儉躬行	gie giam gong hing
-節日快樂	gie rii kuai le
-節行瑰奇	gie hing gui ki
-節角	gie giao
+節儉力行	zie giam li hing
+節儉躬行	zie giam gong hing
+節日快樂	zie rii kuai le
+節行瑰奇	zie hing gui ki
+節角	zie giao
 篇什	pian shii
 築堤	zhu di
 築堤	zhu ti
@@ -62655,7 +62655,7 @@ use_preset_vocabulary: true
 粘在	zham zai
 粘帖	niam tie
 粘度	niam du
-粘性	niam hing
+粘性	niam sing
 粘板岩	niam ban yam
 粘液	niam ye
 粘皮帶骨	niam pi dai gu
@@ -62786,7 +62786,7 @@ use_preset_vocabulary: true
 紫菀	zii wan
 紮囮	zha e
 紮實	zha shii
-紮實推進	zha shii tui gin
+紮實推進	zha shii tui zin
 紮寨	zha zhai
 紮根	zha gen
 紮營	zha ying
@@ -62796,7 +62796,7 @@ use_preset_vocabulary: true
 紮詐	zha zha
 累次三番	lei cii sam fan
 累紲	lei sie
-累進稅率	lei gin shui lv
+累進稅率	lei zin shui lv
 細嚼	si ziao
 細嚼慢嚥	si ziao man yan
 細嫩	si nen
@@ -62821,7 +62821,7 @@ use_preset_vocabulary: true
 組織部長	zu zhii bu zhang
 組長	zu zhang
 結仇	gie chou
-結婚進行曲	gie hun gin hing kv
+結婚進行曲	gie hun zin hing kv
 結構調整	gie gou tiao zheng
 結駟連騎	gie sii lian gi
 絕地	zve di
@@ -63038,10 +63038,10 @@ use_preset_vocabulary: true
 縮縮	suo suo
 縮縮朒朒	su su nv nv
 縮縮朒朒	suo suo nv nv
-縮衣節口	su yi gie kou
-縮衣節口	suo yi gie kou
-縮衣節食	su yi gie shii
-縮衣節食	suo yi gie shii
+縮衣節口	su yi zie kou
+縮衣節口	suo yi zie kou
+縮衣節食	su yi zie shii
+縮衣節食	suo yi zie shii
 縮酒	su ziu
 縮酒	suo ziu
 縮頞	su e
@@ -63661,7 +63661,7 @@ use_preset_vocabulary: true
 腦出血	nao chu hie
 腦出血	nao chu hve
 腦勺	nao shao
-腦性麻痺	nao hing ma bi
+腦性麻痺	nao sing ma bi
 腦杓子	nao shao zii
 腦栓塞	nao shuan se
 腦液	nao ye
@@ -63805,7 +63805,7 @@ use_preset_vocabulary: true
 自見者不明	zii hian zhe bu ming
 自覺	zii gve
 自覺形穢	zii gve hing hui
-自覺性	zii gve hing
+自覺性	zii gve sing
 自覺遵守	zii gve zun shou
 自賊	zii ze
 自足自給	zii zu zii gi
@@ -63983,7 +63983,7 @@ use_preset_vocabulary: true
 花朝日	hua zhao rii
 花朝月夕	hua zhao yve si
 花朝月夜	hua zhao yve ye
-花朝節	hua zhao gie
+花朝節	hua zhao zie
 花柵子	hua zha zii
 花畦	hua ki
 花簇錦攢	hua cu gim cuan
@@ -64449,7 +64449,7 @@ use_preset_vocabulary: true
 薄宦	bo huan
 薄幹	bo gan
 薄弱	bo ruo
-薄弱環節	bo ruo huan gie
+薄弱環節	bo ruo huan zie
 薄待	bo dai
 薄怯	bo kve
 薄怯怯	bo kve kve
@@ -64911,7 +64911,7 @@ use_preset_vocabulary: true
 衆口難調	zhong kou nan tiao
 衆所熟知	zhong suo shu zhii
 衆毛攢裘	zhong mao cuan kiu
-衆生皆有佛性	zhong sheng gie you fou hing
+衆生皆有佛性	zhong sheng gie you fou sing
 衆目睽睽	zhong mu kui kui
 衆矢之的	zhong shii zhii di
 行三坐五	hing sam zuo wu
@@ -65244,7 +65244,7 @@ use_preset_vocabulary: true
 行輩	hang bei
 行轅	hing yvan
 行速	hing su
-行進	hing gin
+行進	hing zin
 行遊	hing you
 行道樹	hing dao shu
 行遠自邇	hing yvan zii er
@@ -65634,7 +65634,7 @@ use_preset_vocabulary: true
 覿武	di wu
 覿面	di mian
 觀光勝地	guan guang sheng di
-觀光遊憩性資源	guan guang you ki hing zii yvan
+觀光遊憩性資源	guan guang you ki sing zii yvan
 觀省	guan sing
 觀行	guan hing
 觀釁伺隙	guan hin sii hi
@@ -65820,7 +65820,7 @@ use_preset_vocabulary: true
 誅兇殄逆	zhu hiong tian ni
 誒詒	hi yi
 誘掖	you yi
-誘掖後進	you yi hou gin
+誘掖後進	you yi hou zin
 誘降	you hiang
 語塞	yv se
 語笑喧闐	yv siao hvan tian
@@ -65940,7 +65940,7 @@ use_preset_vocabulary: true
 調弓號猿	tiao gong hao yvan
 調引	tiao yin
 調弦	tiao hian
-調性	diao hing
+調性	diao sing
 調息	tiao si
 調情	tiao cing
 調成	tiao cheng
@@ -65993,7 +65993,7 @@ use_preset_vocabulary: true
 調研報告	diao yan bao gao
 調研組	diao yan zu
 調笑	tiao siao
-調節	tiao gie
+調節	tiao zie
 調絃品竹	tiao hian pin zhu
 調絃弄管	tiao hian nong guan
 調絲品竹	tiao sii pin zhu
@@ -66340,7 +66340,7 @@ use_preset_vocabulary: true
 貯精囊	zhu zing nang
 貯藏	zhu cang
 貯藏室	zhu cang shii
-貯藏性資源	zhu cang hing zii yvan
+貯藏性資源	zhu cang sing zii yvan
 貯運	zhu yvn
 貲簿	zii bu
 貲藏	zii cang
@@ -66736,7 +66736,7 @@ use_preset_vocabulary: true
 躍躍	yve yve
 躍躍欲試	yve yve yv shii
 躍躍狂徒	yve yve kuang tu
-躍進	yve gin
+躍進	yve zin
 躍馬	yve ma
 躍馬揚鞭	yve ma yang bian
 躒躁	li zao
@@ -66769,7 +66769,7 @@ use_preset_vocabulary: true
 躬自菲薄	gong zii fei bo
 躬行	gong hing
 躬行實踐	gong hing shii zian
-躬行節儉	gong hing gie giam
+躬行節儉	gong hing zie giam
 躬詣	gong yi
 躬逢其盛	gong feng ki sheng
 躬體力行	gong ti li hing
@@ -66822,7 +66822,7 @@ use_preset_vocabulary: true
 軋軋	ya ya
 軋輥	zha gun
 軋轢	ya li
-軋進	ga gin
+軋進	ga zin
 軋道機	ya dao gi
 軋鋼	zha gang
 軋鋼機	zha gang gi
@@ -67159,25 +67159,25 @@ use_preset_vocabulary: true
 連長	lian zhang
 逭暑	huan shu
 逮逮	di di
-進不了	gin bu liao
-進剿	gin ziao
-進可替不	gin ke ti fou
-進可替否	gin ke ti pi
-進藏	gin zang
-進行	gin hing
-進行交易	gin hing giao yi
-進行交流	gin hing giao liu
-進行修改	gin hing siu gai
-進行全面	gin hing cvan mian
-進行分析	gin hing fen si
-進行到底	gin hing dao di
-進行曲	gin hing kv
-進行檢查	gin hing giam cha
-進行比較	gin hing bi giao
-進行研究	gin hing yan giu
-進行調整	gin hing tiao zheng
-進行調查	gin hing diao cha
-進酒作樂	gin ziu zuo le
+進不了	zin bu liao
+進剿	zin ziao
+進可替不	zin ke ti fou
+進可替否	zin ke ti pi
+進藏	zin zang
+進行	zin hing
+進行交易	zin hing giao yi
+進行交流	zin hing giao liu
+進行修改	zin hing siu gai
+進行全面	zin hing cvan mian
+進行分析	zin hing fen si
+進行到底	zin hing dao di
+進行曲	zin hing kv
+進行檢查	zin hing giam cha
+進行比較	zin hing bi giao
+進行研究	zin hing yan giu
+進行調整	zin hing tiao zheng
+進行調查	zin hing diao cha
+進酒作樂	zin ziu zuo le
 逴躒	chuo luo
 逸樂	yi le
 逸游自恣	yi you zii zii
@@ -67221,7 +67221,7 @@ use_preset_vocabulary: true
 過露	guo lu
 遐邇著聞	hia er zhu wen
 遒勁	ciu ging
-遒文壯節	ciu wen zhuang gie
+遒文壯節	ciu wen zhuang zie
 遒緊	ciu gin
 遒美	ciu mei
 遒逸	ciu yi
@@ -67327,7 +67327,7 @@ use_preset_vocabulary: true
 還得快	huan de kuai
 還得起	huan de ki
 還忌	huan gi
-還性	huan hing
+還性	huan sing
 還情	huan cing
 還惺	huan sing
 還我	huan wo
@@ -67692,7 +67692,7 @@ use_preset_vocabulary: true
 重孫	chong sun
 重孫女	chong sun nv
 重孫媳	chong sun si
-重定向	chong ding siang
+重定向	chong ding hiang
 重寄	zhong gi
 重寫	chong sie
 重寶	zhong bao
@@ -67823,7 +67823,7 @@ use_preset_vocabulary: true
 重裀疊褥	chong yin die ru
 重裝系統	chong zhuang hi tong
 重複	chong fu
-重複性	chong fu hing
+重複性	chong fu sing
 重複課稅	chong fu ke shui
 重要	zhong yao
 重要任務	zhong yao rem wu
@@ -67835,7 +67835,7 @@ use_preset_vocabulary: true
 重要因素	zhong yao yin su
 重要地位	zhong yao di wei
 重要思想	zhong yao sii siang
-重要性	zhong yao hing
+重要性	zhong yao sing
 重要意義	zhong yao yi yi
 重要標誌	zhong yao biao zhii
 重要舉措	zhong yao gv cuo
@@ -67900,7 +67900,7 @@ use_preset_vocabulary: true
 重陽	chong yang
 重陽日	chong yang rii
 重陽木	chong yang mu
-重陽節	chong yang gie
+重陽節	chong yang zie
 重霄	chong siao
 重霤	chong liu
 重音	zhong yim
@@ -68334,7 +68334,7 @@ use_preset_vocabulary: true
 長征	chang zheng
 長得	zhang de
 長思	chang sii
-長性	chang hing
+長性	chang sing
 長恨傳	chang hen zhuan
 長恨歌	chang hen ge
 長惡不悛	chang e bu cvan
@@ -68367,7 +68367,7 @@ use_preset_vocabulary: true
 長期	chang ki
 長期以來	chang ki yi lai
 長期使用	chang ki shii yong
-長期性	chang ki hing
+長期性	chang ki sing
 長期投資	chang ki tou zii
 長期趨勢	chang ki cv shii
 長期飯票	chang ki fan piao
@@ -68512,7 +68512,7 @@ use_preset_vocabulary: true
 長談	chang tam
 長豇豆	chang giang dou
 長足	chang zu
-長足進步	chang zu gin bu
+長足進步	chang zu zin bu
 長跑	chang pao
 長距離	chang gv li
 長距離無線電話	chang gv li wu sian dian hua
@@ -68529,7 +68529,7 @@ use_preset_vocabulary: true
 長途跋涉	chang tu ba she
 長途電話	chang tu dian hua
 長逝	chang shii
-長進	zhang gin
+長進	zhang zin
 長達	chang da
 長遠	chang yvan
 長邁	chang mai
@@ -68899,7 +68899,7 @@ use_preset_vocabulary: true
 陸海	lu hai
 陸海潘江	lu hai pan giang
 陸游	lu you
-陸源性沉積物	lu yvan hing chem zi wu
+陸源性沉積物	lu yvan sing chem zi wu
 陸濤	lu tao
 陸王之學	lu wang zhii hve
 陸田	lu tian
@@ -68918,7 +68918,7 @@ use_preset_vocabulary: true
 陸贄	lu zhii
 陸路	lu lu
 陸軍	lu gvn
-陸軍節	lu gvn gie
+陸軍節	lu gvn zie
 陸軍軍官學校	lu gvn gvn guan hve hiao
 陸運	lu yvn
 陸鈔	lu chao
@@ -69117,7 +69117,7 @@ use_preset_vocabulary: true
 雷厲風行	lei li fong hing
 雷射血管成形術	lei she hie guan cheng hing shu
 雷射血管成形術	lei she hve guan cheng hing shu
-雷神進行曲	lei shen gin hing kv
+雷神進行曲	lei shen zin hing kv
 雷轟電掣	lei hong dian che
 雷霆電雹	lei ting dian bao
 雹子	bao zii
@@ -69271,7 +69271,7 @@ use_preset_vocabulary: true
 靜謐	zing mi
 靜謐無聲	zing mi wu sheng
 非一狐之腋	fei yi hu zhii yi
-非塑性	fei su hing
+非塑性	fei su sing
 非常重要	fei chang zhong yao
 非常重視	fei chang zhong shii
 非得	fei dei
@@ -69380,7 +69380,7 @@ use_preset_vocabulary: true
 音樂片	yim yve pian
 音樂盒	yim yve he
 音樂站	yim yve zham
-音樂節	yim yve gie
+音樂節	yim yve zie
 音樂臺	yim yve tai
 音樂鋸	yim yve gv
 音樂電鈴	yim yve dian ling
@@ -69402,7 +69402,7 @@ use_preset_vocabulary: true
 頂着磨子不知重	ding zhe mo zii bu zhii zhong
 頂角	ding giao
 項伯	hiang bo
-順利進行	shun li gin hing
+順利進行	shun li zin hing
 順水行舟	shun shui hing zhou
 順水行船	shun shui hing chuan
 順行	shun hing
@@ -69723,7 +69723,7 @@ use_preset_vocabulary: true
 馬角烏白	ma giao wu bai
 馬調	ma diao
 馬謖	ma su
-馬賽進行曲	ma sai gin hing kv
+馬賽進行曲	ma sai zin hing kv
 馬躍檀溪	ma yve tan hi
 馬陸	ma lu
 馬頭草檄	ma tou cao hi
@@ -69908,7 +69908,7 @@ use_preset_vocabulary: true
 高行	gao hing
 高調照片	gao diao zhao pian
 高速增長	gao su zeng zhang
-高風勁節	gao fong ging gie
+高風勁節	gao fong ging zie
 高鳳流麥	gao fong liu mo
 高麗參	gao li shem
 髦髫	mao tiao
@@ -70216,7 +70216,7 @@ use_preset_vocabulary: true
 麾之即去	hui zhii zi kv
 麾安	hui an
 麾幢	hui chuang
-麾節	hui gie
+麾節	hui zie
 麾蓋	hui gai
 麾軍	hui gvn
 黃丕烈	huang pi lie
@@ -70261,7 +70261,7 @@ use_preset_vocabulary: true
 黏着	niam zhuo
 黏着劑	niam zhuo zi
 黏着力	niam zhuo li
-黏着性	niam zhuo hing
+黏着性	niam zhuo sing
 黑人音樂	hei ren yim yve
 黑天摸地	hei tian mo di
 黑婁婁	hei lou lou
