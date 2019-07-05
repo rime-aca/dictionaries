@@ -20,7 +20,7 @@
 
 ---
 name: luna_pinyin.hanyu
-version: "2014.09.03"
+version: "2019.07.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -98237,7 +98237,6 @@ use_preset_vocabulary: true
 油鑊
 油雲
 油頭滑面
-油鬆
 油麻團
 油鼎
 沺沺
