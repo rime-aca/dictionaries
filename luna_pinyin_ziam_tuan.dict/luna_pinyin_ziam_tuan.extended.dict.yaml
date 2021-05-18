@@ -37,7 +37,7 @@
 
 ---
 name: luna_pinyin_ziam_tuan.extended
-version: "2015.12.02"
+version: "2019.07.05"
 sort: by_weight
 use_preset_vocabulary: true
 #此処爲明月拼音擴充詞庫（基本）默認鏈接載入的詞庫，有朙月拼音官方詞庫、明月拼音擴充詞庫（漢語大詞典）、明月拼音擴充詞庫（詩詞）。如果不需要加載某个詞庫請將其用「#」註釋掉。
@@ -72346,7 +72346,6 @@ import_tables:
 游牧		7
 游牧民族		2
 游玩		1
-游盪		1
 游移		4
 游竣翔		1
 游船		1
@@ -81511,10 +81510,7 @@ import_tables:
 盧靚		1
 盧靜		1
 盧頌之		1
-盪婦		1
-盪平		1
 盪着		1
-盪秋千		1
 目光敏銳		1
 目光銳利		1
 目前在		1
@@ -104857,7 +104853,6 @@ import_tables:
 跆拳道館		1
 跋涉者		1
 跋陀羅		1
-跌盪		1
 跌穿		1
 跌聲		1
 跌落至		1
@@ -106735,7 +106730,6 @@ import_tables:
 迴力鏢		1
 迴因		1
 迴溪		1
-迴腸盪氣		1
 迴蕩		1
 迴診		8
 迴轉式壓縮機廠		1
@@ -127200,7 +127194,7 @@ import_tables:
 捷運局長	zie yvn gv zhang	1
 掀戰火	hian zhan huo	1
 掀蓋	hian gai	1
-掃盪	sao dang	1
+掃蕩	sao dang	1
 授權給	shou kvan gei	1
 掉漆	diao ci	1
 掏心挖肺	tao sim wa fei	1
@@ -128277,7 +128271,7 @@ import_tables:
 浮泛流濫	fu fan liu lam	1
 浮洲橋	fu zhou kiao	1
 浮浮沈沈	fu fu chem chem	1
-浮盪	fu dang	1
+浮蕩	fu dang	1
 海事職業	hai shii zhii ye	1
 海倫仙度絲	hai lun sian du sii	1
 海噱	hai sve	1
@@ -128957,7 +128951,7 @@ import_tables:
 盤古樂隊	pan gu yve dui	1
 盤谷銀行	pan gu yin hang	1
 盧彥勳	lu yan hvn	1
-盪氣迴腸	dang ki hui chang	1
+蕩氣迴腸	dang ki hui chang	1
 直排輪鞋	zhii pai lun hie	1
 直着	zhii zhuo	1
 直覺化	zhii gve hua	1
@@ -129191,7 +129185,7 @@ import_tables:
 空屋數	kong wu shu	1
 空氣槍	kong ki ciang	1
 空白帶	kong bai dai	1
-空空盪盪	kong kong dang dang	1
+空空蕩蕩	kong kong dang dang	1
 空色造雲罐	kong se zao yvn guan	1
 空谷跫音	kong gu kiong yim	1
 空軍機械	kong gvn gi hie	1
@@ -130756,7 +130750,7 @@ import_tables:
 遊戲噗	you hi pu	1
 遊戲界	you hi gie	1
 遊樂設施	you le she shii	1
-遊盪	you dang	1
+遊蕩	you dang	1
 運作得	yvn zuo de	1
 運動區	yvn dong kv	1
 運動家隊	yvn dong gia dui	1
@@ -131076,7 +131070,7 @@ import_tables:
 開開心心地	kai kai sim sim de	1
 開陽白菜	kai yang bai cai	1
 閒來沒事	hian lai mei shii	1
-閒盪	hian dang	1
+閒蕩	hian dang	1
 閱讀者	yve du zhe	1
 闇之盾	am zhii dun	1
 闊葉樹林	kuo ye shu lim	1
@@ -131438,7 +131432,7 @@ import_tables:
 風雨中的寧靜	fong yv zhong de ning zing	1
 風魔小太郎	fong mo siao tai lang	1
 風魔小次郎	fong mo siao cii lang	1
-飄盪	piao dang	2
+飄蕩	piao dang	2
 飛一樣	fei yi yang	1
 飛不上去	fei bu shang kv	1
 飛信	fei sin	1
