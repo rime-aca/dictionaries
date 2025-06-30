@@ -9437,7 +9437,7 @@ use_preset_vocabulary: true
 嗃	he
 嗄	a	100%
 嗄	sha	0%
-嗅	siu
+嗅	hiu
 嗆	ciang
 嗇	se
 嗈	yong
@@ -16480,7 +16480,7 @@ use_preset_vocabulary: true
 殟	wen
 殟	wu
 殠	chou
-殠	siu
+殠	hiu
 殡	bin
 殢	ti
 殣	gin
@@ -17466,7 +17466,7 @@ use_preset_vocabulary: true
 溲	sou
 溳	yvn
 溴	chou
-溴	siu
+溴	hiu
 溵	yin
 溶	rong
 溷	hun
@@ -23484,7 +23484,7 @@ use_preset_vocabulary: true
 臬	gao
 臬	nie
 臭	chou	99.96%
-臭	siu	0.04%
+臭	hiu	0.04%
 臮	gi
 臯	gao
 臰	chou
@@ -32623,7 +32623,7 @@ use_preset_vocabulary: true
 齃	ge
 齃	he
 齄	zha
-齅	siu
+齅	hiu
 齆	wong
 齇	zha
 齈	nong
@@ -49180,9 +49180,9 @@ use_preset_vocabulary: true
 乣軍	diu gvn
 乳哺	ru bu
 乳濁液	ru zhuo ye
-乳臭	ru siu
-乳臭小子	ru siu siao zii
-乳臭未乾	ru siu wei gan
+乳臭	ru hiu
+乳臭小子	ru hiu siao zii
+乳臭未乾	ru hiu wei gan
 乳酪	ru luo
 乾乾	kian kian
 乾乾淨淨	gan gan zing zing
@@ -51455,7 +51455,7 @@ use_preset_vocabulary: true
 口出不遜	kou chu bu svn
 口勁	kou gin
 口吃	kou gi
-口尚乳臭	kou shang ru siu
+口尚乳臭	kou shang ru hiu
 口才辨給	kou cai bian gi
 口燥脣乾	kou zao chun gan
 口磣	kou chem
@@ -52196,8 +52196,8 @@ use_preset_vocabulary: true
 嗃嗃	he he
 嗄程	sha cheng
 嗄飯	sha fan
-嗅覺	siu gve
-嗅覺器	siu gve ki
+嗅覺	hiu gve
+嗅覺器	hiu gve ki
 嗆咳	ciang ke
 嗊嘴	hong zui
 嗌塞	yi se
@@ -54021,7 +54021,7 @@ use_preset_vocabulary: true
 家雞野鶩	gia gi ye wu
 容俟	rong sii
 容積率	rong zi lv
-容臭	rong siu
+容臭	rong hiu
 容足地	rong zu di
 容身之地	rong shen zhii di
 容車	rong che
@@ -54453,7 +54453,7 @@ use_preset_vocabulary: true
 崑崙奴傳	kun lun nu zhuan
 崒兀	zu wu
 崒嵂	zu lv
-崔烈銅臭	cui lie tong siu
+崔烈銅臭	cui lie tong hiu
 崔韜	cui tao
 崖山	yai shan
 崖岸	yai an
@@ -59243,7 +59243,7 @@ use_preset_vocabulary: true
 汗血馬	han hie ma
 汗血馬	han hve ma
 汛地	svn di
-汞溴紅	gong siu hong
+汞溴紅	gong hiu hong
 汞齊	gong zi
 江參	giang cam
 江河行地	giang he hing di
@@ -60043,13 +60043,13 @@ use_preset_vocabulary: true
 溯源	su yvan
 溯源窮流	su yvan kiong liu
 溲溺	sou niao
-溴中毒	siu zhong du
-溴化物	siu hua wu
-溴化鈉	siu hua na
-溴化銀	siu hua yin
-溴化鎂	siu hua mei
-溴水	siu shui
-溴酸	siu suan
+溴中毒	hiu zhong du
+溴化物	hiu hua wu
+溴化鈉	hiu hua na
+溴化銀	hiu hua yin
+溴化鎂	hiu hua mei
+溴水	hiu shui
+溴酸	hiu suan
 溶㵝	rong yi
 溶液	rong ye
 溶溶泄泄	rong rong sie sie
@@ -60401,7 +60401,7 @@ use_preset_vocabulary: true
 無立錐之地	wu li zhui zhii di
 無給職	wu gi zhii
 無置錐地	wu zhii zhui di
-無聲無臭	wu sheng wu siu
+無聲無臭	wu sheng wu hiu
 無脛而行	wu ging er hing
 無血戰爭	wu hie zhan zheng
 無血戰爭	wu hve zhan zheng
@@ -63815,12 +63815,12 @@ use_preset_vocabulary: true
 自體輸血	zii ti shu hve
 臭名昭著	chou ming zhao zhu
 臭味	chou wei
-臭味	siu wei
+臭味	hiu wei
 臭味相投	chou wei siang tou
-臭味相投	siu wei siang tou
+臭味相投	hiu wei siang tou
 臭嚼	chou ziao
 臭短臊長	chou duan sao chang
-臭覺	siu gve
+臭覺	hiu gve
 至樂	zhii le
 至死不降	zhii sii bu hiang
 至行	zhii hing
@@ -64659,7 +64659,7 @@ use_preset_vocabulary: true
 蘗米	bo mi
 蘧伯玉	kv bo yv
 蘭橈	lan nao
-蘭臭	lan siu
+蘭臭	lan hiu
 蘭若	lan re
 蘭茝	lan chai
 蘭釭	lan gang
@@ -68056,8 +68056,8 @@ use_preset_vocabulary: true
 銅筋鐵肋	tong gin tie le
 銅管樂器	tong guan yve ki
 銅管樂隊	tong guan yve dui
-銅臭	tong siu
-銅臭味	tong siu wei
+銅臭	tong hiu
+銅臭味	tong hiu wei
 銅鈸	tong ba
 銍艾	zhii yi
 銖兩悉稱	zhu liang si chen
@@ -69861,7 +69861,7 @@ use_preset_vocabulary: true
 體液	ti ye
 體癬	ti sian
 體臭	ti chou
-體臭	ti siu
+體臭	ti hiu
 體行	ti hing
 體調	ti diao
 體重	ti zhong
