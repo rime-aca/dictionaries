@@ -124033,7 +124033,7 @@ import_tables:
 下拉式選單	hia la shii svan dan	1
 下拉選單	hia la svan dan	1
 下水湯	hia shui tang	1
-下洩	hia hie	1
+下洩	hia sie	1
 下猛藥	hia meng yao	1
 不來梅港	bu lai mei gang	1
 不供餐	bu gong can	1
@@ -125876,7 +125876,7 @@ import_tables:
 外攜	wai hi	1
 外文系	wai wen hi	2
 外校生	wai hiao sheng	1
-外洩	wai hie	4
+外洩	wai sie	4
 外省掛	wai sheng gua	1
 外省籍	wai sheng zi	3
 外貌協會	wai mao hie hui	1
@@ -126085,8 +126085,8 @@ import_tables:
 天堂與地獄	tian tang yv di yv	1
 天安門母親	tian an men mu cin	1
 天寬地闊	tian kuan di kuo	1
-天機不可洩漏	tian gi bu ke hie lou	1
-天機不可洩露	tian gi bu ke hie lou	1
+天機不可洩漏	tian gi bu ke sie lou	1
+天機不可洩露	tian gi bu ke sie lou	1
 天河藍帶	tian he lam dai	1
 天竺葵滴	tian zhu kui di	1
 天降甘霖	tian giang gam lim	1
@@ -126252,8 +126252,8 @@ import_tables:
 嫌不足	hiam bu zu	1
 嫩薑	nen giang	1
 嬌嬌女	giao giao nv	1
-孔雀東南	kong kve dong nam	1
-孔雀蛤	kong kve ge	1
+孔雀東南	kong cve dong nam	1
+孔雀蛤	kong cve ge	1
 字字句句	zii zii gv gv	1
 存在感	cun zai gam	1
 存留下	cun liu hia	1
@@ -126339,7 +126339,7 @@ import_tables:
 客運車	ke yvn che	1
 客雅溪	ke ya hi	1
 客雅溪口	ke ya hi kou	1
-宣洩	svan hie	10
+宣洩	svan sie	10
 宣讀文件	svan du wen gian	1
 室內拖鞋	shii nei tuo hie	1
 室內游泳池	shii nei you yong chii	1
@@ -126458,7 +126458,7 @@ import_tables:
 小豬仔	siao zhu zai	1
 小軟體板	siao ruan ti ban	1
 小野塚小町	siao ye zhong siao ting	1
-小雲雀	siao yvn kve	1
+小雲雀	siao yvn cve	1
 小食糰	siao shii tuan	1
 小魚乾	siao yv gan	1
 小魚豆乾	siao yv dou gan	1
@@ -126532,8 +126532,8 @@ import_tables:
 山西拌麪	shan si ban mian	1
 山豬窟	shan zhu ku	1
 山陰道	shan yim dao	1
-山青水秀	shan cing shui hiu	1
-山麻雀	shan ma kve	1
+山青水秀	shan cing shui siu	1
+山麻雀	shan ma cve	1
 岡村寧次	gang cun ning cii	1
 岩流圈	yam liu kvan	1
 島耕作	dao geng zuo	1
@@ -127522,7 +127522,7 @@ import_tables:
 早借早還	zao zie zao huan	1
 早午餐	zao wu can	1
 早得很	zao de hen	1
-早洩	zao hie	1
+早洩	zao sie	1
 旭曜	hv yao	1
 昆汀塔倫提諾	kun ting ta lun ti nuo	1
 昆蟲分類學	kun chong fen lei hve	1
@@ -127554,8 +127554,8 @@ import_tables:
 易碎物品	yi sui wu pin	1
 星星知我心	sing sing zhii wo sim	1
 星艦奇航	sing giam ki hang	1
-春光乍洩	chun guang zha hie	1
-春光外洩	chun guang wai hie	1
+春光乍洩	chun guang zha sie	1
+春光外洩	chun guang wai sie	1
 春吶	chun na	1
 春夢了無痕	chun mong liao wu hen	1
 春天吶喊	chun tian na ham	1
@@ -127623,7 +127623,7 @@ import_tables:
 更遭到	geng zao dao	1
 書獃子	shu dai zii	1
 曼哈頓中城	man ha dun zhong cheng	1
-曼秀雷敦	man hiu lei dun	1
+曼秀雷敦	man siu lei dun	1
 曼非斯灰熊	man fei sii hui hiong	1
 曼非斯灰熊隊	man fei sii hui hiong dui	1
 曼黛瑪璉	man dai ma lian	1
@@ -127900,7 +127900,7 @@ import_tables:
 機車廠	gi che chang	1
 機車強制險	gi che kiang zhii hiam	1
 機車板	gi che ban	1
-機車秀	gi che hiu	1
+機車秀	gi che siu	1
 機車道	gi che dao	1
 橫衝直闖	heng chong zhii chuang	1
 檢察司長	giam cha sii zhang	1
@@ -128028,7 +128028,7 @@ import_tables:
 水上樂園	shui shang le yvan	1
 水木書苑	shui mu shu yvan	1
 水果行	shui guo hang	1
-水洩不通	shui hie bu tong	1
+水洩不通	shui sie bu tong	1
 水溝蓋	shui gou gai	1
 水肥車	shui fei che	1
 水藍色	shui lam se	1
@@ -128210,38 +128210,38 @@ import_tables:
 洞燭先機	dong zhu sian gi	1
 洞爺湖	dong ye hu	1
 洨軟體	hiao ruan ti	1
-洩下	hie hia	1
-洩下來	hie hia lai	1
-洩下去	hie hia kv	1
-洩了	hie le	1
-洩入	hie ru	1
-洩出	hie chu	1
-洩出來	hie chu lai	1
-洩出去	hie chu kv	1
-洩到	hie dao	1
-洩去	hie kv	1
-洩在	hie zai	1
-洩天機	hie tian gi	1
-洩好	hie hao	1
-洩完	hie wan	1
-洩密	hie mi	1
-洩底	hie di	1
-洩得	hie de	1
-洩忿	hie fen	1
-洩恨	hie hen	1
-洩憤	hie fen	1
-洩成	hie cheng	1
-洩掉	hie diao	1
-洩氣	hie ki	2
-洩法	hie fa	1
-洩洪	hie hong	1
-洩洪區	hie hong kv	1
-洩的	hie de	1
-洩矢	hie shii	1
-洩矢諏訪子	hie shii zou fang zii	1
-洩給	hie gei	1
-洩題	hie ti	1
-洩題案	hie ti an	1
+洩下	sie hia	1
+洩下來	sie hia lai	1
+洩下去	sie hia kv	1
+洩了	sie le	1
+洩入	sie ru	1
+洩出	sie chu	1
+洩出來	sie chu lai	1
+洩出去	sie chu kv	1
+洩到	sie dao	1
+洩去	sie kv	1
+洩在	sie zai	1
+洩天機	sie tian gi	1
+洩好	sie hao	1
+洩完	sie wan	1
+洩密	sie mi	1
+洩底	sie di	1
+洩得	sie de	1
+洩忿	sie fen	1
+洩恨	sie hen	1
+洩憤	sie fen	1
+洩成	sie cheng	1
+洩掉	sie diao	1
+洩氣	sie ki	2
+洩法	sie fa	1
+洩洪	sie hong	1
+洩洪區	sie hong kv	1
+洩的	sie de	1
+洩矢	sie shii	1
+洩矢諏訪子	sie shii zou fang zii	1
+洩給	sie gei	1
+洩題	sie ti	1
+洩題案	sie ti an	1
 洪宛靖	hong wan zing	1
 洪建全基金會	hong gian cvan gi gim hui	2
 洪熙官	hong hi guan	1
@@ -128257,7 +128257,7 @@ import_tables:
 派得上用場	pai de shang yong chang	1
 流傳下來	liu chuan hia lai	1
 流動率	liu dong lv	1
-流洩出來	liu hie chu lai	1
+流洩出來	liu sie chu lai	1
 流產率	liu chan lv	1
 流行性感	liu hing sing gam	1
 流行樂	liu hing yve	2
@@ -128433,7 +128433,7 @@ import_tables:
 瀕危之虞	bin wei zhii yv	1
 瀟洒	hiao sa	1
 瀧乃湯	long nai tang	1
-瀧澤秀明	long ze hiu ming	1
+瀧澤秀明	long ze siu ming	1
 瀨戶大橋	lai hu da kiao	1
 灌模	guan mo	1
 灌食	guan shii	1
@@ -128838,7 +128838,7 @@ import_tables:
 登山車	deng shan che	1
 登輝大道	deng hui da dao	1
 發放給	fa fang gei	1
-發洩	fa hie	9
+發洩	fa sie	9
 發癬	fa sian	1
 發監執行	fa giam zhii hing	1
 發色	fa se	1
@@ -129134,7 +129134,7 @@ import_tables:
 禮拜六派	li bai liu pai	1
 禽肉	kim rou	1
 禾黃稻熟	he huang dao shou	1
-秀姑漱玉	hiu gu shu yv	1
+秀姑漱玉	siu gu shu yv	1
 私密金鑰	sii mi gim yao	1
 私鑰	sii yao	1
 秋水共長天	ciu shui gong chang tian	1
@@ -129375,8 +129375,8 @@ import_tables:
 紅豆食府	hong dou shii fu	1
 紅豬	hong zhu	5
 紅軸	hong zhou	1
-紅雀	hong kve	1
-紅雀隊	hong kve dui	1
+紅雀	hong cve	1
+紅雀隊	hong cve dui	1
 紅霉素	hong mei su	1
 紅面番鴨蛋	hong mian fan ya dan	1
 紅頭嶼山	hong tou yv shan	1
@@ -129631,8 +129631,8 @@ import_tables:
 聖結晶傳說	sheng gie zing chuan shuo	1
 聖艾芙	sheng ai fu	1
 聖蓋博	sheng gai bo	1
-聖路易紅雀	sheng lu yi hong kve	1
-聖路易紅雀隊	sheng lu yi hong kve dui	1
+聖路易紅雀	sheng lu yi hong cve	1
+聖路易紅雀隊	sheng lu yi hong cve dui	1
 聚亨	zv heng	1
 聚合酶鏈反應	zv he mei lian fan ying	1
 聚四氟乙	zv sii fu yi	1
@@ -130907,7 +130907,7 @@ import_tables:
 配給卡	pei gi ka	1
 配給證	pei gi zheng	1
 配給量	pei gi liang	1
-酒紅朱雀	ziu hong zhu kve	3
+酒紅朱雀	ziu hong zhu cve	3
 酒肉和尚	ziu rou he shang	1
 酢醬	zuo ziang	1
 酵母粉	hiao mu fen	1
@@ -131364,7 +131364,7 @@ import_tables:
 青梗花椰菜	cing geng hua ye cai	1
 青樓艷妓	cing lou yam gi	1
 青玉蘋果	cing yv ping guo	1
-青背山雀	cing bei shan kve	1
+青背山雀	cing bei shan cve	1
 青蒜炒香腸	cing suan chao hiang chang	1
 青蘋果汁	cing ping guo zhii	1
 青蛙下蛋	cing wa hia dan	1
@@ -131722,7 +131722,7 @@ import_tables:
 麻辣鴨血	ma la ya hve	1
 麻醉槍	ma zui ciang	1
 麻醬拌豆腐	ma ziang ban dou fu	1
-麻雀變鳳凰	ma kve bian fong huang	2
+麻雀變鳳凰	ma cve bian fong huang	2
 黃乙玲	huang yi ling	1
 黃俊雄	huang zvn hiong	1
 黃信介	huang sin gie	13
@@ -131730,7 +131730,7 @@ import_tables:
 黃大洲	huang da zhou	10
 黃大煒	huang da wei	1
 黃妃	huang fei	1
-黃山雀	huang shan kve	1
+黃山雀	huang shan cve	1
 黃巾賊	huang gin zei	1
 黃復興	huang fu hing	1
 黃牛肉	huang niu rou	1

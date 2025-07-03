@@ -9437,7 +9437,7 @@ use_preset_vocabulary: true
 嗃	he
 嗄	a	100%
 嗄	sha	0%
-嗅	siu
+嗅	hiu
 嗆	ciang
 嗇	se
 嗈	yong
@@ -16480,7 +16480,7 @@ use_preset_vocabulary: true
 殟	wen
 殟	wu
 殠	chou
-殠	siu
+殠	hiu
 殡	bin
 殢	ti
 殣	gin
@@ -16988,7 +16988,7 @@ use_preset_vocabulary: true
 洧	wei
 洨	giao
 洨	hiao
-洩	hie
+洩	sie
 洩	yi
 洪	hong
 洫	hv
@@ -17466,7 +17466,7 @@ use_preset_vocabulary: true
 溲	sou
 溳	yvn
 溴	chou
-溴	siu
+溴	hiu
 溵	yin
 溶	rong
 溷	hun
@@ -17883,7 +17883,7 @@ use_preset_vocabulary: true
 瀇	guang
 瀇	wang
 瀈	hui
-瀉	hie
+瀉	sie
 瀊	pan
 瀋	shen
 瀌	biao
@@ -18970,7 +18970,7 @@ use_preset_vocabulary: true
 獹	lu
 獺	lai
 獺	ta
-獻	sian
+獻	hian
 獼	mi
 獽	rang
 獾	huan
@@ -20958,7 +20958,7 @@ use_preset_vocabulary: true
 禽	kim
 禾	he
 禿	tu
-秀	hiu
+秀	siu
 私	sii
 秂	ren
 秃	tu
@@ -23484,7 +23484,7 @@ use_preset_vocabulary: true
 臬	gao
 臬	nie
 臭	chou	99.96%
-臭	siu	0.04%
+臭	hiu	0.04%
 臮	gi
 臯	gao
 臰	chou
@@ -30052,8 +30052,8 @@ use_preset_vocabulary: true
 隽	zvn	66.27%
 难	nan
 隿	yi
-雀	kiao	0.21%
-雀	kve	99.79%
+雀	ciao	0.21%
+雀	cve	99.79%
 雁	yan
 雂	kiam
 雂	kim
@@ -32364,8 +32364,8 @@ use_preset_vocabulary: true
 鹸	gian
 鹹	hiam
 鹺	cuo
-鹻	gian
-鹼	ziam
+鹻	giam
+鹼	giam
 鹽	yam
 鹾	cuo
 鹿	lu
@@ -32623,7 +32623,7 @@ use_preset_vocabulary: true
 齃	ge
 齃	he
 齄	zha
-齅	siu
+齅	hiu
 齆	wong
 齇	zha
 齈	nong
@@ -49180,9 +49180,9 @@ use_preset_vocabulary: true
 乣軍	diu gvn
 乳哺	ru bu
 乳濁液	ru zhuo ye
-乳臭	ru siu
-乳臭小子	ru siu siao zii
-乳臭未乾	ru siu wei gan
+乳臭	ru hiu
+乳臭小子	ru hiu siao zii
+乳臭未乾	ru hiu wei gan
 乳酪	ru luo
 乾乾	kian kian
 乾乾淨淨	gan gan zing zing
@@ -49640,7 +49640,7 @@ use_preset_vocabulary: true
 以湯止沸	yi tang zhii fei
 以湯沃沸	yi tang wo fei
 以牙還牙	yi ya huan ya
-以珠彈雀	yi zhu tan kve
+以珠彈雀	yi zhu tan cve
 以眼還眼	yi yan huan yan
 以莛撞鐘	yi ting zhuang zhong
 以血償血	yi hve chang hve
@@ -51368,7 +51368,7 @@ use_preset_vocabulary: true
 參綜	cam zong
 參考	cam kao
 參考價格	cam kao gia ge
-參考文獻	cam kao wen sian
+參考文獻	cam kao wen hian
 參考書	cam kao shu
 參考資料	cam kao zii liao
 參股	cam gu
@@ -51455,7 +51455,7 @@ use_preset_vocabulary: true
 口出不遜	kou chu bu svn
 口勁	kou gin
 口吃	kou gi
-口尚乳臭	kou shang ru siu
+口尚乳臭	kou shang ru hiu
 口才辨給	kou cai bian gi
 口燥脣乾	kou zao chun gan
 口磣	kou chem
@@ -51876,7 +51876,7 @@ use_preset_vocabulary: true
 咖啡廳	ka fei ting
 咖啡色	ka fei se
 咖啡館	ka fei guan
-咖啡鹼	ka fei ziam
+咖啡鹼	ka fei giam
 咖喱	ga li
 咖嗶丁	ka bi ding
 咨嗟	zii zie
@@ -52196,8 +52196,8 @@ use_preset_vocabulary: true
 嗃嗃	he he
 嗄程	sha cheng
 嗄飯	sha fan
-嗅覺	siu gve
-嗅覺器	siu gve ki
+嗅覺	hiu gve
+嗅覺器	hiu gve ki
 嗆咳	ciang ke
 嗊嘴	hong zui
 嗌塞	yi se
@@ -53400,7 +53400,7 @@ use_preset_vocabulary: true
 天生地設	tian sheng di she
 天發神讖碑	tian fa shen chem bei
 天盛	tian sheng
-天真地秀	tian zhen di hiu
+天真地秀	tian zhen di siu
 天真未鑿	tian zhen wei zuo
 天知地知	tian zhii di zhii
 天秤	tian ping
@@ -53795,7 +53795,7 @@ use_preset_vocabulary: true
 子曰行	zii yve hang
 子都	zii du
 孔隙	kong hi
-孔雀王朝	kong kve wang chao
+孔雀王朝	kong cve wang chao
 字學舉隅	zii hve gv yv
 字挾風霜	zii hie fong shuang
 字裏行間	zii li hang gian
@@ -54021,7 +54021,7 @@ use_preset_vocabulary: true
 家雞野鶩	gia gi ye wu
 容俟	rong sii
 容積率	rong zi lv
-容臭	rong siu
+容臭	rong hiu
 容足地	rong zu di
 容身之地	rong shen zhii di
 容車	rong che
@@ -54453,7 +54453,7 @@ use_preset_vocabulary: true
 崑崙奴傳	kun lun nu zhuan
 崒兀	zu wu
 崒嵂	zu lv
-崔烈銅臭	cui lie tong siu
+崔烈銅臭	cui lie tong hiu
 崔韜	cui tao
 崖山	yai shan
 崖岸	yai an
@@ -54517,7 +54517,7 @@ use_preset_vocabulary: true
 工作重點	gong zuo zhong diam
 工商銀行	gong shang yin hang
 工地	gong di
-工地秀	gong di hiu
+工地秀	gong di siu
 工尺	gong che
 工尺譜	gong che pu
 工業殖民地	gong ye zhii min di
@@ -57454,7 +57454,7 @@ use_preset_vocabulary: true
 昌都縣	chang du hian
 明了	ming liao
 明德惟馨	ming de wei hin
-明珠彈雀	ming zhu tan kve
+明珠彈雀	ming zhu tan cve
 明珠生蚌	ming zhu sheng bang
 明白了當	ming bai liao dang
 明盛	ming sheng
@@ -57647,7 +57647,7 @@ use_preset_vocabulary: true
 曝晒	pu shai
 曝書	pu shu
 曝氣	pu ki
-曝獻	pu sian
+曝獻	pu hian
 曝背	pu bei
 曝腮龍門	pu sai long men
 曝衣	pu yi
@@ -57952,7 +57952,7 @@ use_preset_vocabulary: true
 朝氣	zhao ki
 朝氣勃勃	zhao ki bo bo
 朝氣蓬勃	zhao ki pong bo
-朝獻	chao sian
+朝獻	chao hian
 朝珠	chao zhu
 朝班	chao ban
 朝生暮死	zhao sheng mu sii
@@ -58459,7 +58459,7 @@ use_preset_vocabulary: true
 棚圈	peng gvan
 棟折榱崩	dong zhe cui beng
 棠棣	tang di
-棠棣競秀	tang di ging hiu
+棠棣競秀	tang di ging siu
 棠谿	tang hi
 棣棣	di di
 棣華	di hua
@@ -58841,7 +58841,7 @@ use_preset_vocabulary: true
 次着	cii zhuo
 次重音	cii zhong yim
 次長	cii zhang
-欣喜雀躍	hin hi kve yve
+欣喜雀躍	hin hi cve yve
 欣然自樂	hin ran zii le
 欣生惡死	hin sheng wu sii
 欣躍	hin yve
@@ -59243,7 +59243,7 @@ use_preset_vocabulary: true
 汗血馬	han hie ma
 汗血馬	han hve ma
 汛地	svn di
-汞溴紅	gong siu hong
+汞溴紅	gong hiu hong
 汞齊	gong zi
 江參	giang cam
 江河行地	giang he hing di
@@ -59527,7 +59527,7 @@ use_preset_vocabulary: true
 泄漏	sie lou
 泄漏天機	sie lou tian gi
 泄漏風聲	sie lou fong sheng
-泄瀉	sie hie
+泄瀉	sie sie
 泄露	sie lu
 泉扃	cvan giong
 泉石膏肓	cvan shii gao huang
@@ -60043,13 +60043,13 @@ use_preset_vocabulary: true
 溯源	su yvan
 溯源窮流	su yvan kiong liu
 溲溺	sou niao
-溴中毒	siu zhong du
-溴化物	siu hua wu
-溴化鈉	siu hua na
-溴化銀	siu hua yin
-溴化鎂	siu hua mei
-溴水	siu shui
-溴酸	siu suan
+溴中毒	hiu zhong du
+溴化物	hiu hua wu
+溴化鈉	hiu hua na
+溴化銀	hiu hua yin
+溴化鎂	hiu hua mei
+溴水	hiu shui
+溴酸	hiu suan
 溶㵝	rong yi
 溶液	rong ye
 溶溶泄泄	rong rong sie sie
@@ -60401,7 +60401,7 @@ use_preset_vocabulary: true
 無立錐之地	wu li zhui zhii di
 無給職	wu gi zhii
 無置錐地	wu zhii zhui di
-無聲無臭	wu sheng wu siu
+無聲無臭	wu sheng wu hiu
 無脛而行	wu ging er hing
 無血戰爭	wu hie zhan zheng
 無血戰爭	wu hve zhan zheng
@@ -60569,8 +60569,8 @@ use_preset_vocabulary: true
 燕樂考源	yan yve kao yvan
 燕歌行	yan ge hing
 燕語呢喃	yan yv ni nam
-燕雀安知鴻鵠志	yan kve an zhii hong hu zhii
-燕雀豈知鴻鵠志	yan kve ki zhii hong hu zhii
+燕雀安知鴻鵠志	yan cve an zhii hong hu zhii
+燕雀豈知鴻鵠志	yan cve ki zhii hong hu zhii
 營地	ying di
 營長	ying zhang
 營養失調	ying yang shii tiao
@@ -60639,7 +60639,7 @@ use_preset_vocabulary: true
 爲人行事	wei ren hing shii
 爲什	wei shem
 爲什麼	wei shem me
-爲叢敺雀	wei cong kv kve
+爲叢敺雀	wei cong kv cve
 爲善最樂	wei shan zui le
 爲惡不悛	wei e bu cvan
 爲樂	wei le
@@ -60885,8 +60885,8 @@ use_preset_vocabulary: true
 獸行	shou hing
 獺祭	ta zi
 獺祭魚	ta zi yv
-獻曝	sian pu
-獻馘	sian guo
+獻曝	hian pu
+獻馘	hian guo
 玁狁	hiam yvn
 玄了	hvan liao
 玄參	hvan shem
@@ -61300,7 +61300,7 @@ use_preset_vocabulary: true
 異地相逢	yi di siang feng
 異常行爲	yi chang hing wei
 異稟	yi bing
-異菸鹼醯酸	yi yan ziam hi suan
+異菸鹼醯酸	yi yan giam hi suan
 異配生殖	yi pei sheng zhii
 異重流	yi zhong liu
 當一天和尚撞一天鐘	dang yi tian he shang zhuang yi tian zhong
@@ -62091,7 +62091,7 @@ use_preset_vocabulary: true
 硜硜	keng keng
 硝煙彈雨	siao yan dan yv
 硤石鎮	hia shii zhen
-硫酸菸鹼	liu suan yan ziam
+硫酸菸鹼	liu suan yan giam
 硬打軟熟和	ying da ruan shou he
 碇泊區	ding bo kv
 碎屑	sui sie
@@ -62277,7 +62277,7 @@ use_preset_vocabulary: true
 禽困覆車	kim kun fu che
 禽困覆車	kim kun fu zv
 禽滑釐	kim gu li
-秀出班行	hiu chu ban hang
+秀出班行	siu chu ban hang
 私了	sii liao
 私人銀行業務	sii ren yin hang ye wu
 私仇	sii chou
@@ -63815,12 +63815,12 @@ use_preset_vocabulary: true
 自體輸血	zii ti shu hve
 臭名昭著	chou ming zhao zhu
 臭味	chou wei
-臭味	siu wei
+臭味	hiu wei
 臭味相投	chou wei siang tou
-臭味相投	siu wei siang tou
+臭味相投	hiu wei siang tou
 臭嚼	chou ziao
 臭短臊長	chou duan sao chang
-臭覺	siu gve
+臭覺	hiu gve
 至樂	zhii le
 至死不降	zhii sii bu hiang
 至行	zhii hing
@@ -64207,8 +64207,8 @@ use_preset_vocabulary: true
 菸酒	yan ziu
 菸酒稅	yan ziu shui
 菸頭	yan tou
-菸鹼	yan ziam
-菸鹼酸	yan ziam suan
+菸鹼	yan giam
+菸鹼酸	yan giam suan
 菹醢	zv hai
 萆薢	bi hie
 萆麻	bi ma
@@ -64659,7 +64659,7 @@ use_preset_vocabulary: true
 蘗米	bo mi
 蘧伯玉	kv bo yv
 蘭橈	lan nao
-蘭臭	lan siu
+蘭臭	lan hiu
 蘭若	lan re
 蘭茝	lan chai
 蘭釭	lan gang
@@ -65415,7 +65415,7 @@ use_preset_vocabulary: true
 裴松之	pei song zhii
 裴特	pei te
 裴矩	pei gv
-裴秀	pei hiu
+裴秀	pei siu
 裴航	pei hang
 裴航遇雲英	pei hang yv yvn ying
 裴萊吉伍斯一世	pei lai gi wu sii yi shii
@@ -66301,7 +66301,7 @@ use_preset_vocabulary: true
 財政部長	cai zheng bu zhang
 財會	cai kuai
 財長	cai zhang
-貢獻率	gong sian lv
+貢獻率	gong hian lv
 貢禹彈冠	gong yv tan guan
 貧嘴薄舌	pin zui bo she
 貧困地區	pin kun di kv
@@ -66389,7 +66389,7 @@ use_preset_vocabulary: true
 賈人渡河	gu ren du he
 賈似道	gia sii dao
 賈儈	gu kuai
-賈儒商秀	gu ru shang hiu
+賈儒商秀	gu ru shang siu
 賈利	gu li
 賈勇	gu yong
 賈客	gu ke
@@ -67919,7 +67919,7 @@ use_preset_vocabulary: true
 重點項目	zhong diam hiang mu
 重點領域	zhong diam ling yv
 野乘	ye sheng
-野人獻曝	ye ren sian pu
+野人獻曝	ye ren hian pu
 野叟曝言	ye sou pu yan
 野地	ye di
 野宿	ye su
@@ -68056,8 +68056,8 @@ use_preset_vocabulary: true
 銅筋鐵肋	tong gin tie le
 銅管樂器	tong guan yve ki
 銅管樂隊	tong guan yve dui
-銅臭	tong siu
-銅臭味	tong siu wei
+銅臭	tong hiu
+銅臭味	tong hiu wei
 銅鈸	tong ba
 銍艾	zhii yi
 銖兩悉稱	zhu liang si chen
@@ -68905,7 +68905,7 @@ use_preset_vocabulary: true
 陸田	lu tian
 陸皓東	lu hao dong
 陸相沉積	lu siang chem zi
-陸秀夫	lu hiu fu
+陸秀夫	lu siu fu
 陸稻	lu dao
 陸緣海	lu yvan hai
 陸績	lu zi
@@ -68978,7 +68978,7 @@ use_preset_vocabulary: true
 隨從	sui zong
 隨時度勢	sui shii duo shii
 隨時隨地	sui shii sui di
-隨珠彈雀	sui zhu tan kve
+隨珠彈雀	sui zhu tan cve
 隨緣樂助	sui yvan le zhu
 隨行	sui hing
 隨行就市	sui hang ziu shii
@@ -69004,10 +69004,10 @@ use_preset_vocabulary: true
 隱血	yin hve
 隱跡藏名	yin zi cang ming
 隴西行	long si hing
-雀瞀	kve mao
-雀角鼠牙	kve giao shu ya
-雀躍	kve yve
-雀鯛	kve diao
+雀瞀	cve mao
+雀角鼠牙	cve giao shu ya
+雀躍	cve yve
+雀鯛	cve diao
 雁行	yan hang
 雁行折翼	yan hang zhe yi
 雁頭鴟勞嘴	yan tou zhii lao zui
@@ -69861,7 +69861,7 @@ use_preset_vocabulary: true
 體液	ti ye
 體癬	ti sian
 體臭	ti chou
-體臭	ti siu
+體臭	ti hiu
 體行	ti hing
 體調	ti diao
 體重	ti zhong
@@ -70030,7 +70030,7 @@ use_preset_vocabulary: true
 鳧葵	fu kui
 鳧藻	fu zao
 鳧趨	fu cv
-鳧趨雀躍	fu cv kve yve
+鳧趨雀躍	fu cv cve yve
 鳧雁	fu yan
 鳧鷖	fu yi
 鳩僭鵲巢	giu ziam cve chao
@@ -70073,7 +70073,7 @@ use_preset_vocabulary: true
 鴨步鵝行	ya bu e hing
 鴨綠江	ya lu giang
 鴨跖草	ya zhii cao
-鴳雀	yan kve
+鴳雀	yan cve
 鴻洞	hong tong
 鴻爪	hong zhao
 鴻爪	hong zhua
@@ -70147,13 +70147,13 @@ use_preset_vocabulary: true
 鹵地	lu di
 鹵簿	lu bu
 鹹潟	hiam si
-鹼地	ziam di
-鹼酐	ziam gan
+鹼地	giam di
+鹼酐	giam gan
 鹽分地帶	yam fen di dai
 鹽打怎麼鹹	yam da zem me hiam
 鹽筴	yam ce
 鹽藏品	yam cang pin
-鹽鹼地	yam ziam di
+鹽鹼地	yam giam di
 鹿柴	lu zhai
 鹿死誰手	lu sii shui shou
 鹿砦	lu zhai
@@ -70244,7 +70244,7 @@ use_preset_vocabulary: true
 黃金地帶	huang gim di dai
 黃鐘長棄	huang zhong chang ki
 黃閣紫樞	huang ge zii shu
-黃雀伺蟬	huang kve sii cham
+黃雀伺蟬	huang cve sii cham
 黃馘	huang hv
 黃鵠	huang hu
 黃麯毒素	huang kv du su
@@ -70309,7 +70309,7 @@ use_preset_vocabulary: true
 鼓腹含哺	gu fu ham bu
 鼓角	gu gve
 鼓鈸	gu ba
-鼠牙雀角	shu ya kve giao
+鼠牙雀角	shu ya cve giao
 鼠蹊	shu hi
 鼠麯草	shu kv cao
 鼩鼱	kv zing
